@@ -10,37 +10,20 @@
     },
     "items": [
         {
-            "id": "https://rey-olson.github.io/blockchainsecurity/ho-lee-fook.html",
-            "url": "https://rey-olson.github.io/blockchainsecurity/ho-lee-fook.html",
-            "title": "The Ethernaut",
-            "summary": "Smart contract security is no easy feat.",
-            "content_html": "<p>Smart contract security is no easy feat.</p>",
-            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/2/hester-qiang-b3NaswrROkI-unsplash.jpg",
+            "id": "https://rey-olson.github.io/blockchainsecurity/3-2-1-jump/",
+            "url": "https://rey-olson.github.io/blockchainsecurity/3-2-1-jump/",
+            "title": "Start here: 3... 2... 1... Jump!",
+            "summary": "WhatWelcome to my blog documenting my learning journey into the \"cryptoverse\", or&hellip;",
+            "content_html": "<h2>What</h2>\n<p>Welcome to my blog documenting my learning journey into the \"cryptoverse\", or the rabbit hole that is <strong>blockchain security</strong>.</p>\n<p>I will focus primarily focus on <strong>security related topics</strong>:</p>\n<ul>\n<li>Blockchain security in general (blockchain or protocol agnostic)</li>\n<li>Smart contract security &amp; audits</li>\n<li>Risks related to decentralized finance (DeFi)</li>\n<li>Ethereum security &amp; Ethereum virtual machine (EVM)</li>\n<li>Etc.</li>\n</ul>\n<p>Please make sure to use the <a href=\"https://rey-olson.github.io/blockchainsecurity/tags/\">tags</a> to filter through the various subjects.</p>\n<blockquote>\n<p><em>The more you know, the more you realize you don't know.</em></p>\n</blockquote>\n<h2>Why</h2>\n<p>There is currently an (extreme) shortage of knowledgeable cyber/IT/information/... security professionals in the job market, and I reckon the shortage with regards to the field of blockchain security is even more burning.</p>\n<p>In the spirit of '<strong>sharing is caring'</strong> I want to spread my (albeit nascent) knowledge of this field, in order to inspire others.</p>\n<p>I hope this blog helps you and others to develop your skills in this increasingly <s>popular</s> <em>hyped</em> field.</p>\n<blockquote>\n<p class=\"quoteText\">“In the land of the blind, the one-eyed man is king.”</p>\n</blockquote>\n<h2><strong>Who</strong></h2>\n<p>I'm an experienced cyber security professional with a fresh interest in everything related to blockchain security.</p>\n<p><a href=\"https://www.linkedin.com/in/rey-olson\" target=\"_blank\" rel=\"noopener noreferrer\">Rey Olson</a> is a pseudonym, hence the 0 connections on LinkedIn 😇. It's <em>probably </em>trivial to trace back this 'alt account' to my real identity, which is totally fine.</p>",
+            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg",
             "author": {
                 "name": "Anonymous"
             },
             "tags": [
-                   "Ethereum",
                    "DeFi"
             ],
-            "date_published": "2021-08-12T11:44:11+02:00",
-            "date_modified": "2021-08-12T13:18:44+02:00"
-        },
-        {
-            "id": "https://rey-olson.github.io/blockchainsecurity/about.html",
-            "url": "https://rey-olson.github.io/blockchainsecurity/about.html",
-            "title": "About this blog",
-            "summary": "All aboard the blockchain hype train.",
-            "content_html": "<p>All aboard the blockchain hype train.</p>",
-            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/1/alice-in-wonderland.jpeg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Blog"
-            ],
-            "date_published": "2021-08-12T11:31:19+02:00",
-            "date_modified": "2021-08-12T16:21:30+02:00"
+            "date_published": "2021-09-27T22:15:20+02:00",
+            "date_modified": "2021-09-29T09:13:04+02:00"
         }
     ]
 }
