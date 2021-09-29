@@ -3,7 +3,7 @@
     <title>Blockchain Security</title>
     <link href="https://rey-olson.github.io/blockchainsecurity/feed.xml" rel="self" />
     <link href="https://rey-olson.github.io/blockchainsecurity" />
-    <updated>2021-09-29T17:02:17+02:00</updated>
+    <updated>2021-09-29T17:18:12+02:00</updated>
     <author>
         <name>Anonymous</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://rey-olson.github.io/blockchainsecurity/3-2-1-jump/</id>
             <category term="Blog"/>
 
-        <updated>2021-09-29T17:02:17+02:00</updated>
+        <updated>2021-09-29T17:18:12+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg" alt="How deep does the rabbit hole go?" />
@@ -44,7 +44,7 @@
 </blockquote>
 <h2>Why</h2>
 <p>There is currently an extreme shortage of knowledgeable security professionals in the job market, and I reckon the shortage with regards to the field of blockchain security is even more burning.</p>
-<p>Since <strong>"sharing is caring"</strong>, I hope to inspire others by sharing my (albeit nascent) knowledge, and information resources I have come across through my searches on the internet. </p>
+<p>Since <strong>"sharing is caring"</strong>, I hope to inspire others by sharing my (albeit nascent) knowledge, and information I have come across through my searches on the internet. </p>
 <p>I hope this blog helps you on your journey 🙏</p>
 <blockquote>
 <p class="quoteText">“In the land of the blind, the one-eyed man is king.”</p>
@@ -52,7 +52,10 @@
 <h2><strong>Who</strong></h2>
 <p>I'm an experienced cyber security professional with a fresh interest in everything related to blockchain security.</p>
 <p><a href="https://www.linkedin.com/in/rey-olson" target="_blank" rel="noopener noreferrer">Rey Olson</a> is a pseudonym, hence the 0 connections on LinkedIn 😇. It's <em>probably </em>trivial to trace back this alt-account to my real identity, which is totally fine.</p>
-<address> </address><address> </address>
+<h6> </h6>
+<h6><span style="color: #7e8c8d;">Acknowledgements</span></h6>
+<p><span style="color: #7e8c8d;">Illustration:</span> <a href="https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance" target="_blank" rel="noopener noreferrer">via The Economist</a></p>
+<address> </address>
             ]]>
         </content>
     </entry>
