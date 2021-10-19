@@ -3,12 +3,93 @@
     <title>Blockchain Security</title>
     <link href="https://rey-olson.github.io/blockchainsecurity/feed.xml" rel="self" />
     <link href="https://rey-olson.github.io/blockchainsecurity" />
-    <updated>2021-09-30T09:12:02+02:00</updated>
+    <updated>2021-10-19T13:11:07+02:00</updated>
     <author>
         <name>Anonymous</name>
     </author>
     <id>https://rey-olson.github.io/blockchainsecurity</id>
 
+    <entry>
+        <title>Introduction to smart contract security and hacking in Ethereum</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/"/>
+        <id>https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2021-10-19T13:10:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/8/daniel-gonzalez-KeiUIl9Lzo4-unsplash-smaller.jpg" alt="" />
+                    Another superb list with resources and complementary educational material to start your&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/8/daniel-gonzalez-KeiUIl9Lzo4-unsplash-smaller.jpg" alt="" />
+                <p>Another superb <a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum" target="_blank" rel="noopener noreferrer">list with resources and complementary educational material</a> to start your journey in security and hacking of smart contracts in Ethereum.</p>
+<p>By <a href="https://twitter.com/tinchoabbate" target="_blank" rel="noopener noreferrer">@tinchoabbate</a>, at this time of writing holds a position as a security reseacher at <a href="https://openzeppelin.com/" target="_blank" rel="noopener noreferrer">OpenZeppelin</a>.</p>
+<p>It is very well structured and contains probably the most important resources in existence today. Needless to say, his personal website <a href="https://www.notonlyowner.com/" target="_blank" rel="noopener noreferrer">NOTONLY.OWNER </a>is a treasure trove as well 🙌. </p>
+<p>Photo by <a href="https://unsplash.com/@overlyawesome?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Daniel Gonzalez</a> on <a href="https://unsplash.com/s/photos/treasure-map?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Best practices for smart contract development</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/"/>
+        <id>https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/</id>
+            <category term="Solidity"/>
+            <category term="Ethereum"/>
+
+        <updated>2021-10-19T13:09:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/7/road-trip-with-raj-o4c2zoVhjSw-unsplash.jpg" alt="" />
+                    Here is Yos Riady's missing guide or his developer handbook for smart&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/7/road-trip-with-raj-o4c2zoVhjSw-unsplash.jpg" alt="" />
+                <p>Here is <a href="https://twitter.com/yosriady" target="_blank" rel="noopener noreferrer">Yos Riady</a>'s missing guide or his <a href="https://yos.io/2019/11/10/smart-contract-development-best-practices/" target="_blank" rel="noopener noreferrer">developer handbook for smart contract development</a> (59 min read). It is chock-full with best practices.👏</p>
+<p>I dig his personal website, check out for example his <a href="https://yos.io/2020/07/31/recently/" target="_blank" rel="noopener noreferrer">periodic retrospectives, called "Recently"</a>.</p>
+<p>Photo by <a href="https://unsplash.com/@roadtripwithraj?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Road Trip with Raj</a> on <a href="https://unsplash.com/s/photos/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Secureum bootcamp for smart contract security auditing</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://rey-olson.github.io/blockchainsecurity/secureum/"/>
+        <id>https://rey-olson.github.io/blockchainsecurity/secureum/</id>
+            <category term="Security"/>
+            <category term="Secureum"/>
+            <category term="Ethereum"/>
+
+        <updated>2021-10-19T13:10:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/6/Secureum.png" alt="" />
+                    Secureum &amp; the bootcamp for smart contract security auditingWhat originally started as&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/6/Secureum.png" alt="" />
+                <h2>Secureum &amp; the bootcamp for smart contract security auditing</h2>
+<p>What originally started as a <a href="https://secureum.substack.com" title="Secureum newsletter" target="_blank" rel="noopener noreferrer">newsletter </a>covering the security of Ethereum by <a href="https://nitter.ggc-project.de/0xRajeev" target="_blank" rel="noopener noreferrer">Rajeev Gopalakrishna</a>, has since evolved into a full-fledged <a href="https://secureum.substack.com/p/secureum-bootcamp-for-smart-contract" target="_blank" rel="noopener noreferrer">bootcamp </a>to educate and onboard security enthusiasts into the field of smart contract security auditing.</p>
+<p>For more information about the bootcamp and its materials (in the spirit on the open-source community, they are freely available!) I invite you to visit the websites behind the links and to join the Secureum on Discord: <a href="https://discord.com/invite/ym8BtcWUY2">https://discord.com/invite/ym8BtcWUY2</a></p>
+<p>I signed up for the <strong>Secureum bootcamp epoch 0 (October - December 2021)</strong> and will post my thoughts on the eight different tracks. You can read these posts here: <a href="https://rey-olson.github.io/blockchainsecurity/tags/secureum/">#Secureum</a><a href="https://rey-olson.github.io/blockchainsecurity/tags/secureum/"></a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>3... 2... 1... Start here!</title>
         <author>
@@ -18,7 +99,7 @@
         <id>https://rey-olson.github.io/blockchainsecurity/3-2-1-jump/</id>
             <category term="Blog"/>
 
-        <updated>2021-09-30T09:12:02+02:00</updated>
+        <updated>2021-10-19T13:11:07+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg" alt="How deep does the rabbit hole go?" />
@@ -52,8 +133,7 @@
 <h2><strong>By whom</strong></h2>
 <p>I'm a pseudonymous, experienced cyber security professional with a fresh interest in everything related to blockchain security.</p>
 <h6> </h6>
-<h6><span style="color: #7e8c8d;">Acknowledgements</span></h6>
-<p><span style="color: #7e8c8d;">Illustration:</span> <a href="https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance" target="_blank" rel="noopener noreferrer">via The Economist</a></p>
+<p><span style="color: #7e8c8d;"><strong>Acknowledgements</strong><br></span><span style="color: #7e8c8d;">Illustration:</span> <a href="https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance" target="_blank" rel="noopener noreferrer">via The Economist</a></p>
 <address> </address>
             ]]>
         </content>
