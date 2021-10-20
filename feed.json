@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-ethereum-101/",
+            "url": "https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-ethereum-101/",
+            "title": "Secureum Bootcamp Part 1: Ethereum 101",
+            "summary": "Content Assignments ",
+            "content_html": "<p><strong>Content</strong></p>\n<ol>\n<li>Article on \"Ethereum 101\": <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e635812573&amp;e=3f67c7be6c\">https://secureum.substack.com/p/ethereum-101</a></li>\n<li>YouTube videos on \"Ethereum 101\":\n<ol>\n<li>Block 1: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=d518b9d113&amp;e=3f67c7be6c\">https://youtu.be/44qhIBMGMoM</a></li>\n<li>Block 2: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e382ad4713&amp;e=3f67c7be6c\">https://youtu.be/zIeBfuXxuWs</a></li>\n<li>Block 3: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=bbdd40a187&amp;e=3f67c7be6c\">https://youtu.be/ltvTIr4K63s</a></li>\n<li>Block 4: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=edb887679e&amp;e=3f67c7be6c\">https://youtu.be/MFoxW07ICKs</a></li>\n<li>Block 5: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=b176aad6fa&amp;e=3f67c7be6c\">https://youtu.be/I-TjCtjDs1M</a></li>\n</ol>\n</li>\n</ol>\n<p><strong>Assignments</strong></p>\n<ol>\n<li>Read the Ethereum whitepaper: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=eeec8e2c0f&amp;e=3f67c7be6c\">https://ethereum.org/en/whitepaper/</a></li>\n<li>Read the Ethereum yellow paper: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=4faaca3300&amp;e=3f67c7be6c\">https://ethereum.github.io/yellowpaper/paper.pdf</a></li>\n<li>Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=28df338d45&amp;e=3f67c7be6c\">https://github.com/ethereumbook/ethereumbook</a> and other references in Secureum’s “Ethereum 101” article</li>\n<li>Browse through topics at <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=335527816d&amp;e=3f67c7be6c\">https://ethereum.org/en/developers/docs/</a></li>\n<li>Explore blocks, transactions and other protocol internals at <a href=\"https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=ec606a6620&amp;e=3f67c7be6c\">https://etherscan.io/</a></li>\n</ol>\n<hr>\n<h3>Thoughts</h3>\n<ul>\n<li>Each YouTube video (Block 1-5) is approx. 1 hour, yikes 😅</li>\n<li>Mastering Ethereum (I hadn't finished the book yet) is a must read, it really explains a lot of complex topics in an understandable manner.</li>\n<li>Ethereum yellow paper is dense, I prefer the Ethereum 'beige paper': <a href=\"https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf\">https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf</a> it is more readable for laymen (such as myself, I have difficulty reading &amp; understanding the mathematical notations from the yellow paper).</li>\n<li>I really liked reading about (albeit it only through a subset of) Ethereum's history. Vitalik's older posts are fascinating and you can see how the founders' original ideas evolved over time. There is much more to read and discover, but it's interesting nevertheless.</li>\n<li>EVM illustrated: <a href=\"https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pd\">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a> is really helpful to visualize <em>a lot</em> of important Ethereum components &amp; concepts.</li>\n</ul>\n<p> </p>",
+            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/9/Secureum-2-2.png",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Secureum"
+            ],
+            "date_published": "2021-10-20T23:34:34+02:00",
+            "date_modified": "2021-10-20T23:34:34+02:00"
+        },
+        {
             "id": "https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/",
             "url": "https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/",
             "title": "Introduction to smart contract security and hacking in Ethereum",
@@ -62,8 +78,8 @@
             "date_modified": "2021-10-19T13:10:29+02:00"
         },
         {
-            "id": "https://rey-olson.github.io/blockchainsecurity/3-2-1-jump/",
-            "url": "https://rey-olson.github.io/blockchainsecurity/3-2-1-jump/",
+            "id": "https://rey-olson.github.io/blockchainsecurity/3-2-1-starthere/",
+            "url": "https://rey-olson.github.io/blockchainsecurity/3-2-1-starthere/",
             "title": "3... 2... 1... Start here!",
             "summary": "WhatWelcome to this blog documenting my learning journey into the \"cryptoverse\", or&hellip;",
             "content_html": "<h2>What</h2>\n<p>Welcome to this blog documenting my learning journey into the \"cryptoverse\", or the rabbit hole that is <strong>blockchain security</strong>.</p>\n<p>I will focus primarily focus on <strong>security related topics</strong>:</p>\n<ul>\n<li>Blockchain security in general (blockchain or protocol agnostic)</li>\n<li>Smart contract security &amp; audits</li>\n<li>Risks related to decentralized finance (DeFi)</li>\n<li>Ethereum security &amp; Ethereum virtual machine (EVM)</li>\n<li>Etc.</li>\n</ul>\n<p>Please make sure to use the <a href=\"https://rey-olson.github.io/blockchainsecurity/tags/\">tags</a> to filter through the various subjects.</p>\n<blockquote>\n<p><em>The more you know, the more you realize you don't know.</em></p>\n</blockquote>\n<h2>Why</h2>\n<p>There is currently an extreme shortage of knowledgeable security professionals in the job market, and I reckon the shortage in the field of blockchain security is even more pressing.</p>\n<p>Since <strong>sharing is caring</strong>, I hope to inspire others with my (albeit nascent) knowledge, and information I have come across through my searches on the internet. </p>\n<p>I hope this blog helps you on your journey 🙏</p>\n<blockquote>\n<p class=\"quoteText\">“In the land of the blind, the one-eyed man is king.”</p>\n</blockquote>\n<h2><strong>By whom</strong></h2>\n<p>I'm a pseudonymous, experienced cyber security professional with a fresh interest in everything related to blockchain security.</p>\n<h6> </h6>\n<p><span style=\"color: #7e8c8d;\"><strong>Acknowledgements</strong><br></span><span style=\"color: #7e8c8d;\">Illustration:</span> <a href=\"https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance\" target=\"_blank\" rel=\"noopener noreferrer\">via The Economist</a></p>\n<address> </address>",
@@ -75,7 +91,7 @@
                    "Blog"
             ],
             "date_published": "2021-09-27T22:15:20+02:00",
-            "date_modified": "2021-10-19T13:11:07+02:00"
+            "date_modified": "2021-10-20T23:31:01+02:00"
         }
     ]
 }

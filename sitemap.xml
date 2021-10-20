@@ -5,8 +5,8 @@
 <loc>https://rey-olson.github.io/blockchainsecurity/</loc>
 </url>
 <url>
-<loc>https://rey-olson.github.io/blockchainsecurity/3-2-1-jump/</loc>
-<lastmod>2021-10-19T13:11:07+02:00</lastmod>
+<loc>https://rey-olson.github.io/blockchainsecurity/3-2-1-starthere/</loc>
+<lastmod>2021-10-20T23:31:01+02:00</lastmod>
 <image:image>
 <image:loc>https://rey-olson.github.io/blockchainsecurity/media\posts\4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg</image:loc>
 <image:title><![CDATA[How deep does the rabbit hole go?]]></image:title>
@@ -33,6 +33,14 @@
 <lastmod>2021-10-19T13:10:29+02:00</lastmod>
 <image:image>
 <image:loc>https://rey-olson.github.io/blockchainsecurity/media\posts\6/Secureum.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-ethereum-101/</loc>
+<lastmod>2021-10-20T23:34:34+02:00</lastmod>
+<image:image>
+<image:loc>https://rey-olson.github.io/blockchainsecurity/media\posts\9/Secureum-2-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
