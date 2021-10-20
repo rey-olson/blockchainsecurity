@@ -14,8 +14,8 @@
             "url": "https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/",
             "title": "Introduction to smart contract security and hacking in Ethereum",
             "summary": "Another superb list with resources and complementary educational material to start your&hellip;",
-            "content_html": "<p>Another superb <a href=\"https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum\" target=\"_blank\" rel=\"noopener noreferrer\">list with resources and complementary educational material</a> to start your journey in security and hacking of smart contracts in Ethereum.</p>\n<p>By <a href=\"https://twitter.com/tinchoabbate\" target=\"_blank\" rel=\"noopener noreferrer\">@tinchoabbate</a>, at this time of writing holds a position as a security reseacher at <a href=\"https://openzeppelin.com/\" target=\"_blank\" rel=\"noopener noreferrer\">OpenZeppelin</a>.</p>\n<p>It is very well structured and contains probably the most important resources in existence today. Needless to say, his personal website <a href=\"https://www.notonlyowner.com/\" target=\"_blank\" rel=\"noopener noreferrer\">NOTONLY.OWNER </a>is a treasure trove as well 🙌. </p>\n<p>Photo by <a href=\"https://unsplash.com/@overlyawesome?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Daniel Gonzalez</a> on <a href=\"https://unsplash.com/s/photos/treasure-map?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>",
-            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/8/daniel-gonzalez-KeiUIl9Lzo4-unsplash-smaller.jpg",
+            "content_html": "<p>Another superb <a href=\"https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum\" target=\"_blank\" rel=\"noopener noreferrer\">list with resources and complementary educational material</a> to start your journey in security and hacking of smart contracts in Ethereum.</p>\n<p>By <a href=\"https://twitter.com/tinchoabbate\" target=\"_blank\" rel=\"noopener noreferrer\">@tinchoabbate</a>, at this time of writing holds a position as a security reseacher at <a href=\"https://openzeppelin.com/\" target=\"_blank\" rel=\"noopener noreferrer\">OpenZeppelin</a>.</p>\n<p>It is very well structured and contains probably the most important resources in existence today. Needless to say, his personal website <a href=\"https://www.notonlyowner.com/\" target=\"_blank\" rel=\"noopener noreferrer\">NOTONLY.OWNER </a>is a treasure trove as well 🙌. </p>\n<p>Photo by <a href=\"https://unsplash.com/@dsmacinnes?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Danielle MacInnes</a> on <a href=\"https://unsplash.com/s/photos/introduction?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>",
+            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/8/danielle-macinnes-IuLgi9PWETU-unsplash.jpg",
             "author": {
                 "name": "Anonymous"
             },
@@ -24,15 +24,15 @@
                    "Ethereum"
             ],
             "date_published": "2021-10-19T12:47:41+02:00",
-            "date_modified": "2021-10-19T13:10:38+02:00"
+            "date_modified": "2021-10-20T22:51:12+02:00"
         },
         {
             "id": "https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/",
             "url": "https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/",
             "title": "Best practices for smart contract development",
-            "summary": "Here is Yos Riady's missing guide or his developer handbook for smart&hellip;",
-            "content_html": "<p>Here is <a href=\"https://twitter.com/yosriady\" target=\"_blank\" rel=\"noopener noreferrer\">Yos Riady</a>'s missing guide or his <a href=\"https://yos.io/2019/11/10/smart-contract-development-best-practices/\" target=\"_blank\" rel=\"noopener noreferrer\">developer handbook for smart contract development</a> (59 min read). It is chock-full with best practices.👏</p>\n<p>I dig his personal website, check out for example his <a href=\"https://yos.io/2020/07/31/recently/\" target=\"_blank\" rel=\"noopener noreferrer\">periodic retrospectives, called \"Recently\"</a>.</p>\n<p>Photo by <a href=\"https://unsplash.com/@roadtripwithraj?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Road Trip with Raj</a> on <a href=\"https://unsplash.com/s/photos/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></p>",
-            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/7/road-trip-with-raj-o4c2zoVhjSw-unsplash.jpg",
+            "summary": "Here is Yos Riady's developer handbook for smart contract development (59 min&hellip;",
+            "content_html": "<p>Here is <a href=\"https://twitter.com/yosriady\" target=\"_blank\" rel=\"noopener noreferrer\">Yos Riady</a>'s <a href=\"https://yos.io/2019/11/10/smart-contract-development-best-practices/\" target=\"_blank\" rel=\"noopener noreferrer\">developer handbook for smart contract development</a> (59 min read). It is chock-full with best practices.👏</p>\n<p>I dig his personal website, check out for example his <a href=\"https://yos.io/2020/07/31/recently/\" target=\"_blank\" rel=\"noopener noreferrer\">periodic retrospectives, called \"Recently\"</a>.</p>\n<p>Photo by <a href=\"https://unsplash.com/@kvncnls?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Kevin Canlas</a> on <a href=\"https://unsplash.com/s/photos/coder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>",
+            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/7/kevin-canlas-QYHehJ9Iovs-unsplash-2.jpg",
             "author": {
                 "name": "Anonymous"
             },
@@ -41,7 +41,7 @@
                    "Ethereum"
             ],
             "date_published": "2021-10-19T12:31:52+02:00",
-            "date_modified": "2021-10-19T13:09:52+02:00"
+            "date_modified": "2021-10-20T23:00:29+02:00"
         },
         {
             "id": "https://rey-olson.github.io/blockchainsecurity/secureum/",
