@@ -3,12 +3,52 @@
     <title>Blockchain Security</title>
     <link href="https://rey-olson.github.io/blockchainsecurity/feed.xml" rel="self" />
     <link href="https://rey-olson.github.io/blockchainsecurity" />
-    <updated>2021-10-21T09:02:54+02:00</updated>
+    <updated>2021-10-22T10:39:30+02:00</updated>
     <author>
         <name>Anonymous</name>
     </author>
     <id>https://rey-olson.github.io/blockchainsecurity</id>
 
+    <entry>
+        <title>Common &#x27;non-blockchain&#x27; security measures still matter</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://rey-olson.github.io/blockchainsecurity/common-cyber-security-still-matters/"/>
+        <id>https://rey-olson.github.io/blockchainsecurity/common-cyber-security-still-matters/</id>
+
+        <updated>2021-10-22T10:39:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/gus-ruballo-4zbEzE87zz4-unsplash-smaller.png" alt="" />
+                    A recent Twitter thread led me to write this post: There are&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/gus-ruballo-4zbEzE87zz4-unsplash-smaller.png" alt="" />
+                <p>A recent <a href="https://twitter.com/mgnr_io/status/1448489251180474368" target="_blank" rel="noopener noreferrer">Twitter thread</a> led me to write this post:</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/mgnr-io-hack.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-xs.png 300w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-sm.png 480w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-md.png 768w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-lg.png 1024w"  alt="" width="809" height="1759">
+<figcaption >Ouch.</figcaption>
+</figure>
+<p>There are alot of these stories circulating that are related to organizations <strong>not following* basic security best practices </strong>(like for example multi-factor authentication):</p>
+<ul>
+<li>
+<p class="title">DeFi Protocol Stake Steak: <a href="https://coinmarketcap.com/headlines/news/defi-hack-alert-stakesteak-lost-nearly-200000-in-an-exploit-heres-what-happened/">https://coinmarketcap.com/headlines/news/defi-hack-alert-stakesteak-lost-nearly-200000-in-an-exploit-heres-what-happened/</a> (leaked private key in public Github repo)</p>
+</li>
+<li>PanCakeSwap: <a href="https://blog.alfa.cash/2021/03/15/defi-pancakeswap-cream-compromised-phishing/">https://blog.alfa.cash/2021/03/15/defi-pancakeswap-cream-compromised-phishing/</a> (DNS hijack due to poor <a href="https://medium.com/cream-finance/postmortem-report-of-dns-hijacking-66ab9c6ce63d" target="_blank" rel="noopener noreferrer">access control</a>)</li>
+<li>etc.</li>
+</ul>
+<p>However fascinating blockchain security specifics** are, you must not forget that all these 'crypto-native' organizations are still <strong>people working with computers</strong>. Yes, I am being overly simplistic, but it's true nevertheless.</p>
+<p>It essentially boils down to this: you should <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">apply these (seemingly legacy) industry best practices such as <a href="https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final" target="_blank" rel="noopener noreferrer">NIST Security and Privacy Controls for Information Systems and Organizations</a>. If you don't, well you know, it's an accident waiting to happen...</span></p>
+<hr>
+<p><em>(*) First of all, it is only human not to do so! I don't follow every best security practice myself (it's the eternal trade-off between convenience and security) but then again I am running a blog. Not a multi-million dollar crypto-operation</em> 😬.</p>
+<p><em>(**) I sometimes get swept away by the insane amount of info that is available with regards to blockchain security. Did you know there is an entire research field dedicated to Miner Extractable Value (MEV): <a href="https://github.com/flashbots/mev-research">https://github.com/flashbots/mev-research</a> </em>🤖?</p>
+<p>Photo by <a href="https://unsplash.com/@gusruballo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Gus Ruballo</a> on <a href="https://unsplash.com/s/photos/fasten-seatbelt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Secureum Bootcamp Part 1: Ethereum 101</title>
         <author>
