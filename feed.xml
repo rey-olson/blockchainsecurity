@@ -50,9 +50,9 @@
 <p class="quoteText">“In the land of the blind, the one-eyed man is king.”</p>
 </blockquote>
 <h2><strong>By whom</strong></h2>
-<p>I'm a pseudonymous, experienced cyber security professional with a fresh interest in everything related to blockchain security.</p>
-<h6> </h6>
-<p><span style="color: #7e8c8d;"><strong>Acknowledgements</strong><br></span><span style="color: #7e8c8d;">Illustration:</span> <a href="https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance" target="_blank" rel="noopener noreferrer">via The Economist</a></p>
+<p>I'm a pseudonymous, experienced <a href="https://www.linkedin.com/in/rey-olson/" target="_blank" rel="noopener noreferrer">cyber security professional</a> with a fresh interest in everything related to blockchain security.</p>
+<hr>
+<p>Illustration by Justin Metz/Alamy via <a href="https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance">The Economist</a>.</p>
 <address> </address>
             ]]>
         </content>
@@ -159,7 +159,52 @@
         </content>
     </entry>
     <entry>
-        <title>Common &#x27;non-blockchain&#x27; security measures still matter</title>
+        <title>Mastering Ethereum</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://rey-olson.github.io/blockchainsecurity/mastering-ethereum/"/>
+        <id>https://rey-olson.github.io/blockchainsecurity/mastering-ethereum/</id>
+            <category term="Ethereum"/>
+
+        <updated>2021-10-27T10:35:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/14/mastering-ethereum-cover.png" alt="" />
+                    Mastering Ethereum is the de facto standard / best book explaining how&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/14/mastering-ethereum-cover.png" alt="" />
+                <p><strong>Mastering Ethereum</strong> is the de facto standard / best book explaining how Ethereum works. It is written by Andreas M. Antonopoulos, <a href="https://gavwood.com/" target="_blank" rel="noopener noreferrer">Gavin Wood</a> (also author of the <a href="https://polkadot.network/" target="_blank" rel="noopener noreferrer">Polkadot </a>whitepaper &amp; blockchain) and is free for everyone to read online: <a href="https://github.com/ethereumbook/ethereumbook">https://github.com/ethereumbook/ethereumbook</a> </p>
+<h2>Chapters</h2>
+<ul>
+<li>Preface: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/preface.asciidoc">Preface</a>'</li>
+<li>Chapter 1: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc">What Is Ethereum</a>'</li>
+<li>Chapter 2: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc">Ethereum Basics</a>'</li>
+<li>Chapter 3: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc">Ethereum Clients</a>'</li>
+<li>Chapter 4: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc">Cryptography</a>'</li>
+<li>Chapter 5: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc">Wallets</a>'</li>
+<li>Chapter 6: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc">Transactions</a>'</li>
+<li>Chapter 7: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc">Smart Contracts and Solidity</a>'</li>
+<li>Chapter 8: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc">Smart Contracts and Vyper</a>'</li>
+<li>Chapter 9: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc">Smart Contract Security</a>'</li>
+<li>Chapter 10: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc">Tokens</a>'</li>
+<li>Chapter 11: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/11oracles.asciidoc">Oracles</a>'</li>
+<li>Chapter 12: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc">Decentralized Applications (DApps)</a>'</li>
+<li>Chapter 13: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc">The Ethereum Virtual Machine</a>'</li>
+<li>Chapter 14: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc">Consensus</a>'</li>
+</ul>
+<hr>
+<p><strong>Andreas M. Antonopoulos</strong> has tons of online resources (books, videos, workshops, ...) to learn about blockchain: <a href="https://aantonop.com/">https://aantonop.com/</a>.</p>
+<p>I actually started out my blockchain journey during the pandemic 😷 with his free <a href="https://aantonop.com/educational-videos/" target="_blank" rel="noopener noreferrer">video series about Bitcoin</a> on YouTube.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Non-blockchain security measures still matter</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -168,16 +213,16 @@
             <category term="Security"/>
             <category term="Ethereum"/>
 
-        <updated>2021-10-27T09:17:53+02:00</updated>
+        <updated>2021-10-27T10:58:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/gus-ruballo-4zbEzE87zz4-unsplash-smaller.png" alt="" />
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
                     A recent Twitter thread led me to write this post: There are&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/gus-ruballo-4zbEzE87zz4-unsplash-smaller.png" alt="" />
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
                 <p>A recent <a href="https://twitter.com/mgnr_io/status/1448489251180474368" target="_blank" rel="noopener noreferrer">Twitter thread</a> led me to write this post:</p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/mgnr-io-hack.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-xs.png 300w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-sm.png 480w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-md.png 768w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-lg.png 1024w"  alt="" width="809" height="1759">
 <figcaption >Ouch.</figcaption>
@@ -195,7 +240,7 @@
 <hr>
 <p><em>(*) First of all, it is only human not to do so! I don't follow every best security practice myself (it's the eternal trade-off between convenience and security) but then again I am running a blog. Not a multi-million dollar crypto-operation</em> 😬.</p>
 <p><em>(**) I sometimes get swept away by the insane amount of info that is available with regards to blockchain security. Did you know there is an entire research field dedicated to Miner Extractable Value (MEV): <a href="https://github.com/flashbots/mev-research">https://github.com/flashbots/mev-research</a> </em>🤖?</p>
-<p>Photo by <a href="https://unsplash.com/@gusruballo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Gus Ruballo</a> on <a href="https://unsplash.com/s/photos/fasten-seatbelt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+<p>Photo by <a href="https://unsplash.com/@matthewwaring?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matthew Waring</a> on <a href="https://unsplash.com/s/photos/safety?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
 <p> </p>
             ]]>
         </content>
