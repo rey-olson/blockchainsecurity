@@ -67,11 +67,11 @@
             <category term="Solidity"/>
             <category term="Secureum"/>
 
-        <updated>2021-10-27T09:37:12+02:00</updated>
+        <updated>2021-10-29T15:16:52+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/13/Secureum-2.png" alt="" />
-                    Content Assignments &lt;coming up&gt; 
+                    Content Assignments Oof, I failed this part / quiz terribly (Solidity 101's&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -99,11 +99,15 @@
 <li>Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=ad33611816&amp;e=3f67c7be6c">https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core</a></li>
 </ol>
 <hr>
-<h3>Thoughts</h3>
-<p>&lt;coming up&gt;</p>
-<div class="post__iframe"><iframe loading="lazy" width="434" height="480" src="https://giphy.com/embed/APqEbxBsVlkWSuFpth" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+<h3>Thoughts ("all aboard the fail train")</h3>
 <p> </p>
 <div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/gnFgmyqO6rRMYSxrGc" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+<ul>
+<li>Oof, I failed this part / quiz terribly (<a href="https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-solidity-101/">Solidity 101</a>'s quiz was only slightly better, but still bad enough to not pass the 50% grade ✍).</li>
+<li>In the meanwhile, I can admit that I am only a Solidity novice, and if I am to improve, I will need to get my hands dirty and <strong>START CODING</strong>. Theory is all fine, but alas, there is no substitute for practice 💻.</li>
+<li>Someone quit the bootcamp saying the format &amp; quizzes are just not his cup of tea (i.e. a weekly list with approx. 101 items to cram + the quizzes seem to only be there to triage participant for the audit phase in December).</li>
+<li>I understand his point of view, plus, even though this bootcamp is open to anyone, it is not <em>very </em>reasonable to expect people without prior Computer Science training or coding experience to get up to speed with a entire programming language (plus all its ins and outs, or idiosyncrasies). Plus, you need to be able to do so with only a couple of hours per week 🤔</li>
+</ul>
             ]]>
         </content>
     </entry>
