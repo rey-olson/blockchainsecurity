@@ -93,6 +93,23 @@
             "date_modified": "2021-10-27T10:58:56+02:00"
         },
         {
+            "id": "https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/",
+            "url": "https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/",
+            "title": "Best practices for smart contract development",
+            "summary": "Here is Yos Riady's developer handbook for smart contract development (59 min&hellip;",
+            "content_html": "<p>Here is <a href=\"https://twitter.com/yosriady\" target=\"_blank\" rel=\"noopener noreferrer\">Yos Riady</a>'s <a href=\"https://yos.io/2019/11/10/smart-contract-development-best-practices/\" target=\"_blank\" rel=\"noopener noreferrer\">developer handbook for smart contract development</a> (59 min read). It is chock-full with best practices.👏</p>\n<p>I dig his personal website, check out for example his <a href=\"https://yos.io/2020/07/31/recently/\" target=\"_blank\" rel=\"noopener noreferrer\">periodic retrospectives, called \"Recently\"</a>.</p>\n<p>Screenshot by <a href=\"https://consensys.net/diligence/blog/2019/03/all-ethereum-security-tools/\">ConsenSys</a>.</p>",
+            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/7/visual-auditor-screenshot.png",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Solidity",
+                   "Ethereum"
+            ],
+            "date_published": "2021-10-22T09:56:00+02:00",
+            "date_modified": "2021-10-29T12:07:34+02:00"
+        },
+        {
             "id": "https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-ethereum-101/",
             "url": "https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-ethereum-101/",
             "title": "Secureum Bootcamp Part 1: Ethereum 101",
@@ -125,23 +142,6 @@
             ],
             "date_published": "2021-10-19T12:47:41+02:00",
             "date_modified": "2021-10-20T22:51:12+02:00"
-        },
-        {
-            "id": "https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/",
-            "url": "https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/",
-            "title": "Best practices for smart contract development",
-            "summary": "Here is Yos Riady's developer handbook for smart contract development (59 min&hellip;",
-            "content_html": "<p>Here is <a href=\"https://twitter.com/yosriady\" target=\"_blank\" rel=\"noopener noreferrer\">Yos Riady</a>'s <a href=\"https://yos.io/2019/11/10/smart-contract-development-best-practices/\" target=\"_blank\" rel=\"noopener noreferrer\">developer handbook for smart contract development</a> (59 min read). It is chock-full with best practices.👏</p>\n<p>I dig his personal website, check out for example his <a href=\"https://yos.io/2020/07/31/recently/\" target=\"_blank\" rel=\"noopener noreferrer\">periodic retrospectives, called \"Recently\"</a>.</p>\n<p>Photo by <a href=\"https://unsplash.com/@kvncnls?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Kevin Canlas</a> on <a href=\"https://unsplash.com/s/photos/coder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>",
-            "image": "https://rey-olson.github.io/blockchainsecurity/media/posts/7/kevin-canlas-QYHehJ9Iovs-unsplash-2.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Solidity",
-                   "Ethereum"
-            ],
-            "date_published": "2021-10-19T12:31:52+02:00",
-            "date_modified": "2021-10-20T23:00:29+02:00"
         },
         {
             "id": "https://rey-olson.github.io/blockchainsecurity/secureum/",
