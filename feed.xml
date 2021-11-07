@@ -58,6 +58,106 @@
         </content>
     </entry>
     <entry>
+        <title>Secureum Part 6: Audit Techniques &amp; Tools 101</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-part-6-audit-techniques-and-tools-101/"/>
+        <id>https://rey-olson.github.io/blockchainsecurity/secureum-part-6-audit-techniques-and-tools-101/</id>
+            <category term="Secureum"/>
+
+        <updated>2021-11-07T19:47:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/20/Secureum-2.png" alt="" />
+                    Content Assignments 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/20/Secureum-2.png" alt="" />
+                <p><strong>Content</strong></p>
+<ol>
+<li>Article on "Audit Techniques &amp; Tools 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=0642e605d1&amp;e=3f67c7be6c">https://secureum.substack.com/p/audit-techniques-and-tools-101</a></li>
+<li>YouTube videos on "Audit Techniques &amp; Tools 101":
+<ol>
+<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=16258c9cb3&amp;e=3f67c7be6c">https://youtu.be/M0C7z3TE5Go</a></li>
+<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9e46c6ae31&amp;e=3f67c7be6c">https://youtu.be/QstpNY1IuqM</a></li>
+<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=508bc8b18c&amp;e=3f67c7be6c">https://youtu.be/QmD2bJUe140</a></li>
+<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=7f7b166d41&amp;e=3f67c7be6c">https://youtu.be/jZ81ebDJVe0</a></li>
+<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=4f8faf715f&amp;e=3f67c7be6c">https://youtu.be/dgITqd3mkDk</a></li>
+</ol>
+</li>
+</ol>
+<p><strong>Assignments</strong></p>
+<ol>
+<li>Read:
+<ol>
+<li><a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=146fae009e&amp;e=3f67c7be6c">How to Prepare for a Smart Contract Audit</a></li>
+<li><a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=00ff46095f&amp;e=3f67c7be6c">What is a Security Audit, When You Should Get One, and How to Prepare</a></li>
+<li><a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=36e27bae14&amp;e=3f67c7be6c">246 Findings From our Smart Contract Audits: An Executive Summary</a></li>
+</ol>
+</li>
+<li>Run MythX (Use promotion code: SECUREUM2021) on Fei Protocol contracts and analyze the reported findings: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9163adfae1&amp;e=3f67c7be6c">https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts</a></li>
+<li>Run Slither on Uniswap V3 contracts and analyze the reported findings: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e9dd11b315&amp;e=3f67c7be6c">https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts</a></li>
+<li>Watch “The Evolution of Smart Contract Security” by Dan Guido, Trail of Bits: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=c056989c7b&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=fOkQuNzVn_Q</a></li>
+<li>Attempt Paradigm CTF: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=487bbf380e&amp;e=3f67c7be6c">https://github.com/paradigm-operations/paradigm-ctf-2021</a></li>
+</ol>
+<hr>
+<h3>Thoughts</h3>
+<div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/42ECp2Or01Y3xDHM2u" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Secureum Part 5: Security Pitfalls &amp; Best Practices 201</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-part-5-security-pitfalls-and-best-practices-201/"/>
+        <id>https://rey-olson.github.io/blockchainsecurity/secureum-part-5-security-pitfalls-and-best-practices-201/</id>
+            <category term="Secureum"/>
+
+        <updated>2021-11-07T19:46:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/19/Secureum-2.png" alt="" />
+                    Content Assignments 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/19/Secureum-2.png" alt="" />
+                <p><strong>Content</strong></p>
+<ol>
+<li>Article on "Security Pitfalls &amp; Best Practices 201": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9353f7111b&amp;e=3f67c7be6c">https://secureum.substack.com/p/security-pitfalls-and-best-practices-201</a></li>
+<li>YouTube videos on "Security Pitfalls &amp; Best Practices 201":
+<ol>
+<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=86309dca55&amp;e=3f67c7be6c">https://youtu.be/WGM1SF8twmw</a></li>
+<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a4904cf58e&amp;e=3f67c7be6c">https://youtu.be/HqHo1jKUnmU</a></li>
+<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a799b01200&amp;e=3f67c7be6c">https://youtu.be/pXoEIjHupXk</a></li>
+<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=62d6010734&amp;e=3f67c7be6c">https://youtu.be/IVbEIbIpWUY</a></li>
+<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=b120ba0599&amp;e=3f67c7be6c">https://youtu.be/QSsfkmcdbPw</a></li>
+</ol>
+</li>
+</ol>
+<p><strong>Assignments</strong></p>
+<ol>
+<li>Read <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=26e9b28e01&amp;e=3f67c7be6c">https://samczsun.com/so-you-want-to-use-a-price-oracle/</a> and <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a3ff0be448&amp;e=3f67c7be6c">https://samczsun.com/the-dangers-of-surprising-code/</a></li>
+<li>Watch “Security By Design &amp; Smart Contract Audits” by Shayan Eskandari, Ex-ConsenSys Diligence: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=2886146056&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=gfD1KBtLWZI</a></li>
+<li>Watch “How to Build Secure Smart Contracts” by Josselin Feist, Trail of Bits: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=cf65dc218a&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=yP01yH4plT8</a></li>
+<li>Watch “White Hat Panel: DeFi Exploits”: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=d2704ab0d0&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=Df2zzfoTfMc</a></li>
+<li>Attempt CTF: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=431c0eda52&amp;e=3f67c7be6c">https://www.damnvulnerabledefi.xyz/</a></li>
+</ol>
+<hr>
+<h3>Thoughts</h3>
+<div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/32mC2kXYWCsg0" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Ethereum EVM illustrated</title>
         <author>
             <name>Anonymous</name>
@@ -184,11 +284,11 @@
         <id>https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/</id>
             <category term="Secureum"/>
 
-        <updated>2021-10-30T10:38:06+02:00</updated>
+        <updated>2021-11-07T19:54:29+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/12/Secureum-2.png" alt="" />
-                    Content Assignments &lt;coming up&gt;
+                    Content AssignmentsExplore the SWC Registry list and test cases: https://swcregistry.io/Watch “Intro to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -217,8 +317,9 @@
 </ol>
 <hr>
 <h3>Thoughts</h3>
-<p>&lt;coming up&gt;</p>
-<div class="post__iframe"><iframe loading="lazy" width="480" height="480" src="https://giphy.com/embed/3o7WItuMIcwlVcdSvK" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+<ul>
+<li>Update on 7 November 2021, the evening at the deadline before the quiz for this part closes. I'm really having trouble to set aside enough hours to study (read the articles, watch the video's, do the assignments, ...). Family life is quite consuming (and takes priority 😅) i.e. I only have a couple of hours available in the evenings (and then not even every day / night), so it's pretty hard. Anyway, let's keep going at it!<br><br><div class="post__iframe"><iframe loading="lazy" width="480" height="261" src="https://giphy.com/embed/wSCAy1zJbcUG4" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div></li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -409,86 +510,6 @@
 <p><em>(*) First of all, it is only human not to do so! I don't follow every best security practice myself (it's the eternal trade-off between convenience and security) but then again I am running a blog. Not a multi-million dollar crypto-operation</em> 😬.</p>
 <p><em>(**) I sometimes get swept away by the insane amount of info that is available with regards to blockchain security. Did you know there is an entire research field dedicated to Miner Extractable Value (MEV): <a href="https://github.com/flashbots/mev-research">https://github.com/flashbots/mev-research</a> </em>🤖?</p>
 <p>Photo by <a href="https://unsplash.com/@matthewwaring?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matthew Waring</a> on <a href="https://unsplash.com/s/photos/safety?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Best practices for smart contract development</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/best-practices-for-smart-contract-development/</id>
-            <category term="Solidity"/>
-            <category term="Ethereum"/>
-
-        <updated>2021-10-29T12:07:34+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/7/visual-auditor-screenshot.png" alt="" />
-                    Here is Yos Riady's developer handbook for smart contract development (59 min&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/7/visual-auditor-screenshot.png" alt="" />
-                <p>Here is <a href="https://twitter.com/yosriady" target="_blank" rel="noopener noreferrer">Yos Riady</a>'s <a href="https://yos.io/2019/11/10/smart-contract-development-best-practices/" target="_blank" rel="noopener noreferrer">developer handbook for smart contract development</a> (59 min read). It is chock-full with best practices.👏</p>
-<p>I dig his personal website, check out for example his <a href="https://yos.io/2020/07/31/recently/" target="_blank" rel="noopener noreferrer">periodic retrospectives, called "Recently"</a>.</p>
-<p>Screenshot by <a href="https://consensys.net/diligence/blog/2019/03/all-ethereum-security-tools/">ConsenSys</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Secureum Bootcamp Part 1: Ethereum 101</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-ethereum-101/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-ethereum-101/</id>
-            <category term="Secureum"/>
-            <category term="Ethereum"/>
-
-        <updated>2021-10-27T09:17:07+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/9/Secureum-2-2.png" alt="" />
-                    Content Assignments 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/9/Secureum-2-2.png" alt="" />
-                <p><strong>Content</strong></p>
-<ol>
-<li>Article on "Ethereum 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e635812573&amp;e=3f67c7be6c">https://secureum.substack.com/p/ethereum-101</a></li>
-<li>YouTube videos on "Ethereum 101":
-<ol>
-<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=d518b9d113&amp;e=3f67c7be6c">https://youtu.be/44qhIBMGMoM</a></li>
-<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e382ad4713&amp;e=3f67c7be6c">https://youtu.be/zIeBfuXxuWs</a></li>
-<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=bbdd40a187&amp;e=3f67c7be6c">https://youtu.be/ltvTIr4K63s</a></li>
-<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=edb887679e&amp;e=3f67c7be6c">https://youtu.be/MFoxW07ICKs</a></li>
-<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=b176aad6fa&amp;e=3f67c7be6c">https://youtu.be/I-TjCtjDs1M</a></li>
-</ol>
-</li>
-</ol>
-<p><strong>Assignments</strong></p>
-<ol>
-<li>Read the Ethereum whitepaper: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=eeec8e2c0f&amp;e=3f67c7be6c">https://ethereum.org/en/whitepaper/</a></li>
-<li>Read the Ethereum yellow paper: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=4faaca3300&amp;e=3f67c7be6c">https://ethereum.github.io/yellowpaper/paper.pdf</a></li>
-<li>Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=28df338d45&amp;e=3f67c7be6c">https://github.com/ethereumbook/ethereumbook</a> and other references in Secureum’s “Ethereum 101” article</li>
-<li>Browse through topics at <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=335527816d&amp;e=3f67c7be6c">https://ethereum.org/en/developers/docs/</a></li>
-<li>Explore blocks, transactions and other protocol internals at <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=ec606a6620&amp;e=3f67c7be6c">https://etherscan.io/</a></li>
-</ol>
-<hr>
-<h3>Thoughts</h3>
-<ul>
-<li>Each YouTube video (Block 1-5) is approx. 1 hour, yikes 😅</li>
-<li>Mastering Ethereum (I hadn't finished the book yet) is a must read, it really explains a lot of complex topics in an understandable manner.</li>
-<li>Ethereum yellow paper is dense, I prefer the Ethereum 'beige paper': <a href="https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf">https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf</a> it is more readable for laymen (such as myself, I have difficulty reading &amp; understanding the mathematical notations from the yellow paper).</li>
-<li>I really liked reading about (albeit it only through a subset of) Ethereum's history: <a href="https://vitalik.ca/general/2017/09/14/prehistory.html">https://vitalik.ca/general/2017/09/14/prehistory.html</a>. Vitalik's older posts are fascinating and you can see how the founders' original ideas evolved over time. There is much more to read and discover, but it's interesting nevertheless.</li>
-<li>EVM illustrated: <a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pd">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a> is really helpful to visualize <em>a lot</em> of important Ethereum components &amp; concepts.</li>
-</ul>
 <p> </p>
             ]]>
         </content>
