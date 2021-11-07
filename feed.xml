@@ -194,7 +194,7 @@
         <id>https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/</id>
             <category term="Blog"/>
 
-        <updated>2021-11-07T19:56:57+01:00</updated>
+        <updated>2021-11-07T20:03:41+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
@@ -260,6 +260,7 @@
 <li><a href="https://yacademy.substack.com/p/yacademy-newsletter-1">https://yacademy.substack.com/p/yacademy-newsletter-1</a> </li>
 <li><a href="https://swcregistry.io/">https://swcregistry.io/</a> </li>
 <li><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a>  + <a href="https://twitter.com/samczsun/status/1451236190917701636">https://twitter.com/samczsun/status/1451236190917701636</a>  <br><br></li>
+<li><a href="https://github.com/KadenZipfel/smart-contract-attack-vectors">https://github.com/KadenZipfel/smart-contract-attack-vectors</a> </li>
 </ul>
 <div><strong>EVM </strong></div>
 <ul>
@@ -482,16 +483,16 @@
             <category term="Security"/>
             <category term="Ethereum"/>
 
-        <updated>2021-11-07T16:53:43+01:00</updated>
+        <updated>2021-11-07T21:27:15+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/11/markus-spiske-6pflEeSzGUo-unsplash1.jpg" alt="" />
                     A recent Twitter thread led me to write this post: There are&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/11/markus-spiske-6pflEeSzGUo-unsplash1.jpg" alt="" />
                 <p>A recent <a href="https://twitter.com/mgnr_io/status/1448489251180474368" target="_blank" rel="noopener noreferrer">Twitter thread</a> led me to write this post:</p>
 <figure class="post__image post__image--center" ><img loading="lazy" src="https://blockchainsecurity.be/media/posts/11/mgnr-io-hack.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-xs.png 300w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-sm.png 480w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-md.png 768w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-lg.png 1024w"  alt="" width="809" height="1759">
 <figcaption >Ouch.</figcaption>
@@ -509,7 +510,7 @@
 <hr>
 <p><em>(*) First of all, it is only human not to do so! I don't follow every best security practice myself (it's the eternal trade-off between convenience and security) but then again I am running a blog. Not a multi-million dollar crypto-operation</em> 😬.</p>
 <p><em>(**) I sometimes get swept away by the insane amount of info that is available with regards to blockchain security. Did you know there is an entire research field dedicated to Miner Extractable Value (MEV): <a href="https://github.com/flashbots/mev-research">https://github.com/flashbots/mev-research</a> </em>🤖?</p>
-<p>Photo by <a href="https://unsplash.com/@matthewwaring?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matthew Waring</a> on <a href="https://unsplash.com/s/photos/safety?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+<p>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/error-code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
 <p> </p>
             ]]>
         </content>
