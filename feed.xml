@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Blockchain Security</title>
-    <link href="https://rey-olson.github.io/blockchainsecurity/feed.xml" rel="self" />
-    <link href="https://rey-olson.github.io/blockchainsecurity" />
+    <link href="https://blockchainsecurity.be/feed.xml" rel="self" />
+    <link href="https://blockchainsecurity.be" />
     <updated>4321-01-01T00:00:00+01:00</updated>
     <author>
         <name>Anonymous</name>
     </author>
-    <id>https://rey-olson.github.io/blockchainsecurity</id>
+    <id>https://blockchainsecurity.be</id>
 
     <entry>
         <title>3... 2... 1... Start here!</title>
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/3-2-1-starthere/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/3-2-1-starthere/</id>
+        <link href="https://blockchainsecurity.be/3-2-1-starthere/"/>
+        <id>https://blockchainsecurity.be/3-2-1-starthere/</id>
             <category term="Blog"/>
 
         <updated>4321-01-01T00:00:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg" alt="How deep does the rabbit hole go?" />
+                        <img src="https://blockchainsecurity.be/media/posts/4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg" alt="How deep does the rabbit hole go?" />
                     WhatWelcome to this blog documenting my learning journey into the "cryptoverse", or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg" alt="How deep does the rabbit hole go?" />
+                    <img src="https://blockchainsecurity.be/media/posts/4/The-Economist-Down-the-DeFi-Rabbit-Hole-no-logo.jpeg" alt="How deep does the rabbit hole go?" />
                 <h2>What</h2>
 <p>Welcome to this blog documenting my learning journey into the "cryptoverse", or the rabbit hole that is <strong>blockchain security</strong>.</p>
 <p>I will focus primarily on:</p>
@@ -38,7 +38,7 @@
 <li>Ethereum security &amp; Ethereum virtual machine (EVM)</li>
 <li>Etc.</li>
 </ul>
-<p>Please make sure to use the <a href="https://rey-olson.github.io/blockchainsecurity/tags/">tags</a> to filter through the various subjects.</p>
+<p>Please make sure to use the <a href="https://blockchainsecurity.be/tags/">tags</a> to filter through the various subjects.</p>
 <blockquote>
 <p><em>The more you know, the more you realize you don't know.</em></p>
 </blockquote>
@@ -50,7 +50,7 @@
 <p class="quoteText">“In the land of the blind, the one-eyed man is king.”</p>
 </blockquote>
 <h2><strong>By whom</strong></h2>
-<p>Hello, I'm <a href="https://rey-olson.github.io/blockchainsecurity/about-2/">Rey Olson</a>! Pleased to meet you 👋</p>
+<p>Hello, I'm <a href="https://blockchainsecurity.be/about-2/">Rey Olson</a>! Pleased to meet you 👋</p>
 <hr>
 <p>Illustration by Justin Metz/Alamy via <a href="https://www.economist.com/leaders/2021/09/18/the-beguiling-promise-of-decentralised-finance">The Economist</a>.</p>
 <address> </address>
@@ -62,20 +62,20 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-part-6-audit-techniques-and-tools-101/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/secureum-part-6-audit-techniques-and-tools-101/</id>
+        <link href="https://blockchainsecurity.be/secureum-part-6-audit-techniques-and-tools-101/"/>
+        <id>https://blockchainsecurity.be/secureum-part-6-audit-techniques-and-tools-101/</id>
             <category term="Secureum"/>
 
         <updated>2021-11-07T19:47:02+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/20/Secureum-2.png" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/20/Secureum-2.png" alt="" />
                     Content Assignments 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/20/Secureum-2.png" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/20/Secureum-2.png" alt="" />
                 <p><strong>Content</strong></p>
 <ol>
 <li>Article on "Audit Techniques &amp; Tools 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=0642e605d1&amp;e=3f67c7be6c">https://secureum.substack.com/p/audit-techniques-and-tools-101</a></li>
@@ -115,20 +115,20 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-part-5-security-pitfalls-and-best-practices-201/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/secureum-part-5-security-pitfalls-and-best-practices-201/</id>
+        <link href="https://blockchainsecurity.be/secureum-part-5-security-pitfalls-and-best-practices-201/"/>
+        <id>https://blockchainsecurity.be/secureum-part-5-security-pitfalls-and-best-practices-201/</id>
             <category term="Secureum"/>
 
         <updated>2021-11-07T19:46:21+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/19/Secureum-2.png" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/19/Secureum-2.png" alt="" />
                     Content Assignments 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/19/Secureum-2.png" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/19/Secureum-2.png" alt="" />
                 <p><strong>Content</strong></p>
 <ol>
 <li>Article on "Security Pitfalls &amp; Best Practices 201": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9353f7111b&amp;e=3f67c7be6c">https://secureum.substack.com/p/security-pitfalls-and-best-practices-201</a></li>
@@ -162,23 +162,23 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/ethereum-evm-illustrated/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/ethereum-evm-illustrated/</id>
+        <link href="https://blockchainsecurity.be/ethereum-evm-illustrated/"/>
+        <id>https://blockchainsecurity.be/ethereum-evm-illustrated/</id>
             <category term="Ethereum"/>
 
         <updated>2021-11-07T17:27:23+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/18/reshot-illustration-cryptocurrency-excange-9YANC6VLQE.png" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/18/reshot-illustration-cryptocurrency-excange-9YANC6VLQE.png" alt="" />
                     The book Mastering Ethereum does a great job explaining most important Ethereum&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/18/reshot-illustration-cryptocurrency-excange-9YANC6VLQE.png" alt="" />
-                <p>The book <a href="https://rey-olson.github.io/blockchainsecurity/mastering-ethereum/">Mastering Ethereum</a> does a great job explaining most important Ethereum aspects, but it often helps to have a 'visual aid' to truly understand how things work.</p>
+                    <img src="https://blockchainsecurity.be/media/posts/18/reshot-illustration-cryptocurrency-excange-9YANC6VLQE.png" alt="" />
+                <p>The book <a href="https://blockchainsecurity.be/mastering-ethereum/">Mastering Ethereum</a> does a great job explaining most important Ethereum aspects, but it often helps to have a 'visual aid' to truly understand how things work.</p>
 <p>Enter <a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">Ethereum EVM illustrated</a>, a document dating back to 2018 that really helps you understand most of these abstract concepts:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rey-olson.github.io/blockchainsecurity/media/posts/18/evm_illustrated.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rey-olson.github.io/blockchainsecurity/media/posts/18/responsive/evm_illustrated-xs.png 300w ,https://rey-olson.github.io/blockchainsecurity/media/posts/18/responsive/evm_illustrated-sm.png 480w ,https://rey-olson.github.io/blockchainsecurity/media/posts/18/responsive/evm_illustrated-md.png 768w ,https://rey-olson.github.io/blockchainsecurity/media/posts/18/responsive/evm_illustrated-lg.png 1024w"  alt="" width="750" height="556"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blockchainsecurity.be/media/posts/18/evm_illustrated.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-xs.png 300w ,https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-sm.png 480w ,https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-md.png 768w ,https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-lg.png 1024w"  alt="" width="750" height="556"></figure>
 <p>For additional reading, see also: <a href="https://ethereum.org/en/developers/docs/evm/#top">https://ethereum.org/en/developers/docs/evm/</a> &amp; especially the section <a href="https://ethereum.org/en/developers/docs/evm/#further-reading">#further-reading</a> 📕<br><br></p>
 <hr>
 <p>Illustration by <a title="Envato Elements" rel="sponsored noopener noreferrer" target="_blank" href="https://elements.envato.com/user/alexdndz?utm_source=reshot&amp;utm_medium=referral&amp;utm_campaign=elements_reshot_illustration_item_page" class="illustrations-item-page__contributor" data-controller="elements--link" data-elements--link-campaign-value="elements_reshot_illustration_item_page" data-elements--link-uri-value="https://elements.envato.com/user/alexdndz" data-action="click-&gt;elements--link#logClickEvent">@alexdndz </a>on Reshot</p>
@@ -190,25 +190,25 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/everyone-is-winging-it-all-the-time/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/everyone-is-winging-it-all-the-time/</id>
+        <link href="https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/"/>
+        <id>https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/</id>
             <category term="Blog"/>
 
-        <updated>2021-11-07T17:28:41+01:00</updated>
+        <updated>2021-11-07T19:56:57+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
                     I probably suffer a tiny bit from imposter syndrome, so I find&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
                 <p>I probably suffer a tiny bit from <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">imposter syndrome</a>, so I find it hard to commit myself to consistently write articles (however minimal they might even be) for this blog. But then again: <strong>sucking at something is the first step to being sort of good at something</strong>. So here it goes, below you can find the list of resources I have come across on my adventures on the world wide web.</p>
 <p>Some of these links I can already scratch from the list ✔️😊.</p>
 <p>I am still thinking about:</p>
 <ol>
-<li>How to best structure posts. One aspect is that alot of these resources are also on other's guides (e.g. see <a href="https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/"></a><a href="https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/">Introduction to smart contract security and hacking</a>), but I don't think it's a big issue. Each of these items is worthy of a blog post, as there is alot of content to cover.</li>
+<li>How to best structure posts. One aspect is that alot of these resources are also on other's guides (e.g. see <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/"></a><a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/">Introduction to smart contract security and hacking</a>), but I don't think it's a big issue. Each of these items is worthy of a blog post, as there is alot of content to cover.</li>
 <li>I reckon the Publii theme I've chosen is not the most sensible one for blogging, but I'll see how it goes... 🙈</li>
 </ol>
 <p><strong>General</strong></p>
@@ -252,10 +252,10 @@
 <li><a href="https://github.com/fravoll/solidity-patterns">https://github.com/fravoll/solidity-patterns</a> </li>
 <li><a href="https://secureum.substack.com/p/smart-contract-security-101-secureum">https://secureum.substack.com/p/smart-contract-security-101-secureum</a> </li>
 <li><a href="https://chain.link/bootcamp/bootcamp-2021-on-demand">https://chain.link/bootcamp/bootcamp-2021-on-demand</a>  (see chapter regarding smart contract security) </li>
-<li><span style="text-decoration: line-through;"><a href="https://secureum.substack.com/p/smart-contract-security-resources">https://secureum.substack.com/p/smart-contract-security-resources</a> </span>(✔️ -&gt; <a href="https://rey-olson.github.io/blockchainsecurity/secureum/">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://secureum.substack.com/p/smart-contract-security-resources">https://secureum.substack.com/p/smart-contract-security-resources</a> </span>(✔️ -&gt; <a href="https://blockchainsecurity.be/secureum/">article</a>)</li>
 <li><a href="https://github.com/securing/SCSVS">https://github.com/securing/SCSVS</a> </li>
 <li><a href="https://github.com/SmartContractSecurity/SWC-registry">https://github.com/SmartContractSecurity/SWC-registry</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum">https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum</a> </span> (✔️ -&gt; <a href="https://rey-olson.github.io/blockchainsecurity/introduction-to-smart-contract-security-and-hacking-in-ethereum/">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum">https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum</a> </span> (✔️ -&gt; <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/">article</a>)</li>
 <li><a href="https://github.com/tintinweb/smart-contract-sanctuary">https://github.com/tintinweb/smart-contract-sanctuary</a> </li>
 <li><a href="https://yacademy.substack.com/p/yacademy-newsletter-1">https://yacademy.substack.com/p/yacademy-newsletter-1</a> </li>
 <li><a href="https://swcregistry.io/">https://swcregistry.io/</a> </li>
@@ -264,13 +264,13 @@
 <div><strong>EVM </strong></div>
 <ul>
 <li><a href="https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list">https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a></span> ( ✔️-&gt; <a href="https://rey-olson.github.io/blockchainsecurity/ethereum-evm-illustrated/">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a></span> ( ✔️-&gt; <a href="https://blockchainsecurity.be/ethereum-evm-illustrated/">article</a>)</li>
 <li><a href="https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30">https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30</a> </li>
 <li><a href="https://consensys.net/blog/blockchain-explained/">https://consensys.net/blog/blockchain-explained/</a> </li>
 <li><a href="https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/">https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/</a> </li>
 </ul>
 <hr>
-<p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to a <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>. Ah, the memories...</p>
+<p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>. Ah, the memories...</p>
 <p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
             ]]>
         </content>
@@ -280,20 +280,20 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/</id>
+        <link href="https://blockchainsecurity.be/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/"/>
+        <id>https://blockchainsecurity.be/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/</id>
             <category term="Secureum"/>
 
         <updated>2021-11-07T19:54:29+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/12/Secureum-2.png" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/12/Secureum-2.png" alt="" />
                     Content AssignmentsExplore the SWC Registry list and test cases: https://swcregistry.io/Watch “Intro to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/12/Secureum-2.png" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/12/Secureum-2.png" alt="" />
                 <p><strong>Content</strong></p>
 <ol>
 <li>Article on "Security Pitfalls &amp; Best Practices 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=469d85d9e1&amp;e=3f67c7be6c">https://secureum.substack.com/p/security-pitfalls-and-best-practices-101</a></li>
@@ -328,21 +328,21 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-3-solidity-201/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-3-solidity-201/</id>
+        <link href="https://blockchainsecurity.be/secureum-bootcamp-part-3-solidity-201/"/>
+        <id>https://blockchainsecurity.be/secureum-bootcamp-part-3-solidity-201/</id>
             <category term="Solidity"/>
             <category term="Secureum"/>
 
         <updated>2021-10-30T10:30:12+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/13/Secureum-2.png" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/13/Secureum-2.png" alt="" />
                     Content AssignmentsUnderstand all the OpenZeppelin Library contracts (many of which are widely-used):&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/13/Secureum-2.png" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/13/Secureum-2.png" alt="" />
                 <p><strong>Content</strong></p>
 <ol>
 <li>Article on "Solidity 201": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=111ed28902&amp;e=3f67c7be6c">https://secureum.substack.com/p/solidity-201</a></li>
@@ -368,7 +368,7 @@
 <h3>Thoughts</h3>
 <div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/gnFgmyqO6rRMYSxrGc" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
 <ul>
-<li>Oof, I failed this part / quiz terribly (<a href="https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-solidity-101/">Solidity 101</a>'s quiz was only slightly better, but still bad enough to not pass the 50% grade ✍).</li>
+<li>Oof, I failed this part / quiz terribly (<a href="https://blockchainsecurity.be/secureum-bootcamp-part-1-solidity-101/">Solidity 101</a>'s quiz was only slightly better, but still bad enough to not pass the 50% grade ✍).</li>
 <li>In the meanwhile, I can admit that I am only a Solidity novice, and if I am to improve, I will need to get my hands dirty and <strong>START CODING</strong>. Theory is all fine, but alas, there is no substitute for practice... 💻</li>
 <li>Someone quit the bootcamp saying the format &amp; quizzes are just not his cup of tea (i.e. a weekly list with approx. 101 items to cram + the quizzes seem to only be there to triage participant for the audit phase in December).</li>
 <li>I understand his point of view, plus, even though this bootcamp is open to anyone, it is not <em>very </em>reasonable to expect people without prior Computer Science training or coding experience to get up to speed with a entire programming language (plus all its ins and outs, or idiosyncrasies). Plus, you need to be able to do so in only a couple of hours per week 🤔 (of course, YMMV)</li>
@@ -381,21 +381,21 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-solidity-101/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-1-solidity-101/</id>
+        <link href="https://blockchainsecurity.be/secureum-bootcamp-part-1-solidity-101/"/>
+        <id>https://blockchainsecurity.be/secureum-bootcamp-part-1-solidity-101/</id>
             <category term="Solidity"/>
             <category term="Secureum"/>
 
         <updated>2021-10-27T09:37:53+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/10/Secureum-2.png" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/10/Secureum-2.png" alt="" />
                     Content AssignmentsRead Chapter 7 from “Mastering Ethereum”: https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidocUnderstand Solidity syntax and semantics&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/10/Secureum-2.png" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/10/Secureum-2.png" alt="" />
                 <p><strong>Content</strong></p>
 <ol>
 <li>Article on "Solidity 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=abd875eb2f&amp;e=3f67c7be6c">https://secureum.substack.com/p/solidity-101</a></li>
@@ -421,7 +421,7 @@
 <h3>Thoughts</h3>
 <ul>
 <li>Solidity resembles Java, another a <a href="https://en.wikipedia.org/wiki/High-level_programming_language" title="High-level programming language">high-level</a>, <a href="https://en.wikipedia.org/wiki/Class-based_programming" title="Class-based programming">class-based</a>, <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a> <a href="https://en.wikipedia.org/wiki/Programming_language" title="">programming language</a> (according to <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noopener noreferrer">Wikipedia</a>).</li>
-<li>The devil is in the details it seems: many security implications (i.e. those popping up in <a href="https://rey-olson.github.io/blockchainsecurity/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/" target="_blank" rel="noopener noreferrer">Secureum Bootcamp Part 4</a>) are in the technical implementation and its limitations.</li>
+<li>The devil is in the details it seems: many security implications (i.e. those popping up in <a href="https://blockchainsecurity.be/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/" target="_blank" rel="noopener noreferrer">Secureum Bootcamp Part 4</a>) are in the technical implementation and its limitations.</li>
 <li>It's hard truly grasping all these nuances by just reading documentatin (yes, yes, there are the hands-on assignments as well). I guess there is only one way forward: <a href="https://jamesclear.com/learning-vs-practicing" target="_blank" rel="noopener noreferrer">P-R-A-C-T-I-C-E</a> 😏.</li>
 </ul>
             ]]>
@@ -432,20 +432,20 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/mastering-ethereum/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/mastering-ethereum/</id>
+        <link href="https://blockchainsecurity.be/mastering-ethereum/"/>
+        <id>https://blockchainsecurity.be/mastering-ethereum/</id>
             <category term="Ethereum"/>
 
         <updated>2021-10-27T10:35:57+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/14/mastering-ethereum-cover.png" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/14/mastering-ethereum-cover.png" alt="" />
                     Mastering Ethereum is the de facto standard / best book explaining how&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/14/mastering-ethereum-cover.png" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/14/mastering-ethereum-cover.png" alt="" />
                 <p><strong>Mastering Ethereum</strong> is the de facto standard / best book explaining how Ethereum works. It is written by Andreas M. Antonopoulos, <a href="https://gavwood.com/" target="_blank" rel="noopener noreferrer">Gavin Wood</a> (also author of the <a href="https://polkadot.network/" target="_blank" rel="noopener noreferrer">Polkadot </a>whitepaper &amp; blockchain) and is free for everyone to read online: <a href="https://github.com/ethereumbook/ethereumbook">https://github.com/ethereumbook/ethereumbook</a> </p>
 <h2>Chapters</h2>
 <ul>
@@ -477,23 +477,23 @@
         <author>
             <name>Anonymous</name>
         </author>
-        <link href="https://rey-olson.github.io/blockchainsecurity/common-cyber-security-still-matters/"/>
-        <id>https://rey-olson.github.io/blockchainsecurity/common-cyber-security-still-matters/</id>
+        <link href="https://blockchainsecurity.be/common-cyber-security-still-matters/"/>
+        <id>https://blockchainsecurity.be/common-cyber-security-still-matters/</id>
             <category term="Security"/>
             <category term="Ethereum"/>
 
         <updated>2021-11-07T16:53:43+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
+                        <img src="https://blockchainsecurity.be/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
                     A recent Twitter thread led me to write this post: There are&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
+                    <img src="https://blockchainsecurity.be/media/posts/11/matthew-waring-MJAoiige14E-unsplash.jpg" alt="" />
                 <p>A recent <a href="https://twitter.com/mgnr_io/status/1448489251180474368" target="_blank" rel="noopener noreferrer">Twitter thread</a> led me to write this post:</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://rey-olson.github.io/blockchainsecurity/media/posts/11/mgnr-io-hack.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-xs.png 300w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-sm.png 480w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-md.png 768w ,https://rey-olson.github.io/blockchainsecurity/media/posts/11/responsive/mgnr-io-hack-lg.png 1024w"  alt="" width="809" height="1759">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://blockchainsecurity.be/media/posts/11/mgnr-io-hack.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-xs.png 300w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-sm.png 480w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-md.png 768w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-lg.png 1024w"  alt="" width="809" height="1759">
 <figcaption >Ouch.</figcaption>
 </figure>
 <p>There are alot of these stories circulating that are related to organizations <strong>not following* basic security best practices </strong>(like for example multi-factor authentication):</p>
