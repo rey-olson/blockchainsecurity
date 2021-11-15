@@ -68,7 +68,7 @@
             <category term="Ethereum"/>
             <category term="DeFi"/>
 
-        <updated>2021-11-15T01:04:37+01:00</updated>
+        <updated>2021-11-15T01:22:29+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/23/yacademy-logo-small.png" alt="" />
@@ -88,7 +88,11 @@
 <figcaption >yAcademy's envisioned talent funnel (c) yAcademy</figcaption>
 </figure>
 <hr>
-<p>What is Yearn Finance? Check out this article: <a href="https://coincentral.com/what-is-yearn-finance/">https://coincentral.com/what-is-yearn-finance/</a> </p>
+<ul>
+<li>What is Yearn Finance? Check out this article: <a href="https://coincentral.com/what-is-yearn-finance/">https://coincentral.com/what-is-yearn-finance/</a> </li>
+<li>There exists a DAO (<a href="https://forum.dao.reviews/latest">ReviewDAO</a>) to engage security reviews from peers, but it seems dead (unless there is an active Discord, which I doubt, but I didn't check).</li>
+<li><a href="https://immunefi.com">Immunefi </a>is a DeFi bug bounty platform which has more success, but I'll cover this in a separate blog post.</li>
+</ul>
             ]]>
         </content>
     </entry>
