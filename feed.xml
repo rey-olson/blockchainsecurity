@@ -339,9 +339,10 @@
         </author>
         <link href="https://blockchainsecurity.be/secureum-part-5-security-pitfalls-and-best-practices-201/"/>
         <id>https://blockchainsecurity.be/secureum-part-5-security-pitfalls-and-best-practices-201/</id>
+            <category term="Solidity"/>
             <category term="Secureum"/>
 
-        <updated>2021-11-07T19:46:21+01:00</updated>
+        <updated>2021-11-15T01:11:53+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/19/Secureum-2.png" alt="" />
@@ -416,7 +417,7 @@
         <id>https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/</id>
             <category term="Blog"/>
 
-        <updated>2021-11-15T00:02:07+01:00</updated>
+        <updated>2021-11-15T01:15:58+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
@@ -435,7 +436,7 @@
 </ol>
 <p><strong>General</strong></p>
 <ul>
-<li><a href="https://kernel.community/module-0/">https://kernel.community/module-0/</a> </li>
+<li><span style="text-decoration: line-through;"><a href="https://kernel.community/module-0/">https://kernel.community/module-0/</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/gitcoin-and-kernel-fellowship/">article</a>)</li>
 <li><a href="https://github.com/trufflesuite/ganache-cli-archive">https://github.com/trufflesuite/ganache-cli-archive</a> </li>
 <li><a href="https://ethereum.org/en/developers/learning-tools/">https://ethereum.org/en/developers/learning-tools/</a> </li>
 <li><a href="https://matterlabs.notion.site/matterlabs/Matter-Labs-Team-Handbook-43342b471fe14f05b2baf250cb7c7a02">https://matterlabs.notion.site/matterlabs/Matter-Labs-Team-Handbook-43342b471fe14f05b2baf250cb7c7a02</a> </li>
@@ -447,7 +448,7 @@
 <p><strong>Security</strong></p>
 <ul>
 <li><a href="https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph">https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </span>(✔️ -&gt; <a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
 <li><a href="https://docs.openzeppelin.com/contracts/4.x/">https://docs.openzeppelin.com/contracts/4.x/</a> </li>
 <li><a href="https://docs.openzeppelin.com/learn/developing-smart-contracts">https://docs.openzeppelin.com/learn/developing-smart-contracts</a> </li>
 <li><a href="https://docs.soliditylang.org/en/latest/security-considerations.html">https://docs.soliditylang.org/en/latest/security-considerations.html#</a> </li>
@@ -474,14 +475,14 @@
 <li><a href="https://github.com/fravoll/solidity-patterns">https://github.com/fravoll/solidity-patterns</a> </li>
 <li><a href="https://secureum.substack.com/p/smart-contract-security-101-secureum">https://secureum.substack.com/p/smart-contract-security-101-secureum</a> </li>
 <li><a href="https://chain.link/bootcamp/bootcamp-2021-on-demand">https://chain.link/bootcamp/bootcamp-2021-on-demand</a>  (see chapter regarding smart contract security) </li>
-<li><span style="text-decoration: line-through;"><a href="https://secureum.substack.com/p/smart-contract-security-resources">https://secureum.substack.com/p/smart-contract-security-resources</a> </span>(✔️ -&gt; <a href="https://blockchainsecurity.be/secureum/">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://secureum.substack.com/p/smart-contract-security-resources">https://secureum.substack.com/p/smart-contract-security-resources</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/secureum/">article</a>)</li>
 <li><a href="https://github.com/securing/SCSVS">https://github.com/securing/SCSVS</a> </li>
 <li><a href="https://github.com/SmartContractSecurity/SWC-registry">https://github.com/SmartContractSecurity/SWC-registry</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum">https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum</a> </span> (✔️ -&gt; <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum">https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum</a> </span> (✔️-&gt;<a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/">article</a>)</li>
 <li><a href="https://github.com/tintinweb/smart-contract-sanctuary">https://github.com/tintinweb/smart-contract-sanctuary</a> </li>
-<li><a href="https://yacademy.substack.com/p/yacademy-newsletter-1">https://yacademy.substack.com/p/yacademy-newsletter-1</a> </li>
+<li><span style="text-decoration: line-through;"><a href="https://yacademy.substack.com/p/yacademy-newsletter-1">https://yacademy.substack.com/p/yacademy-newsletter-1</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/yacademy/">article</a>)</li>
 <li><a href="https://swcregistry.io/">https://swcregistry.io/</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a>  + <a href="https://twitter.com/samczsun/status/1451236190917701636">https://twitter.com/samczsun/status/1451236190917701636</a></span> (✔️ -&gt; <a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a>  + <a href="https://twitter.com/samczsun/status/1451236190917701636">https://twitter.com/samczsun/status/1451236190917701636</a></span> (✔️-&gt;<a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
 <li><a href="https://github.com/KadenZipfel/smart-contract-attack-vectors">https://github.com/KadenZipfel/smart-contract-attack-vectors</a> </li>
 <li><a href="https://github.com/Rari-Capital/solcurity">https://github.com/Rari-Capital/solcurity</a> </li>
 <li><a href="https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8">https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8</a> </li>
@@ -490,7 +491,7 @@
 <div><strong>EVM </strong></div>
 <ul>
 <li><a href="https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list">https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a></span> ( ✔️-&gt; <a href="https://blockchainsecurity.be/ethereum-evm-illustrated/">article</a>)</li>
+<li><span style="text-decoration: line-through;"><a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a></span> (✔️-&gt;<a href="https://blockchainsecurity.be/ethereum-evm-illustrated/">article</a>)</li>
 <li><a href="https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30">https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30</a> </li>
 <li><a href="https://consensys.net/blog/blockchain-explained/">https://consensys.net/blog/blockchain-explained/</a> </li>
 <li><a href="https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/">https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/</a> </li>
