@@ -68,17 +68,17 @@
             <category term="Ethereum"/>
             <category term="DeFi"/>
 
-        <updated>2021-11-15T01:22:29+01:00</updated>
+        <updated>2021-11-15T16:13:25+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/23/yacademy-logo-small.png" alt="" />
-                    Yearn Finance launched yAcademy (proposal launched in November 2020, pilot finished in&hellip;
+                    Yearn Finance launched yAcademy (proposal launched in November 2020, pilot executed in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blockchainsecurity.be/media/posts/23/yacademy-logo-small.png" alt="" />
-                <p><a href="https://docs.yearn.finance/">Yearn Finance</a> launched <a href="https://yacademy.github.io/">yAcademy</a> (proposal launched in November 2020, pilot finished in July 2021).</p>
+                <p><a href="https://docs.yearn.finance/">Yearn Finance</a> launched <a href="https://yacademy.github.io/">yAcademy</a> (proposal launched in November 2020, pilot executed in July 2021).</p>
 <p>What is yAcademy you ask? Here is a summary (from the original proposal):</p>
 <blockquote>
 <p>We launch the yAcademy: a security wing tasked with auditing Yearn’s contracts, attracting and retaining top talent, and eventually generating revenue by expanding its auditing services to the ecosystem at large. Mission: audit Yearn contracts in a collaborative and semi-structured process. Administrative costs are kept near zero, as the tasks of advocacy, event organizing, educational curriculum are handled by our partners at Gitcoin and Status. The yAcademy is net positive from day one since money that would have otherwise been an operational expense given to auditing firms is now an investment that should pay back the principle immediately (in the form of audits of Yearn contracts) and generate revenue eventually (once the team has expanded to offer services to the ecosystem).</p>
