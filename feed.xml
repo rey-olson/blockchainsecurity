@@ -58,6 +58,228 @@
         </content>
     </entry>
     <entry>
+        <title>yAcademy</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/yacademy/"/>
+        <id>https://blockchainsecurity.be/yacademy/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+            <category term="DeFi"/>
+
+        <updated>2021-11-15T01:04:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/23/yacademy-logo-small.png" alt="" />
+                    Yearn Finance launched yAcademy (proposal launched in November 2020, pilot finished in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/23/yacademy-logo-small.png" alt="" />
+                <p><a href="https://docs.yearn.finance/">Yearn Finance</a> launched <a href="https://yacademy.github.io/">yAcademy</a> (proposal launched in November 2020, pilot finished in July 2021).</p>
+<p>What is yAcademy you ask? Here is a summary (from the original proposal):</p>
+<blockquote>
+<p>We launch the yAcademy: a security wing tasked with auditing Yearn’s contracts, attracting and retaining top talent, and eventually generating revenue by expanding its auditing services to the ecosystem at large. Mission: audit Yearn contracts in a collaborative and semi-structured process. Administrative costs are kept near zero, as the tasks of advocacy, event organizing, educational curriculum are handled by our partners at Gitcoin and Status. The yAcademy is net positive from day one since money that would have otherwise been an operational expense given to auditing firms is now an investment that should pay back the principle immediately (in the form of audits of Yearn contracts) and generate revenue eventually (once the team has expanded to offer services to the ecosystem).</p>
+<p>yAcademy will be operated as a joint venture by the yAcademy partners—Yearn (through the Multisig Council), Gitcoin, Status and member-auditors (including the first five auditors to join). The alignment can be seen in the following figure:</p>
+</blockquote>
+<figure class="post__image post__image--wide" ><img loading="lazy" src="https://blockchainsecurity.be/media/posts/23/yacademy-funnel.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/23/responsive/yacademy-funnel-xs.png 300w ,https://blockchainsecurity.be/media/posts/23/responsive/yacademy-funnel-sm.png 480w ,https://blockchainsecurity.be/media/posts/23/responsive/yacademy-funnel-md.png 768w ,https://blockchainsecurity.be/media/posts/23/responsive/yacademy-funnel-lg.png 1024w"  alt="" width="1000" height="479">
+<figcaption >yAcademy's envisioned talent funnel (c) yAcademy</figcaption>
+</figure>
+<hr>
+<p>What is Yearn Finance? Check out this article: <a href="https://coincentral.com/what-is-yearn-finance/">https://coincentral.com/what-is-yearn-finance/</a> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gitcoin &amp; KERNEL Fellowship</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/gitcoin-and-kernel-fellowship/"/>
+        <id>https://blockchainsecurity.be/gitcoin-and-kernel-fellowship/</id>
+            <category term="Security"/>
+
+        <updated>2021-11-15T00:50:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/24/gitcoin-logo-small.png" alt="" />
+                    About Gitcoin We’re on a mission to build an internet that is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/24/gitcoin-logo-small.png" alt="" />
+                <figure class="post__image post__image--wide" ><img loading="lazy" src="https://blockchainsecurity.be/media/posts/24/kernel-logo.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-xs.png 300w ,https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-sm.png 480w ,https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-md.png 768w ,https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-lg.png 1024w"  alt="" width="900" height="323">
+<figcaption ></figcaption>
+</figure>
+<div class="col-12 col-lg-6">
+<p class="mt-5 mb-3 msg msg--info"><strong>About Gitcoin<br><br></strong>We’re on a mission to build an internet that is open source, collaborative, and economically empowering.<br><br>We are creating community and infrastructure for Web 3 — a diverse range of tools, technologies, and networks that enable people to work for the open internet. <br><br>By funding projects, building community, and making learning resources accessible, we are teaming up to create the digital public infrastructure of tomorrow.</p>
+</div>
+<p>KERNEL is an 8-week, invite-only program for top tech talent looking to build relationships, products, and companies in blockchain and Web 3. It is foremost a community initiative, supported by <a href="https://gitcoin.co">Gitcoin</a>.</p>
+<p>One of the sub-tracks available is the <a href="https://www.notion.so/KERNEL-Security-Track-528c235fd378445786fc5082155c2f2f">security track</a>. Please note that they also have a <a href="https://kernel.community/en/learn">free learning</a> track 🌱 ❤️.</p>
+<p>You can apply for the next block of participants here: <a href="https://apply.kernel.community/">https://apply.kernel.community/</a> </p>
+<p><strong>Syllabus of the security track:</strong></p>
+<ul>
+<li>
+<p><strong>Week 1 — Web3 differences from traditional security (w/ Corey)</strong></p>
+<ul>
+<li>zero trust models everywhere</li>
+<li>data responsibility is on the end user</li>
+<li>“there is no castle”</li>
+<li>pyramid of pain</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 2 — Automated Tooling (ToB / Dilligence)</strong></p>
+<ul>
+<li>what is automated tooling good for?</li>
+<li>invariant definition</li>
+<li>CI/CD</li>
+<li>Tooling available</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 3 — Manual Review (ToB / Diligence)</strong></p>
+<ul>
+<li>why is manual review necessary when there is so much automated tooling available
+<ul>
+<li>architectural overview</li>
+<li>intent</li>
+<li>the human factor</li>
+</ul>
+</li>
+<li>risk assessment / threat modeling</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 4 — Process Quality (Rex)</strong></p>
+<ul>
+<li>the development process</li>
+<li>preparing for an audit</li>
+<li>documentation</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 5 — Org Security (Mehdi)</strong></p>
+<ul>
+<li>zero trust models</li>
+<li>oversight</li>
+<li>incident response
+<ul>
+<li>failure mode plans</li>
+</ul>
+</li>
+<li>red/blue teaming</li>
+<li>education</li>
+</ul>
+</li>
+<li>
+<p><strong>Week 6 — Monitoring / Alerting (OpenZeppelin)</strong></p>
+<ul>
+<li>CI/CD</li>
+<li>Asset monitoring
+<ul>
+<li>on-chain</li>
+<li>off-chain</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li>ToB = <a href="https://www.trailofbits.com/">Trail of Bits</a></li>
+<li>Diligence = <a href="https://consensys.net/diligence/">ConsenSys Diligence</a></li>
+<li>Gitcoin is not the first organisation fostering growth in the crypto, but they are one of the most prolific in the area (or at least, it's a name I often see popping up, i.e. besides all the crypto venture capital companies 😏)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Secureum Part 7: Audit Findings 101</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/secureum-part-7-audit-findings-101/"/>
+        <id>https://blockchainsecurity.be/secureum-part-7-audit-findings-101/</id>
+            <category term="Secureum"/>
+
+        <updated>2021-11-14T23:14:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/21/Secureum-2.png" alt="" />
+                    Content Assignments 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/21/Secureum-2.png" alt="" />
+                <p><strong>Content</strong></p>
+<ol>
+<li>Article on "Audit Findings 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=7d5183dcbb&amp;e=3f67c7be6c">https://secureum.substack.com/p/audit-findings-101</a></li>
+<li>YouTube videos on "Audit Findings 101":
+<ol>
+<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=13a6ac626d&amp;e=3f67c7be6c">https://youtu.be/SromSImIpHE</a></li>
+<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=0213203feb&amp;e=3f67c7be6c">https://youtu.be/KLBi3Uyg0dY</a></li>
+<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=b29d0cee8a&amp;e=3f67c7be6c">https://youtu.be/RUyED_6mkqg</a></li>
+<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=92a51edc8d&amp;e=3f67c7be6c">https://youtu.be/D1Uz0NvrqeU</a></li>
+<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9edda4b30e&amp;e=3f67c7be6c">https://youtu.be/GX8Z0kRRi_I</a></li>
+</ol>
+</li>
+</ol>
+<p><strong>Assignments</strong></p>
+<ol>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for Fei Protocol: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=6ad61835d8&amp;e=3f67c7be6c">https://consensys.net/diligence/audits/2021/01/fei-protocol</a></li>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for Uniswap V3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e25956765f&amp;e=3f67c7be6c">https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf</a></li>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for Chainlink: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=08cf08b7b0&amp;e=3f67c7be6c">https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf</a></li>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for Opyn Gamma protocol: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=cdae200175&amp;e=3f67c7be6c">https://blog.openzeppelin.com/opyn-gamma-protocol-audit/</a></li>
+<li>Watch: OpenZeppelin <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a06ea100fe&amp;e=3f67c7be6c">tinchoabbate’s</a> “Secure Development Series”: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=26d15d7f0a&amp;e=3f67c7be6c">https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz</a></li>
+</ol>
+<hr>
+<h3>Thoughts</h3>
+<div class="post__iframe"><iframe loading="lazy" width="480" height="324" src="https://giphy.com/embed/aCAzXzUR8GmDC" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Capture The Flag (CTF)</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/capture-the-flag-challenges/"/>
+        <id>https://blockchainsecurity.be/capture-the-flag-challenges/</id>
+            <category term="Lists"/>
+            <category term="CTF"/>
+
+        <updated>2021-11-14T23:55:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/22/sigmund-By-tZImt0Ms-unsplash.jpg" alt="" />
+                    Capture the Flag (CTF) in cyber security is an exercise in which&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/22/sigmund-By-tZImt0Ms-unsplash.jpg" alt="" />
+                <p class="msg msg--info"><strong>Capture the Flag (CTF)</strong> in cyber security is an exercise in which "flags" are secretly hidden in purposefully-vulnerable programs or websites. CTF's are often organised as a live competition where participants steal flags either from other competitors (attack/defense-style CTFs) or from the organizers (jeopardy-style challenges).<span style="font-size: 11.96px;"> </span><strong>Several variations exist, including hiding flags in vulnerable blockchain contracts for others to exploit and/or abuse: thus enter blockchain (security) CTF's!</strong> These challenges are based on the traditional outdoor sport of the same name. (~ loosely copied from Wikipedia and extended by myself)</p>
+<p>Here's a list to some well-known Ethereum CTF challenges. I might do a more detailed write-up of some of these to brush up my writing skills 😅. If you get stuck: walkthroughs are easy to find through your favourite search engine!</p>
+<ul>
+<li><a href="https://ethernaut.openzeppelin.com">Ethernaut</a></li>
+<li><a href="https://capturetheether.com/">Capture The Ether</a></li>
+<li><a href="https://damnvulnerabledefi.xyz">Damn Vulnerable DeFi</a></li>
+<li><a href="https://github.com/paradigm-operations/paradigm-ctf-2021">Paradigm CTF</a></li>
+</ul>
+<p>There exist other, lesser-known "pop-up" CTF challenges, e.g. see <a href="https://twitter.com/samczsun/status/1451236190917701636">samczsun's post on Twitter </a>with the corresponding pinball machine contract 🕹:</p>
+<p><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a> </p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/s/photos/game-over?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Secureum Part 6: Audit Techniques &amp; Tools 101</title>
         <author>
             <name>Anonymous</name>
@@ -194,7 +416,7 @@
         <id>https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/</id>
             <category term="Blog"/>
 
-        <updated>2021-11-07T20:03:41+01:00</updated>
+        <updated>2021-11-15T00:02:07+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
@@ -225,7 +447,7 @@
 <p><strong>Security</strong></p>
 <ul>
 <li><a href="https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph">https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph</a> </li>
-<li><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </li>
+<li><span style="text-decoration: line-through;"><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </span>(✔️ -&gt; <a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
 <li><a href="https://docs.openzeppelin.com/contracts/4.x/">https://docs.openzeppelin.com/contracts/4.x/</a> </li>
 <li><a href="https://docs.openzeppelin.com/learn/developing-smart-contracts">https://docs.openzeppelin.com/learn/developing-smart-contracts</a> </li>
 <li><a href="https://docs.soliditylang.org/en/latest/security-considerations.html">https://docs.soliditylang.org/en/latest/security-considerations.html#</a> </li>
@@ -259,9 +481,12 @@
 <li><a href="https://github.com/tintinweb/smart-contract-sanctuary">https://github.com/tintinweb/smart-contract-sanctuary</a> </li>
 <li><a href="https://yacademy.substack.com/p/yacademy-newsletter-1">https://yacademy.substack.com/p/yacademy-newsletter-1</a> </li>
 <li><a href="https://swcregistry.io/">https://swcregistry.io/</a> </li>
-<li><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a>  + <a href="https://twitter.com/samczsun/status/1451236190917701636">https://twitter.com/samczsun/status/1451236190917701636</a>  <br><br></li>
+<li><span style="text-decoration: line-through;"><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a>  + <a href="https://twitter.com/samczsun/status/1451236190917701636">https://twitter.com/samczsun/status/1451236190917701636</a></span> (✔️ -&gt; <a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
 <li><a href="https://github.com/KadenZipfel/smart-contract-attack-vectors">https://github.com/KadenZipfel/smart-contract-attack-vectors</a> </li>
+<li><a href="https://github.com/Rari-Capital/solcurity">https://github.com/Rari-Capital/solcurity</a> </li>
+<li><a href="https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8">https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8</a> </li>
 </ul>
+<p> </p>
 <div><strong>EVM </strong></div>
 <ul>
 <li><a href="https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list">https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list</a> </li>
@@ -269,9 +494,10 @@
 <li><a href="https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30">https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30</a> </li>
 <li><a href="https://consensys.net/blog/blockchain-explained/">https://consensys.net/blog/blockchain-explained/</a> </li>
 <li><a href="https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/">https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/</a> </li>
+<li><a href="https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3">https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3</a> </li>
 </ul>
 <hr>
-<p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>. Ah, the memories...</p>
+<p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
 <p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
             ]]>
         </content>
@@ -321,197 +547,6 @@
 <ul>
 <li>Update on 7 November 2021, the evening at the deadline before the quiz for this part closes. I'm really having trouble to set aside enough hours to study (read the articles, watch the video's, do the assignments, ...). Family life is quite consuming (and takes priority 😅) i.e. I only have a couple of hours available in the evenings (and then not even every day / night), so it's pretty hard. Anyway, let's keep going at it!<br><br><div class="post__iframe"><iframe loading="lazy" width="480" height="261" src="https://giphy.com/embed/wSCAy1zJbcUG4" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Secureum Bootcamp Part 3: Solidity 201</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/secureum-bootcamp-part-3-solidity-201/"/>
-        <id>https://blockchainsecurity.be/secureum-bootcamp-part-3-solidity-201/</id>
-            <category term="Solidity"/>
-            <category term="Secureum"/>
-
-        <updated>2021-10-30T10:30:12+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/13/Secureum-2.png" alt="" />
-                    Content AssignmentsUnderstand all the OpenZeppelin Library contracts (many of which are widely-used):&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/13/Secureum-2.png" alt="" />
-                <p><strong>Content</strong></p>
-<ol>
-<li>Article on "Solidity 201": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=111ed28902&amp;e=3f67c7be6c">https://secureum.substack.com/p/solidity-201</a></li>
-<li>YouTube videos on "Solidity 201":
-<ol>
-<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a0439524d0&amp;e=3f67c7be6c">https://youtu.be/3bFgsmsQXrE</a></li>
-<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9039c7e9ee&amp;e=3f67c7be6c">https://youtu.be/TqMIbouwePE</a></li>
-<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e8767970c1&amp;e=3f67c7be6c">https://youtu.be/C0zBhTgppLQ</a></li>
-<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=346e8c5e13&amp;e=3f67c7be6c">https://youtu.be/L_9Fk6HRwpU</a></li>
-<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=dc9d210062&amp;e=3f67c7be6c">https://youtu.be/0kx8M4u5980</a></li>
-</ol>
-</li>
-</ol>
-<p><strong>Assignments</strong></p>
-<ol>
-<li>Understand all the OpenZeppelin Library contracts (many of which are widely-used): <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=4b93fd876c&amp;e=3f67c7be6c">https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts</a></li>
-<li>Understand Solidity syntax and semantics implemented in Uniswap V3 contracts and related dependencies: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=27f659cd4e&amp;e=3f67c7be6c">https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts</a></li>
-<li>Understand Solidity syntax and semantics implemented in Fei Protocol contracts and related dependencies: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=8253614f07&amp;e=3f67c7be6c">https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts</a></li>
-<li>Understand Solidity syntax and semantics implemented in Chainlink contracts and related dependencies: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=1ef3341db7&amp;e=3f67c7be6c">https://github.com/smartcontractkit/chainlink/tree/develop/contracts/src/v0.4</a></li>
-<li>Understand Solidity syntax and semantics implemented in Opyn Gamma Protocol contracts and related dependencies: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=ad33611816&amp;e=3f67c7be6c">https://github.com/opynfinance/GammaProtocol/tree/master/contracts/core</a></li>
-</ol>
-<hr>
-<h3>Thoughts</h3>
-<div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/gnFgmyqO6rRMYSxrGc" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
-<ul>
-<li>Oof, I failed this part / quiz terribly (<a href="https://blockchainsecurity.be/secureum-bootcamp-part-1-solidity-101/">Solidity 101</a>'s quiz was only slightly better, but still bad enough to not pass the 50% grade ✍).</li>
-<li>In the meanwhile, I can admit that I am only a Solidity novice, and if I am to improve, I will need to get my hands dirty and <strong>START CODING</strong>. Theory is all fine, but alas, there is no substitute for practice... 💻</li>
-<li>Someone quit the bootcamp saying the format &amp; quizzes are just not his cup of tea (i.e. a weekly list with approx. 101 items to cram + the quizzes seem to only be there to triage participant for the audit phase in December).</li>
-<li>I understand his point of view, plus, even though this bootcamp is open to anyone, it is not <em>very </em>reasonable to expect people without prior Computer Science training or coding experience to get up to speed with a entire programming language (plus all its ins and outs, or idiosyncrasies). Plus, you need to be able to do so in only a couple of hours per week 🤔 (of course, YMMV)</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Secureum Bootcamp Part 2: Solidity 101</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/secureum-bootcamp-part-1-solidity-101/"/>
-        <id>https://blockchainsecurity.be/secureum-bootcamp-part-1-solidity-101/</id>
-            <category term="Solidity"/>
-            <category term="Secureum"/>
-
-        <updated>2021-10-27T09:37:53+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/10/Secureum-2.png" alt="" />
-                    Content AssignmentsRead Chapter 7 from “Mastering Ethereum”: https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidocUnderstand Solidity syntax and semantics&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/10/Secureum-2.png" alt="" />
-                <p><strong>Content</strong></p>
-<ol>
-<li>Article on "Solidity 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=abd875eb2f&amp;e=3f67c7be6c">https://secureum.substack.com/p/solidity-101</a></li>
-<li>YouTube videos on "Solidity 101":
-<ol>
-<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=0de93163d5&amp;e=3f67c7be6c">https://youtu.be/5eLqFac5Tkg</a></li>
-<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=39ee9cef7d&amp;e=3f67c7be6c">https://youtu.be/TCl1IcGl_3I</a></li>
-<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=6f669f4205&amp;e=3f67c7be6c">https://youtu.be/6VIJpze1jbU</a></li>
-<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=c6d4d5a286&amp;e=3f67c7be6c">https://youtu.be/WgU7KKKomMk</a></li>
-<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=2b61b54fe4&amp;e=3f67c7be6c">https://youtu.be/_oN7XuyhoZA</a></li>
-</ol>
-</li>
-</ol>
-<p><strong>Assignments</strong></p>
-<ol>
-<li>Read Chapter 7 from “Mastering Ethereum”: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=7048ec46cc&amp;e=3f67c7be6c">https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc</a></li>
-<li>Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC20 contract: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9f412878ec&amp;e=3f67c7be6c">https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol</a></li>
-<li>Understand Solidity syntax and semantics implemented in OpenZeppelin’s ERC721 (NFT) contract: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=2d4760fda4&amp;e=3f67c7be6c">https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol</a></li>
-<li>Understand Solidity syntax and semantics implemented in OpenZeppelin’s security-related contracts Ownable, Pausable and ReentrancyGuard: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=c538808ba9&amp;e=3f67c7be6c">https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access</a> and <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=438a2bd079&amp;e=3f67c7be6c">https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/security</a></li>
-<li>Experiment with the various Solidity concepts using <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=20634395e3&amp;e=3f67c7be6c">https://remix.ethereum.org/</a><br><br></li>
-</ol>
-<hr>
-<h3>Thoughts</h3>
-<ul>
-<li>Solidity resembles Java, another a <a href="https://en.wikipedia.org/wiki/High-level_programming_language" title="High-level programming language">high-level</a>, <a href="https://en.wikipedia.org/wiki/Class-based_programming" title="Class-based programming">class-based</a>, <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a> <a href="https://en.wikipedia.org/wiki/Programming_language" title="">programming language</a> (according to <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noopener noreferrer">Wikipedia</a>).</li>
-<li>The devil is in the details it seems: many security implications (i.e. those popping up in <a href="https://blockchainsecurity.be/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/" target="_blank" rel="noopener noreferrer">Secureum Bootcamp Part 4</a>) are in the technical implementation and its limitations.</li>
-<li>It's hard truly grasping all these nuances by just reading documentatin (yes, yes, there are the hands-on assignments as well). I guess there is only one way forward: <a href="https://jamesclear.com/learning-vs-practicing" target="_blank" rel="noopener noreferrer">P-R-A-C-T-I-C-E</a> 😏.</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mastering Ethereum</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/mastering-ethereum/"/>
-        <id>https://blockchainsecurity.be/mastering-ethereum/</id>
-            <category term="Ethereum"/>
-
-        <updated>2021-10-27T10:35:57+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/14/mastering-ethereum-cover.png" alt="" />
-                    Mastering Ethereum is the de facto standard / best book explaining how&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/14/mastering-ethereum-cover.png" alt="" />
-                <p><strong>Mastering Ethereum</strong> is the de facto standard / best book explaining how Ethereum works. It is written by Andreas M. Antonopoulos, <a href="https://gavwood.com/" target="_blank" rel="noopener noreferrer">Gavin Wood</a> (also author of the <a href="https://polkadot.network/" target="_blank" rel="noopener noreferrer">Polkadot </a>whitepaper &amp; blockchain) and is free for everyone to read online: <a href="https://github.com/ethereumbook/ethereumbook">https://github.com/ethereumbook/ethereumbook</a> </p>
-<h2>Chapters</h2>
-<ul>
-<li>Preface: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/preface.asciidoc">Preface</a>'</li>
-<li>Chapter 1: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc">What Is Ethereum</a>'</li>
-<li>Chapter 2: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc">Ethereum Basics</a>'</li>
-<li>Chapter 3: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/03clients.asciidoc">Ethereum Clients</a>'</li>
-<li>Chapter 4: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc">Cryptography</a>'</li>
-<li>Chapter 5: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc">Wallets</a>'</li>
-<li>Chapter 6: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc">Transactions</a>'</li>
-<li>Chapter 7: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc">Smart Contracts and Solidity</a>'</li>
-<li>Chapter 8: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc">Smart Contracts and Vyper</a>'</li>
-<li>Chapter 9: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc">Smart Contract Security</a>'</li>
-<li>Chapter 10: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc">Tokens</a>'</li>
-<li>Chapter 11: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/11oracles.asciidoc">Oracles</a>'</li>
-<li>Chapter 12: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc">Decentralized Applications (DApps)</a>'</li>
-<li>Chapter 13: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc">The Ethereum Virtual Machine</a>'</li>
-<li>Chapter 14: '<a href="https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc">Consensus</a>'</li>
-</ul>
-<hr>
-<p><strong>Andreas M. Antonopoulos</strong> has tons of online resources (books, videos, workshops, ...) to learn about blockchain: <a href="https://aantonop.com/">https://aantonop.com/</a>.</p>
-<p>I actually started out my blockchain journey during the pandemic 😷 with his free <a href="https://aantonop.com/educational-videos/" target="_blank" rel="noopener noreferrer">video series about Bitcoin</a> on YouTube.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Non-blockchain security measures still matter</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/common-cyber-security-still-matters/"/>
-        <id>https://blockchainsecurity.be/common-cyber-security-still-matters/</id>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2021-11-07T21:27:15+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/11/markus-spiske-6pflEeSzGUo-unsplash1.jpg" alt="" />
-                    A recent Twitter thread led me to write this post: There are&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/11/markus-spiske-6pflEeSzGUo-unsplash1.jpg" alt="" />
-                <p>A recent <a href="https://twitter.com/mgnr_io/status/1448489251180474368" target="_blank" rel="noopener noreferrer">Twitter thread</a> led me to write this post:</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://blockchainsecurity.be/media/posts/11/mgnr-io-hack.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-xs.png 300w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-sm.png 480w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-md.png 768w ,https://blockchainsecurity.be/media/posts/11/responsive/mgnr-io-hack-lg.png 1024w"  alt="" width="809" height="1759">
-<figcaption >Ouch.</figcaption>
-</figure>
-<p>There are alot of these stories circulating that are related to organizations <strong>not following* basic security best practices </strong>(like for example multi-factor authentication):</p>
-<ul>
-<li>
-<p class="title">DeFi Protocol Stake Steak: <a href="https://coinmarketcap.com/headlines/news/defi-hack-alert-stakesteak-lost-nearly-200000-in-an-exploit-heres-what-happened/">https://coinmarketcap.com/headlines/news/defi-hack-alert-stakesteak-lost-nearly-200000-in-an-exploit-heres-what-happened/</a> (leaked private key in public Github repo)</p>
-</li>
-<li>PanCakeSwap: <a href="https://blog.alfa.cash/2021/03/15/defi-pancakeswap-cream-compromised-phishing/">https://blog.alfa.cash/2021/03/15/defi-pancakeswap-cream-compromised-phishing/</a> (DNS hijack due to poor <a href="https://medium.com/cream-finance/postmortem-report-of-dns-hijacking-66ab9c6ce63d" target="_blank" rel="noopener noreferrer">access control</a>)</li>
-<li>etc.</li>
-</ul>
-<p>However fascinating blockchain security specifics** are, you must not forget that all these 'crypto-native' organizations are still <strong>people working with computers</strong>. Yes, I am being overly simplistic, but it's true nevertheless.</p>
-<p>It essentially boils down to this: you should <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">apply these (seemingly legacy) industry best practices such as <a href="https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final" target="_blank" rel="noopener noreferrer">NIST Security and Privacy Controls for Information Systems and Organizations</a>. If you don't, well you know, it's an accident waiting to happen...</span></p>
-<hr>
-<p><em>(*) First of all, it is only human not to do so! I don't follow every best security practice myself (it's the eternal trade-off between convenience and security) but then again I am running a blog. Not a multi-million dollar crypto-operation</em> 😬.</p>
-<p><em>(**) I sometimes get swept away by the insane amount of info that is available with regards to blockchain security. Did you know there is an entire research field dedicated to Miner Extractable Value (MEV): <a href="https://github.com/flashbots/mev-research">https://github.com/flashbots/mev-research</a> </em>🤖?</p>
-<p>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/error-code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
-<p> </p>
             ]]>
         </content>
     </entry>
