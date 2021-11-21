@@ -21,6 +21,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://blockchainsecurity.be/audit-firms/</loc>
+<lastmod>2021-11-21T21:07:14+01:00</lastmod>
+<image:image>
+<image:loc>https://blockchainsecurity.be/media\posts\25/seal-of-approval.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blockchainsecurity.be/best-practices-for-smart-contract-development/</loc>
 <lastmod>2021-11-14T23:25:55+01:00</lastmod>
 <image:image>
@@ -30,7 +38,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/capture-the-flag-challenges/</loc>
-<lastmod>2021-11-14T23:55:57+01:00</lastmod>
+<lastmod>2021-11-19T18:29:21+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\22/sigmund-By-tZImt0Ms-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -62,7 +70,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/</loc>
-<lastmod>2021-11-15T01:15:58+01:00</lastmod>
+<lastmod>2021-11-21T21:01:07+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\17/david-pupaza-heNwUmEtZzo-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -70,7 +78,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/free-advice/</loc>
-<lastmod>2021-11-15T16:44:07+01:00</lastmod>
+<lastmod>2021-11-21T21:40:35+01:00</lastmod>
 </url>
 <url>
 <loc>https://blockchainsecurity.be/gitcoin-and-kernel-fellowship/</loc>
@@ -81,6 +89,14 @@
 </image:image>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\24/kernel-logo.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blockchainsecurity.be/introduction-to-ethereum-scaling-and-layer-2s/</loc>
+<lastmod>2021-11-21T21:42:14+01:00</lastmod>
+<image:image>
+<image:loc>https://blockchainsecurity.be/media\posts\28/layer-2-scaling-small.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -150,7 +166,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/secureum-part-6-audit-techniques-and-tools-101/</loc>
-<lastmod>2021-11-07T19:47:02+01:00</lastmod>
+<lastmod>2021-11-21T19:29:47+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\20/Secureum-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>

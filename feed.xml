@@ -58,6 +58,106 @@
         </content>
     </entry>
     <entry>
+        <title>Introduction to Ethereum scaling &amp; Layer 2&#x27;s</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/introduction-to-ethereum-scaling-and-layer-2s/"/>
+        <id>https://blockchainsecurity.be/introduction-to-ethereum-scaling-and-layer-2s/</id>
+            <category term="Ethereum"/>
+
+        <updated>2021-11-21T21:42:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/28/layer-2-scaling-small.png" alt="" />
+                    Oh boy, some concepts are (pretty) hard to wrap your mind around,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/28/layer-2-scaling-small.png" alt="" />
+                <p>Oh boy, some concepts are (pretty) hard to wrap your mind around, one of these is scaling &amp; layer 2's... 🤯💀</p>
+<p>Here are some articles that I bookmarked when I wanted to understand what's exactly the problem:</p>
+<ul>
+<li><a href="https://defipulse.com/blog/a-beginners-guide-to-ethereum-scaling-solutions/">https://defipulse.com/blog/a-beginners-guide-to-ethereum-scaling-solutions/</a> (+ <a href="https://polynya.medium.com/the-lay-of-the-modular-blockchain-land-d937f7df4884">https://polynya.medium.com/the-lay-of-the-modular-blockchain-land-d937f7df4884)</a></li>
+<li><a href="https://vitalik.ca/general/2021/01/05/rollup.html">https://vitalik.ca/general/2021/01/05/rollup.html</a> </li>
+<li><a href="https://polynya.medium.com/rollups-data-availability-layers-modular-blockchains-introductory-meta-post-5a1e7a60119d">https://polynya.medium.com/rollups-data-availability-layers-modular-blockchains-introductory-meta-post-5a1e7a60119d</a> </li>
+<li><a href="https://polynya.medium.com/addressing-common-rollup-misconceptions-eba9d758707e">https://polynya.medium.com/addressing-common-rollup-misconceptions-eba9d758707e</a> </li>
+<li><a href="https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48">https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48</a> </li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Audit Firms (or the &#x27;Seal of Approval&#x27;)</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/audit-firms/"/>
+        <id>https://blockchainsecurity.be/audit-firms/</id>
+            <category term="Security"/>
+            <category term="Lists"/>
+
+        <updated>2021-11-21T21:07:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/25/seal-of-approval.png" alt="" />
+                    Secureum Part 6 listed a non-exhaustive list of smart contract security audit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/25/seal-of-approval.png" alt="" />
+                <p><a href="https://blockchainsecurity.be/secureum-part-6-audit-techniques-and-tools-101/" target="_blank" rel="noopener noreferrer">Secureum Part 6</a> listed a <em>non-exhaustive</em> list of <strong>smart contract security</strong> <strong>audit firms</strong>. I hadn't heard about all of them (it's impossible to cover them <em>all</em>, so 🤷‍♂️), but here it goes. Just so you know: most of these firms offer more than just audit services!</p>
+<p>I visited each website and tried to find out where these firms are located (I didn't invest much time, so no crazy OSINT searches to find out who is behind each company). Most of these <strong>operate globally</strong> I reckon, because why yes, remote work is <em>sweet </em>👏.</p>
+<ul>
+<li><a href="https://www.abdk.consulting/" rel="">ABDK</a> (unclear, founder is from Russian origin, but seems to have a European PhD)</li>
+<li><a href="https://arcadiamgroup.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Arcadia</a> (Dallas, USA)</li>
+<li><a href="https://www.cybersecurityintelligence.com/beosin-5834.html" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Beosin</a> (Chengdu, China)</li>
+<li><a href="https://www.blockchainconsilium.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Blockchain Consilium</a> (Toronto, Canada)</li>
+<li><a href="https://www.blocksecteam.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">BlockSec</a> (unclear, seems China)</li>
+<li><a href="https://certik.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">CertiK</a> (HQ in New York, USA)</li>
+<li><a href="https://chainsafe.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">ChainSafe</a> (Toronto, Canada)</li>
+<li><a href="https://chainsecurity.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">ChainSecurity</a> (Zurich, Switzerland)</li>
+<li><a href="https://chainsulting.de/smart-contract-audit/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Chainsulting</a> (Germany)</li>
+<li><a href="https://www.coinfabrik.com/services/smart-contract-audits/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">CoinFabrik</a> (Buenos Aires, Argentina)</li>
+<li><a href="https://consensys.net/diligence/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">ConsenSys Diligence</a> (HQ in New York, USA)</li>
+<li><a href="https://www.dedaub.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Dedaub</a> (unclear, USA or EU)</li>
+<li><a href="https://github.com/g0-group" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">G0</a> (unclear)</li>
+<li><a href="https://hacken.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Hacken</a> (Kyiv, Ukraine)</li>
+<li><a href="https://audit.haechi.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Haechi</a> (Seoul, South Korea)</li>
+<li><a href="https://halborn.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Halborn</a> (New York, USA)</li>
+<li><a href="https://hashex.org/smart_contracts_and_audit/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">HashEx</a> (St. Petersburg, Russia)</li>
+<li><a href="https://iosiro.com/services/smart-contract-auditing" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Iosiro</a> (South Africa)</li>
+<li><a href="https://leastauthority.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Least Authority</a> (Berlin, Germany)</li>
+<li><a href="https://mixbytes.io/audit" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">MixBytes</a> (Moscow, Russia)</li>
+<li><a href="https://www.nccgroup.com/us/our-services/cyber-security/specialist-practices/cryptography-services/blockchain-security/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">NCC</a> (worldwide)</li>
+<li><a href="https://www.nviso.eu/">NVISO</a> (Belgium, Germany)</li>
+<li><a href="https://audits.newalchemy.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">NewAlchemy</a> (Seattle, USA)</li>
+<li><a href="https://openzeppelin.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">OpenZeppelin</a> (worldwide)</li>
+<li><a href="https://peckshield.com/en" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">PeckShield</a> (worldwide, originally China)</li>
+<li><a href="https://pessimistic.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Pessimistic</a> (Tallinn, Estonia)</li>
+<li><a href="https://peppersec.com/smart-contract-audit.html" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">PepperSec</a> (Moscow, Russia)</li>
+<li><span style="text-decoration: line-through;">Pickle </span>(unclear, website is broken)</li>
+<li><a href="https://quantstamp.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Quantstamp</a> (San Francisco, USA)</li>
+<li><a href="https://audits.quillhash.com/smart-contract-audit" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">QuillHash</a> (India)</li>
+<li><a href="https://runtimeverification.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Runtime Verification</a> (Illinois, USA)</li>
+<li><a href="https://sigmaprime.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Sigma Prime</a> (Sydney, Australia)</li>
+<li><a href="https://www.slowmist.com/en/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">SlowMist</a> (China)</li>
+<li><a href="https://smartdec.net/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">SmartDec</a> (Moscow, Russia)</li>
+<li><a href="https://solidified.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Solidified</a> (Nevada, USA)</li>
+<li><a href="https://www.somish.com/blockchain/smart-contract-audit/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Somish</a> (New Delhi, India)</li>
+<li><a href="https://www.trailofbits.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Trail of Bits</a> (New York, USA)</li>
+<li><a href="https://www.zokyo.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Zokyo</a> (Kyiv, Ukraine)</li>
+</ul>
+<hr>
+<p>This posts reminds me: I recently attended OpenZeppelin's first community call where they updated users / developers / ... about upcoming changes: <a href="https://www.youtube.com/watch?v=ed96DWbfliQ">https://www.youtube.com/watch?v=ed96DWbfliQ</a> </p>
+<p>It was an interesting session to listen to! </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>yAcademy</title>
         <author>
             <name>Anonymous</name>
@@ -258,18 +358,17 @@
             <category term="Lists"/>
             <category term="CTF"/>
 
-        <updated>2021-11-14T23:55:57+01:00</updated>
+        <updated>2021-11-19T18:29:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/22/sigmund-By-tZImt0Ms-unsplash.jpg" alt="" />
-                    Capture the Flag (CTF) in cyber security is an exercise in which&hellip;
+                    Here's a list to some well-known Ethereum CTF challenges. I might do&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blockchainsecurity.be/media/posts/22/sigmund-By-tZImt0Ms-unsplash.jpg" alt="" />
-                <p class="msg msg--info"><strong>Capture the Flag (CTF)</strong> in cyber security is an exercise in which "flags" are secretly hidden in purposefully-vulnerable programs or websites. CTF's are often organised as a live competition where participants steal flags either from other competitors (attack/defense-style CTFs) or from the organizers (jeopardy-style challenges).<span style="font-size: 11.96px;"> </span><strong>Several variations exist, including hiding flags in vulnerable blockchain contracts for others to exploit and/or abuse: thus enter blockchain (security) CTF's!</strong> These challenges are based on the traditional outdoor sport of the same name. (~ loosely copied from Wikipedia and extended by myself)</p>
-<p>Here's a list to some well-known Ethereum CTF challenges. I might do a more detailed write-up of some of these to brush up my writing skills 😅. If you get stuck: walkthroughs are easy to find through your favourite search engine!</p>
+                <p>Here's a list to some well-known Ethereum CTF challenges. I might do a more detailed write-up of some of these to brush up my writing skills 😅. If you get stuck: walkthroughs are easy to find through your favourite search engine!</p>
 <ul>
 <li><a href="https://ethernaut.openzeppelin.com">Ethernaut</a></li>
 <li><a href="https://capturetheether.com/">Capture The Ether</a></li>
@@ -278,6 +377,7 @@
 </ul>
 <p>There exist other, lesser-known "pop-up" CTF challenges, e.g. see <a href="https://twitter.com/samczsun/status/1451236190917701636">samczsun's post on Twitter </a>with the corresponding pinball machine contract 🕹:</p>
 <p><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a> </p>
+<p class="msg msg--highlight  msg--info"><strong>Capture the Flag (CTF)</strong> in cyber security is an exercise in which "flags" are secretly hidden in purposefully-vulnerable programs or websites. CTF's are often organised as a live competition where participants steal flags either from other competitors (attack/defense-style CTFs) or from the organizers (jeopardy-style challenges).<span style="font-size: 11.96px;"> </span><strong>Several variations exist, including hiding flags in vulnerable blockchain contracts for others to exploit and/or abuse: thus enter blockchain (security) CTF's!</strong> These challenges are based on the traditional outdoor sport of the same name. (~ loosely copied from Wikipedia and extended by myself)</p>
 <hr>
 <p>Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/s/photos/game-over?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
@@ -292,7 +392,7 @@
         <id>https://blockchainsecurity.be/secureum-part-6-audit-techniques-and-tools-101/</id>
             <category term="Secureum"/>
 
-        <updated>2021-11-07T19:47:02+01:00</updated>
+        <updated>2021-11-21T19:29:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/20/Secureum-2.png" alt="" />
@@ -324,7 +424,7 @@
 <li><a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=36e27bae14&amp;e=3f67c7be6c">246 Findings From our Smart Contract Audits: An Executive Summary</a></li>
 </ol>
 </li>
-<li>Run MythX (Use promotion code: SECUREUM2021) on Fei Protocol contracts and analyze the reported findings: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9163adfae1&amp;e=3f67c7be6c">https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts</a></li>
+<li>Run MythX (Use promotion code: <span style="text-decoration: line-through;">redacted</span>) on Fei Protocol contracts and analyze the reported findings: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9163adfae1&amp;e=3f67c7be6c">https://github.com/fei-protocol/fei-protocol-core/tree/master/contracts</a></li>
 <li>Run Slither on Uniswap V3 contracts and analyze the reported findings: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e9dd11b315&amp;e=3f67c7be6c">https://github.com/Uniswap/uniswap-v3-core/tree/main/contracts</a></li>
 <li>Watch “The Evolution of Smart Contract Security” by Dan Guido, Trail of Bits: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=c056989c7b&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=fOkQuNzVn_Q</a></li>
 <li>Attempt Paradigm CTF: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=487bbf380e&amp;e=3f67c7be6c">https://github.com/paradigm-operations/paradigm-ctf-2021</a></li>
@@ -332,6 +432,10 @@
 <hr>
 <h3>Thoughts</h3>
 <div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/42ECp2Or01Y3xDHM2u" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
+<ul>
+<li>Jokes aside, this was an entertaining chapter! I really liked the list of audit firms (I will repost them in a separate article) + an overview of all the security tooling one can use. It is a daunting overview to say the least, but such is life. Security is complex, and in such a fast-paced, emerging technology field it's to be expected that there is a exponential growth in supporting security tools.</li>
+<li>I might publish some articles with how-to's on each tool, that's perhaps helpful for 1/ myself and 2/ other people dipping their toes in smart contract security audits.</li>
+</ul>
 <p> </p>
             ]]>
         </content>
@@ -409,149 +513,6 @@
 <p>For additional reading, see also: <a href="https://ethereum.org/en/developers/docs/evm/#top">https://ethereum.org/en/developers/docs/evm/</a> &amp; especially the section <a href="https://ethereum.org/en/developers/docs/evm/#further-reading">#further-reading</a> 📕<br><br></p>
 <hr>
 <p>Illustration by <a title="Envato Elements" rel="sponsored noopener noreferrer" target="_blank" href="https://elements.envato.com/user/alexdndz?utm_source=reshot&amp;utm_medium=referral&amp;utm_campaign=elements_reshot_illustration_item_page" class="illustrations-item-page__contributor" data-controller="elements--link" data-elements--link-campaign-value="elements_reshot_illustration_item_page" data-elements--link-uri-value="https://elements.envato.com/user/alexdndz" data-action="click-&gt;elements--link#logClickEvent">@alexdndz </a>on Reshot</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Everybody is winging it, all the time.</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/"/>
-        <id>https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/</id>
-            <category term="Blog"/>
-
-        <updated>2021-11-15T01:15:58+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
-                    I probably suffer a tiny bit from imposter syndrome, so I find&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/17/david-pupaza-heNwUmEtZzo-unsplash.jpg" alt="" />
-                <p>I probably suffer a tiny bit from <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">imposter syndrome</a>, so I find it hard to commit myself to consistently write articles (however minimal they might even be) for this blog. But then again: <strong>sucking at something is the first step to being sort of good at something</strong>. So here it goes, below you can find the list of resources I have come across on my adventures on the world wide web.</p>
-<p>Some of these links I can already scratch from the list ✔️😊.</p>
-<p>I am still thinking about:</p>
-<ol>
-<li>How to best structure posts. One aspect is that alot of these resources are also on other's guides (e.g. see <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/"></a><a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/">Introduction to smart contract security and hacking</a>), but I don't think it's a big issue. Each of these items is worthy of a blog post, as there is alot of content to cover.</li>
-<li>I reckon the Publii theme I've chosen is not the most sensible one for blogging, but I'll see how it goes... 🙈</li>
-</ol>
-<p><strong>General</strong></p>
-<ul>
-<li><span style="text-decoration: line-through;"><a href="https://kernel.community/module-0/">https://kernel.community/module-0/</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/gitcoin-and-kernel-fellowship/">article</a>)</li>
-<li><a href="https://github.com/trufflesuite/ganache-cli-archive">https://github.com/trufflesuite/ganache-cli-archive</a> </li>
-<li><a href="https://ethereum.org/en/developers/learning-tools/">https://ethereum.org/en/developers/learning-tools/</a> </li>
-<li><a href="https://matterlabs.notion.site/matterlabs/Matter-Labs-Team-Handbook-43342b471fe14f05b2baf250cb7c7a02">https://matterlabs.notion.site/matterlabs/Matter-Labs-Team-Handbook-43342b471fe14f05b2baf250cb7c7a02</a> </li>
-<li><a href="https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955">https://medium.com/matter-labs/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955</a> </li>
-<li><a href="https://cryptodevhub.io/wiki/blockchain-development-tutorial">https://cryptodevhub.io/wiki/blockchain-development-tutorial</a> </li>
-<li>ETH.BUILD: <a href="https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi">https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi</a> </li>
-<li>The sorry state of DeFi security: <a href="https://youtu.be/6iJC-1meyYU">https://youtu.be/6iJC-1meyYU</a> </li>
-</ul>
-<p><strong>Security</strong></p>
-<ul>
-<li><a href="https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph">https://media.consensys.net/time-sure-does-fly-ed4518792679#.r5e4xnbph</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.damnvulnerabledefi.xyz/">https://www.damnvulnerabledefi.xyz/</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
-<li><a href="https://docs.openzeppelin.com/contracts/4.x/">https://docs.openzeppelin.com/contracts/4.x/</a> </li>
-<li><a href="https://docs.openzeppelin.com/learn/developing-smart-contracts">https://docs.openzeppelin.com/learn/developing-smart-contracts</a> </li>
-<li><a href="https://docs.soliditylang.org/en/latest/security-considerations.html">https://docs.soliditylang.org/en/latest/security-considerations.html#</a> </li>
-<li><a href="https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md">https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md</a> <a href="https://dasp.co/#item-1">https://dasp.co/#item-1</a> </li>
-<li><a href="https://cryptoservices.github.io/">https://cryptoservices.github.io/</a> </li>
-<li><a href="https://github.com/sigp/solidity-security-blog/blob/master/README.md">https://github.com/sigp/solidity-security-blog/blob/master/README.md</a> </li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/known_attacks/">https://consensys.github.io/smart-contract-best-practices/known_attacks/</a> </li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/recommendations/">https://consensys.github.io/smart-contract-best-practices/recommendations/</a> </li>
-<li><a href="https://consensys.net/blog/developers/the-smart-contract-security-mindset/">https://consensys.net/blog/developers/the-smart-contract-security-mindset/</a> </li>
-<li><a href="https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/">https://consensys.net/blog/blockchain-development/ethereum-smart-contract-security-recommendations/</a> </li>
-<li><a href="https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/">https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/</a> </li>
-<li><a href="https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05/">https://blog.openzeppelin.com/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05/</a> </li>
-<li><a href="https://research.nccgroup.com/wp-content/uploads/2020/03/NCC-Group-Whitepaper-Coinbugs.pdf">https://research.nccgroup.com/wp-content/uploads/2020/03/NCC-Group-Whitepaper-Coinbugs.pdf</a> </li>
-<li><a href="https://github.com/PeterBorah/smart-contract-security-examples/issues/3">https://github.com/PeterBorah/smart-contract-security-examples/issues/3</a> </li>
-<li><a href="https://medium.com/@peterborah/we-need-fault-tolerant-smart-contracts-ec1b56596dbc">https://medium.com/@peterborah/we-need-fault-tolerant-smart-contracts-ec1b56596dbc</a> </li>
-<li><a href="https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/">https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/</a> </li>
-<li><a href="https://blog.ethereum.org/category/security/">https://blog.ethereum.org/category/security/</a> </li>
-<li><a href="https://hackingdistributed.com/2020/03/11/flash-loans/">https://hackingdistributed.com/2020/03/11/flash-loans/</a>  +  <a href="https://hackingdistributed.com/2016/07/13/reentrancy-woes/">https://hackingdistributed.com/2016/07/13/reentrancy-woes/</a> </li>
-<li><a href="https://media.consensys.net/time-sure-does-fly-ed4518792679">https://media.consensys.net/time-sure-does-fly-ed4518792679</a> </li>
-<li><a href="https://cryptoconsortium.github.io/CCSS/">https://cryptoconsortium.github.io/CCSS/</a> </li>
-<li><a href="https://www.pentestpartners.com/security-blog/blockchain-implementation-security-a-hardening-how-to/">https://www.pentestpartners.com/security-blog/blockchain-implementation-security-a-hardening-how-to/</a> </li>
-<li><a href="https://matterlabs.notion.site/Best-Practices-69868a3105e04ba0b5e15e94ea27bfc6">https://matterlabs.notion.site/Best-Practices-69868a3105e04ba0b5e15e94ea27bfc6</a> </li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/">https://consensys.github.io/smart-contract-best-practices/</a> </li>
-<li><a href="https://github.com/fravoll/solidity-patterns">https://github.com/fravoll/solidity-patterns</a> </li>
-<li><a href="https://secureum.substack.com/p/smart-contract-security-101-secureum">https://secureum.substack.com/p/smart-contract-security-101-secureum</a> </li>
-<li><a href="https://chain.link/bootcamp/bootcamp-2021-on-demand">https://chain.link/bootcamp/bootcamp-2021-on-demand</a>  (see chapter regarding smart contract security) </li>
-<li><span style="text-decoration: line-through;"><a href="https://secureum.substack.com/p/smart-contract-security-resources">https://secureum.substack.com/p/smart-contract-security-resources</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/secureum/">article</a>)</li>
-<li><a href="https://github.com/securing/SCSVS">https://github.com/securing/SCSVS</a> </li>
-<li><a href="https://github.com/SmartContractSecurity/SWC-registry">https://github.com/SmartContractSecurity/SWC-registry</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum">https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum</a> </span> (✔️-&gt;<a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/">article</a>)</li>
-<li><a href="https://github.com/tintinweb/smart-contract-sanctuary">https://github.com/tintinweb/smart-contract-sanctuary</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://yacademy.substack.com/p/yacademy-newsletter-1">https://yacademy.substack.com/p/yacademy-newsletter-1</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/yacademy/">article</a>)</li>
-<li><a href="https://swcregistry.io/">https://swcregistry.io/</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code">https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code</a>  + <a href="https://twitter.com/samczsun/status/1451236190917701636">https://twitter.com/samczsun/status/1451236190917701636</a></span> (✔️-&gt;<a href="https://blockchainsecurity.be/capture-the-flag-challenges/" target="_blank" rel="noopener noreferrer">article</a>)</li>
-<li><a href="https://github.com/KadenZipfel/smart-contract-attack-vectors">https://github.com/KadenZipfel/smart-contract-attack-vectors</a> </li>
-<li><a href="https://github.com/Rari-Capital/solcurity">https://github.com/Rari-Capital/solcurity</a> </li>
-<li><a href="https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8">https://medium.com/immunefi/the-web3-security-revolution-ec33ea7a85f8</a> </li>
-</ul>
-<p> </p>
-<div><strong>EVM </strong></div>
-<ul>
-<li><a href="https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list">https://eth.wiki/en/concepts/evm/ethereum-virtual-machine-(evm)-awesome-list</a> </li>
-<li><span style="text-decoration: line-through;"><a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf</a></span> (✔️-&gt;<a href="https://blockchainsecurity.be/ethereum-evm-illustrated/">article</a>)</li>
-<li><a href="https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30">https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30</a> </li>
-<li><a href="https://consensys.net/blog/blockchain-explained/">https://consensys.net/blog/blockchain-explained/</a> </li>
-<li><a href="https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/">https://consensys.net/blog/blockchain-explained/want-to-really-understand-blockchain-you-need-to-understand-state/</a> </li>
-<li><a href="https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3">https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3</a> </li>
-</ul>
-<hr>
-<p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
-<p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Secureum Bootcamp Part 4: Security Pitfalls &amp; Best Practices 101</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/"/>
-        <id>https://blockchainsecurity.be/secureum-bootcamp-part-3-security-pitfalls-and-best-practices-101/</id>
-            <category term="Secureum"/>
-
-        <updated>2021-11-07T19:54:29+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/12/Secureum-2.png" alt="" />
-                    Content AssignmentsExplore the SWC Registry list and test cases: https://swcregistry.io/Watch “Intro to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/12/Secureum-2.png" alt="" />
-                <p><strong>Content</strong></p>
-<ol>
-<li>Article on "Security Pitfalls &amp; Best Practices 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=469d85d9e1&amp;e=3f67c7be6c">https://secureum.substack.com/p/security-pitfalls-and-best-practices-101</a></li>
-<li>YouTube videos on "Security Pitfalls &amp; Best Practices 101":
-<ol>
-<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=272279d981&amp;e=3f67c7be6c">https://youtu.be/OOzyoaYIw2k</a></li>
-<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=01a89a385a&amp;e=3f67c7be6c">https://youtu.be/fgXuHaZDenU</a></li>
-<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=944423ca24&amp;e=3f67c7be6c">https://youtu.be/YVewx1xVROE</a></li>
-<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=82bf14da2d&amp;e=3f67c7be6c">https://youtu.be/byA3MLLiKMM</a></li>
-<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=40f297e6d6&amp;e=3f67c7be6c">https://youtu.be/vyWLO5Dlg50</a></li>
-</ol>
-</li>
-</ol>
-<p><strong>Assignments</strong></p>
-<ol>
-<li>Explore the SWC Registry list and test cases: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=6005cc6544&amp;e=3f67c7be6c">https://swcregistry.io/</a></li>
-<li>Watch “Intro to Security First Development” by Gonçalo Sá, ConsenSys Diligence: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=ccc374ae07&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=72K57I9yvyI</a></li>
-<li>Watch “Protect your Crypto and Avoid Getting Hacked” by Mehdi Zerouali, Sigma Prime: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=35bb9acda2&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=L2DRC6PjTgk</a></li>
-<li>Watch “DeFi Security: With So Many Hacks, Will It Ever Be Safe?” on Unchained Podcast with Dan Guido (Trail of Bits) and Taylor Monahan (MyCrypto): <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=bd838598e3&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=Sc5fZ-Wprx8</a></li>
-<li>Attempt CTF: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=779ef53a5e&amp;e=3f67c7be6c">https://capturetheether.com/</a><br><br></li>
-</ol>
-<hr>
-<h3>Thoughts</h3>
-<ul>
-<li>Update on 7 November 2021, the evening at the deadline before the quiz for this part closes. I'm really having trouble to set aside enough hours to study (read the articles, watch the video's, do the assignments, ...). Family life is quite consuming (and takes priority 😅) i.e. I only have a couple of hours available in the evenings (and then not even every day / night), so it's pretty hard. Anyway, let's keep going at it!<br><br><div class="post__iframe"><iframe loading="lazy" width="480" height="261" src="https://giphy.com/embed/wSCAy1zJbcUG4" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div></li>
-</ul>
             ]]>
         </content>
     </entry>
