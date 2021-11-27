@@ -58,6 +58,62 @@
         </content>
     </entry>
     <entry>
+        <title>Secureum Part 8: Audit Findings 201</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/secureum-part-8-audit-findings-201/"/>
+        <id>https://blockchainsecurity.be/secureum-part-8-audit-findings-201/</id>
+            <category term="Secureum"/>
+
+        <updated>2021-11-27T20:33:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/29/Secureum-2.png" alt="" />
+                    Content AssignmentsRead the audit report along with the smart contracts to understand&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/29/Secureum-2.png" alt="" />
+                <p><strong>Content</strong></p>
+<ol>
+<li>Article on "Audit Findings 201": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=8fcbbd6a5e&amp;e=3f67c7be6c">https://secureum.substack.com/p/audit-findings-201</a></li>
+<li>YouTube videos on "Audit Findings 201":
+<ol>
+<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=814ca2ebc2&amp;e=3f67c7be6c">https://youtu.be/IXm6JAprhuw</a></li>
+<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=ad767416dd&amp;e=3f67c7be6c">https://youtu.be/yphqu2N35X4</a></li>
+<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=91690ed5d6&amp;e=3f67c7be6c">https://youtu.be/zAzNDwu23UI</a></li>
+<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=889d4e4c8c&amp;e=3f67c7be6c">https://youtu.be/poxzr4-srn0</a></li>
+<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=d5e1eb1b55&amp;e=3f67c7be6c">https://youtu.be/0J7KI4WGd0Q</a></li>
+</ol>
+</li>
+</ol>
+<p><strong>Assignments</strong></p>
+<ol>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for 1inch Liquidity Protocol: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=4a15576cc7&amp;e=3f67c7be6c">https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/</a></li>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for Origin Dollar: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=73622ab60d&amp;e=3f67c7be6c">https://github.com/trailofbits/publications/blob/master/reviews/OriginDollar.pdf</a></li>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for Synthetix EtherCollateral: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=bff294fcb8&amp;e=3f67c7be6c">https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf</a></li>
+<li>Read the audit report along with the smart contracts to understand all the reported findings for Holdefi: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=2658ef9e4e&amp;e=3f67c7be6c">https://blog.openzeppelin.com/holdefi-audit</a></li>
+<li>Stay updated with Ethereum security articles/news
+<ol>
+<li>WeekInEthereumNews (security section): <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=d1ca224e0c&amp;e=3f67c7be6c">https://weekinethereumnews.com/</a></li>
+<li>BlockThreat Newsletter: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=1627763e37&amp;e=3f67c7be6c">https://www.blockthreat.io/</a></li>
+<li>Rekt: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=225b29f969&amp;e=3f67c7be6c">https://rekt.news/</a></li>
+<li>Secureum Newsletter: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=82cf644c4c&amp;e=3f67c7be6c">https://secureum.substack.com/</a></li>
+</ol>
+</li>
+</ol>
+<hr>
+<h3>Thoughts</h3>
+<ul>
+<li><div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/d2lcHJTG5Tscg" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div></li>
+<li>Not kidding: this is a surreal amount of (albeit interesting) information to cram. I don't have enough time to properly study, but I will perservere nevertheless. LFG 🚀🌙</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Introduction to Ethereum scaling &amp; Layer 2&#x27;s</title>
         <author>
             <name>Anonymous</name>
@@ -89,7 +145,7 @@
         </content>
     </entry>
     <entry>
-        <title>Audit Firms (or the &#x27;Seal of Approval&#x27;)</title>
+        <title>Audit Firms, or the &#x27;Seal of Approval&#x27;</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -98,7 +154,7 @@
             <category term="Security"/>
             <category term="Lists"/>
 
-        <updated>2021-11-21T21:07:14+01:00</updated>
+        <updated>2021-11-21T21:46:15+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/25/seal-of-approval.png" alt="" />
@@ -485,34 +541,6 @@
 <h3>Thoughts</h3>
 <div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/32mC2kXYWCsg0" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ethereum EVM illustrated</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/ethereum-evm-illustrated/"/>
-        <id>https://blockchainsecurity.be/ethereum-evm-illustrated/</id>
-            <category term="Ethereum"/>
-
-        <updated>2021-11-07T17:27:23+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/18/reshot-illustration-cryptocurrency-excange-9YANC6VLQE.png" alt="" />
-                    The book Mastering Ethereum does a great job explaining most important Ethereum&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/18/reshot-illustration-cryptocurrency-excange-9YANC6VLQE.png" alt="" />
-                <p>The book <a href="https://blockchainsecurity.be/mastering-ethereum/">Mastering Ethereum</a> does a great job explaining most important Ethereum aspects, but it often helps to have a 'visual aid' to truly understand how things work.</p>
-<p>Enter <a href="https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf">Ethereum EVM illustrated</a>, a document dating back to 2018 that really helps you understand most of these abstract concepts:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://blockchainsecurity.be/media/posts/18/evm_illustrated.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-xs.png 300w ,https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-sm.png 480w ,https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-md.png 768w ,https://blockchainsecurity.be/media/posts/18/responsive/evm_illustrated-lg.png 1024w"  alt="" width="750" height="556"></figure>
-<p>For additional reading, see also: <a href="https://ethereum.org/en/developers/docs/evm/#top">https://ethereum.org/en/developers/docs/evm/</a> &amp; especially the section <a href="https://ethereum.org/en/developers/docs/evm/#further-reading">#further-reading</a> 📕<br><br></p>
-<hr>
-<p>Illustration by <a title="Envato Elements" rel="sponsored noopener noreferrer" target="_blank" href="https://elements.envato.com/user/alexdndz?utm_source=reshot&amp;utm_medium=referral&amp;utm_campaign=elements_reshot_illustration_item_page" class="illustrations-item-page__contributor" data-controller="elements--link" data-elements--link-campaign-value="elements_reshot_illustration_item_page" data-elements--link-uri-value="https://elements.envato.com/user/alexdndz" data-action="click-&gt;elements--link#logClickEvent">@alexdndz </a>on Reshot</p>
             ]]>
         </content>
     </entry>
