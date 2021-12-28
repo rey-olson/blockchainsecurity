@@ -58,6 +58,41 @@
         </content>
     </entry>
     <entry>
+        <title>A quick tour on Ethereum private key attacks</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/a-quick-tour-on-ethereum-private-key-attacks/"/>
+        <id>https://blockchainsecurity.be/a-quick-tour-on-ethereum-private-key-attacks/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2021-12-28T18:54:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/30/ecdsa-priv-key.png" alt="" />
+                    I notice it's been another month since my last blog post... time&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/30/ecdsa-priv-key.png" alt="" />
+                <p class="msg msg--highlight ">I notice it's been another month since my last blog post... time really does fly! Here in Belgium, we're in yet another (semi, for now) lockdown. I'm stuck at home with the kids and they need my full attention. It's physically, mentally, emotionally <em>pretty </em>draining to say the least. But hey you: I wish you happy Christmas holidays 🎄, and a fabulous 2022 🎆!</p>
+<h2>Background</h2>
+<p>When I started this blog I originally wanted to zoom in on the entire spectrum of possible attacks on blockchains and the corresponding defenses, because the blockchain sphere is just so <strong>vast</strong>.</p>
+<p>Just like everywhere else, you need to sufficiently secure the whole eco-system, with all its (moving) parts. And so it becomes quickly, quite complex.</p>
+<p>It's not only 'blockchain security' (or backend security). Or your run-off-the-mill frontend web security. Or application security in general. Or anti-malware software on endpoints for that matter. No, it's all of these and much more: it's the sum of all parts.</p>
+<h2>Zero risk or one hundred percent security is a myth</h2>
+<p>Think your money is safe in a DeFi smart contract containing millions of dolllars/euros/ether worth of value? Don't forget the (often anonymous) dev team behind the scenes, that wield the keys to these contracts (i.e. the keys to the kingdom). If they make a mistake, then these contracts get drained and money is lost.</p>
+<p>It's a bit disheartening to see, but over the last year, the main culprit of many blockchain related 'hacks' was not smart contract exploits, but plain old phishing. The high-profile smart contract exploits have all but disappeared, but cyber criminals focus on low-effort-high return types of attacks.</p>
+<h2>The article, at last</h2>
+<p>Anyway, here is a nice Medium piece that zooms in on (some) attack vectors with regards to <strong>public-private key cryptography</strong>.</p>
+<p>It's one of the areas of blockchain security that I don't worry too much about. I reckon cryptography is a well-known and mature mathematics field, where there are enough smart people to keep up in the arms-race between attackers and defenders. Plus it's fundamental to the non-blockchain world as well, so that's an additional relief 😅.</p>
+<p>Here you go: <a href="https://medium.com/@pierreia/quick-tour-on-ethereum-private-keys-attacks-3082846b7632">https://medium.com/@pierreia/quick-tour-on-ethereum-private-keys-attacks-3082846b7632</a> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Secureum Part 8: Audit Findings 201</title>
         <author>
             <name>Anonymous</name>
@@ -492,54 +527,6 @@
 <li>Jokes aside, this was an entertaining chapter! I really liked the list of audit firms (I will repost them in a separate article) + an overview of all the security tooling one can use. It is a daunting overview to say the least, but such is life. Security is complex, and in such a fast-paced, emerging technology field it's to be expected that there is a exponential growth in supporting security tools.</li>
 <li>I might publish some articles with how-to's on each tool, that's perhaps helpful for 1/ myself and 2/ other people dipping their toes in smart contract security audits.</li>
 </ul>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Secureum Part 5: Security Pitfalls &amp; Best Practices 201</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/secureum-part-5-security-pitfalls-and-best-practices-201/"/>
-        <id>https://blockchainsecurity.be/secureum-part-5-security-pitfalls-and-best-practices-201/</id>
-            <category term="Solidity"/>
-            <category term="Secureum"/>
-
-        <updated>2021-11-15T01:11:53+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/19/Secureum-2.png" alt="" />
-                    Content Assignments 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/19/Secureum-2.png" alt="" />
-                <p><strong>Content</strong></p>
-<ol>
-<li>Article on "Security Pitfalls &amp; Best Practices 201": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9353f7111b&amp;e=3f67c7be6c">https://secureum.substack.com/p/security-pitfalls-and-best-practices-201</a></li>
-<li>YouTube videos on "Security Pitfalls &amp; Best Practices 201":
-<ol>
-<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=86309dca55&amp;e=3f67c7be6c">https://youtu.be/WGM1SF8twmw</a></li>
-<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a4904cf58e&amp;e=3f67c7be6c">https://youtu.be/HqHo1jKUnmU</a></li>
-<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a799b01200&amp;e=3f67c7be6c">https://youtu.be/pXoEIjHupXk</a></li>
-<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=62d6010734&amp;e=3f67c7be6c">https://youtu.be/IVbEIbIpWUY</a></li>
-<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=b120ba0599&amp;e=3f67c7be6c">https://youtu.be/QSsfkmcdbPw</a></li>
-</ol>
-</li>
-</ol>
-<p><strong>Assignments</strong></p>
-<ol>
-<li>Read <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=26e9b28e01&amp;e=3f67c7be6c">https://samczsun.com/so-you-want-to-use-a-price-oracle/</a> and <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a3ff0be448&amp;e=3f67c7be6c">https://samczsun.com/the-dangers-of-surprising-code/</a></li>
-<li>Watch “Security By Design &amp; Smart Contract Audits” by Shayan Eskandari, Ex-ConsenSys Diligence: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=2886146056&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=gfD1KBtLWZI</a></li>
-<li>Watch “How to Build Secure Smart Contracts” by Josselin Feist, Trail of Bits: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=cf65dc218a&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=yP01yH4plT8</a></li>
-<li>Watch “White Hat Panel: DeFi Exploits”: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=d2704ab0d0&amp;e=3f67c7be6c">https://www.youtube.com/watch?v=Df2zzfoTfMc</a></li>
-<li>Attempt CTF: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=431c0eda52&amp;e=3f67c7be6c">https://www.damnvulnerabledefi.xyz/</a></li>
-</ol>
-<hr>
-<h3>Thoughts</h3>
-<div class="post__iframe"><iframe loading="lazy" width="480" height="270" src="https://giphy.com/embed/32mC2kXYWCsg0" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
             ]]>
         </content>
