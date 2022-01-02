@@ -140,7 +140,7 @@
 <li><a href="https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13">https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13</a></li>
 <li><a href="https://solidity-by-example.org/">https://solidity-by-example.org/</a></li>
 <li>Learning Solidity: <a href="https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg">https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity">https://github.com/bkrem/awesome-solidity</a> (#lists)</li>
+<li><span style="text-decoration: line-through;"><a href="https://github.com/bkrem/awesome-solidity">https://github.com/bkrem/awesome-solidity</a> </span>(✔️ -&gt; <a href="https://blockchainsecurity.be/awesome-solidity/">article</a>)</li>
 <li><a href="https://www.smartcontract.engineer/challenges">https://www.smartcontract.engineer/challenges</a>  (Solidity &amp; Vyper)</li>
 <li><span style="text-decoration: line-through;"><a href="https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2">https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2</a> </span>(✔️-&gt; <a href="https://blockchainsecurity.be/smart-contract-security-verification-standard-version-2-scsvsv2/">article</a>)</li>
 <li><a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b</a> </li>
@@ -162,14 +162,97 @@
         </content>
     </entry>
     <entry>
+        <title>Awesome Solidity</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/awesome-solidity/"/>
+        <id>https://blockchainsecurity.be/awesome-solidity/</id>
+            <category term="Solidity"/>
+            <category term="Security"/>
+            <category term="Lists"/>
+
+        <updated>2022-01-02T13:00:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/32/SolGray.png" alt="" />
+                    In the spirit of other guides with curated smart contract development/security resouces&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/32/SolGray.png" alt="" />
+                <p>In the spirit of other guides with curated smart contract development/security resouces published by <a href="https://blockchainsecurity.be/best-practices-for-smart-contract-development/" target="_blank" rel="noopener noreferrer">Yos Riady</a> or <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/" target="_blank" rel="noopener noreferrer">@tinchoabbate</a>, here is another magnificent curation by <a href="https://github.com/bkrem">Ben Kremer</a>, developer at <a href="https://walletconnect.com/">WalletConnect</a>:</p>
+<p><a href="https://github.com/bkrem/awesome-solidity">https://github.com/bkrem/awesome-solidity</a> </p>
+<h3 dir="auto">Table of Contents</h3>
+<ul dir="auto">
+<li><a href="https://github.com/bkrem/awesome-solidity#resources">Resources</a>
+<ul dir="auto">
+<li><a href="https://github.com/bkrem/awesome-solidity#official">Official</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#tutorials">Tutorials</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#articles">Articles</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#security">Security</a>
+<ul dir="auto">
+<li><a href="https://github.com/bkrem/awesome-solidity#audits">Audits</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bkrem/awesome-solidity#examples">Examples</a>
+<ul dir="auto">
+<li><a href="https://github.com/bkrem/awesome-solidity#educational">Educational</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#deployed-on-ethereum-mainnet">Deployed on Ethereum Mainnet</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bkrem/awesome-solidity#templates">Templates</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#books">Books</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#practice">Practice</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#jobs">Jobs</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bkrem/awesome-solidity#libraries">Libraries</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#tools">Tools</a>
+<ul dir="auto">
+<li><a href="https://github.com/bkrem/awesome-solidity#general">General</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#utility">Utility</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#audit">Audit</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#devops">DevOps</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bkrem/awesome-solidity#languages">Languages</a>
+<ul dir="auto">
+<li><a href="https://github.com/bkrem/awesome-solidity#javascript">JavaScript</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#typescript">TypeScript</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#rust">Rust</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#ocaml">OCaml</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bkrem/awesome-solidity#editor-plugins">Editor Plugins</a>
+<ul dir="auto">
+<li><a href="https://github.com/bkrem/awesome-solidity#atom">Atom</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#eclipse">Eclipse</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#emacs">Emacs</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#intellij">IntelliJ</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#sublime">Sublime</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#vim">Vim</a></li>
+<li><a href="https://github.com/bkrem/awesome-solidity#visual-studio-code">Visual Studio Code</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>Awesome Solidity is licensed under the Creative Commons public domain: <a href="https://creativecommons.org/publicdomain/zero/1.0/">https://creativecommons.org/publicdomain/zero/1.0/</a> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Smart Contract Security Verification Standard (SCSVSv2)</title>
         <author>
             <name>Anonymous</name>
         </author>
         <link href="https://blockchainsecurity.be/smart-contract-security-verification-standard-version-2-scsvsv2/"/>
         <id>https://blockchainsecurity.be/smart-contract-security-verification-standard-version-2-scsvsv2/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
 
-        <updated>2022-01-02T12:06:43+01:00</updated>
+        <updated>2022-01-02T12:20:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/31/adomas-aleno-ySLeov8m_8-unsplash-2.jpg" alt="" />
@@ -575,53 +658,6 @@
 <li>Diligence = <a href="https://consensys.net/diligence/">ConsenSys Diligence</a></li>
 <li>Gitcoin is not the first organisation fostering growth in the crypto, but they are one of the most prolific in the area (or at least, it's a name I often see popping up, i.e. besides all the crypto venture capital companies 😏)</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Secureum Part 7: Audit Findings 101</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/secureum-part-7-audit-findings-101/"/>
-        <id>https://blockchainsecurity.be/secureum-part-7-audit-findings-101/</id>
-            <category term="Secureum"/>
-
-        <updated>2021-11-14T23:14:15+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/21/Secureum-2.png" alt="" />
-                    Content Assignments 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/21/Secureum-2.png" alt="" />
-                <p><strong>Content</strong></p>
-<ol>
-<li>Article on "Audit Findings 101": <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=7d5183dcbb&amp;e=3f67c7be6c">https://secureum.substack.com/p/audit-findings-101</a></li>
-<li>YouTube videos on "Audit Findings 101":
-<ol>
-<li>Block 1: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=13a6ac626d&amp;e=3f67c7be6c">https://youtu.be/SromSImIpHE</a></li>
-<li>Block 2: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=0213203feb&amp;e=3f67c7be6c">https://youtu.be/KLBi3Uyg0dY</a></li>
-<li>Block 3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=b29d0cee8a&amp;e=3f67c7be6c">https://youtu.be/RUyED_6mkqg</a></li>
-<li>Block 4: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=92a51edc8d&amp;e=3f67c7be6c">https://youtu.be/D1Uz0NvrqeU</a></li>
-<li>Block 5: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=9edda4b30e&amp;e=3f67c7be6c">https://youtu.be/GX8Z0kRRi_I</a></li>
-</ol>
-</li>
-</ol>
-<p><strong>Assignments</strong></p>
-<ol>
-<li>Read the audit report along with the smart contracts to understand all the reported findings for Fei Protocol: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=6ad61835d8&amp;e=3f67c7be6c">https://consensys.net/diligence/audits/2021/01/fei-protocol</a></li>
-<li>Read the audit report along with the smart contracts to understand all the reported findings for Uniswap V3: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=e25956765f&amp;e=3f67c7be6c">https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf</a></li>
-<li>Read the audit report along with the smart contracts to understand all the reported findings for Chainlink: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=08cf08b7b0&amp;e=3f67c7be6c">https://github.com/sigp/public-audits/blob/master/chainlink-1/review.pdf</a></li>
-<li>Read the audit report along with the smart contracts to understand all the reported findings for Opyn Gamma protocol: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=cdae200175&amp;e=3f67c7be6c">https://blog.openzeppelin.com/opyn-gamma-protocol-audit/</a></li>
-<li>Watch: OpenZeppelin <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=a06ea100fe&amp;e=3f67c7be6c">tinchoabbate’s</a> “Secure Development Series”: <a href="https://xyz.us5.list-manage.com/track/click?u=2129bc623b516ba48a7029d14&amp;id=26d15d7f0a&amp;e=3f67c7be6c">https://www.youtube.com/playlist?list=PLdJRkA9gCKOONBSlcifqLig_ZTyG_YLqz</a></li>
-</ol>
-<hr>
-<h3>Thoughts</h3>
-<div class="post__iframe"><iframe loading="lazy" width="480" height="324" src="https://giphy.com/embed/aCAzXzUR8GmDC" frameborder="0" class="giphy-embed" allowfullscreen="allowfullscreen"></iframe></div>
-<p> </p>
             ]]>
         </content>
     </entry>
