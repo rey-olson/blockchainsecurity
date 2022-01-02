@@ -172,17 +172,17 @@
             <category term="Security"/>
             <category term="Lists"/>
 
-        <updated>2022-01-02T13:00:32+01:00</updated>
+        <updated>2022-01-02T13:08:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/32/SolGray.png" alt="" />
-                    In the spirit of other guides with curated smart contract development/security resouces&hellip;
+                    In honor of other guides with curated smart contract development/security resouces published&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blockchainsecurity.be/media/posts/32/SolGray.png" alt="" />
-                <p>In the spirit of other guides with curated smart contract development/security resouces published by <a href="https://blockchainsecurity.be/best-practices-for-smart-contract-development/" target="_blank" rel="noopener noreferrer">Yos Riady</a> or <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/" target="_blank" rel="noopener noreferrer">@tinchoabbate</a>, here is another magnificent curation by <a href="https://github.com/bkrem">Ben Kremer</a>, developer at <a href="https://walletconnect.com/">WalletConnect</a>:</p>
+                <p>In honor of other guides with curated smart contract development/security resouces published by <a href="https://blockchainsecurity.be/best-practices-for-smart-contract-development/" target="_blank" rel="noopener noreferrer">Yos Riady</a> or <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/" target="_blank" rel="noopener noreferrer">@tinchoabbate</a>, here is another great curation by <a href="https://github.com/bkrem">Ben Kremer</a>, developer at <a href="https://walletconnect.com/">WalletConnect</a>:</p>
 <p><a href="https://github.com/bkrem/awesome-solidity">https://github.com/bkrem/awesome-solidity</a> </p>
 <h3 dir="auto">Table of Contents</h3>
 <ul dir="auto">
@@ -238,7 +238,7 @@
 </li>
 </ul>
 <hr>
-<p>Awesome Solidity is licensed under the Creative Commons public domain: <a href="https://creativecommons.org/publicdomain/zero/1.0/">https://creativecommons.org/publicdomain/zero/1.0/</a> </p>
+<p>Awesome Solidity is dedicated to the (Creative Comments) <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>. </p>
             ]]>
         </content>
     </entry>
