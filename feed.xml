@@ -143,7 +143,7 @@
 <li><span style="text-decoration: line-through;"><a href="https://github.com/bkrem/awesome-solidity">https://github.com/bkrem/awesome-solidity</a> </span>(✔️ -&gt; <a href="https://blockchainsecurity.be/awesome-solidity/">article</a>)</li>
 <li><a href="https://www.smartcontract.engineer/challenges">https://www.smartcontract.engineer/challenges</a>  (Solidity &amp; Vyper)</li>
 <li><span style="text-decoration: line-through;"><a href="https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2">https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2</a> </span>(✔️-&gt; <a href="https://blockchainsecurity.be/smart-contract-security-verification-standard-version-2-scsvsv2/">article</a>)</li>
-<li><a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b</a> </li>
+<li><span style="text-decoration: line-through;"><a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b</a> </span>(✔️ -&gt; <a href="https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/">article</a>)</li>
 </ul>
 <p> </p>
 <div><strong>EVM </strong></div>
@@ -158,6 +158,46 @@
 <hr>
 <p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
 <p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hacking the Blockchain: An Ultimate Guide</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/"/>
+        <id>https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/</id>
+            <category term="Security"/>
+
+        <updated>2022-01-03T21:50:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/33/jpn-2.jpg" alt="" />
+                    0xSleepy published a Medium article on his journey in becoming a blockchain&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/33/jpn-2.jpg" alt="" />
+                <p><a href="https://0xsleepy.medium.com/">0xSleepy</a> published a Medium article on his journey in becoming a blockchain security researcher:</p>
+<p><a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b</a> </p>
+<p><strong>TLDR* on how to break into the blockchain security space; </strong></p>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=M576WGiDBdQ&amp;t=20781s">freeCodeCamp course (on Blockchain, Solidity &amp; smart contracts)</a></li>
+<li><a href="https://github.com/ethereumbook/ethereumbook">Chapters 1, 2, 3, 4, 5, 6, 13 and 14 in <em class="gx" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Mastering Ethereum</em></a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (Optional)</span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://cryptozombies.io/">CryptoZombies</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://www.youtube.com/watch?v=4Mm3BCyHtDY&amp;list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5">Hack Solidity</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Smart Contract Security Chapter in Mastering Ethereum (Optional)</span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://swcregistry.io/">SWC registry</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://secureum.substack.com/">Secureum bootcamp</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">CTFs (<a class="em in" href="https://ethernaut.openzeppelin.com/" rel="noopener ugc nofollow" target="_blank">Ethernaut</a>/<a class="em in" href="https://capturetheether.com/" rel="noopener ugc nofollow" target="_blank">CaptureTheEther</a> -&gt; <a class="em in" href="https://www.damnvulnerabledefi.xyz/" rel="noopener ugc nofollow" target="_blank">Damn Vulnerable DeFi </a>-&gt; <a class="em in" href="https://github.com/paradigm-operations/paradigm-ctf-2021" rel="noopener ugc nofollow" target="_blank">Paradigm CTF</a>) </span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Real life experience/job (☞ ͡° ͜ʖ ͡°)☞</span></span></li>
+</ol>
+<p><em>(*) I slightly edited his summary: lay-out and links</em></p>
+<hr>
+<p>Illustration by <a href="https://www.yuumeiart.com/">https://www.yuumeiart.com/</a> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -552,111 +592,6 @@
 <li>What is Yearn Finance? Check out this article: <a href="https://coincentral.com/what-is-yearn-finance/">https://coincentral.com/what-is-yearn-finance/</a> </li>
 <li>There exists a DAO (<a href="https://forum.dao.reviews/latest">ReviewDAO</a>) to engage security reviews from peers, but it seems dead (unless there is an active Discord, which I doubt, but I didn't check).</li>
 <li><a href="https://immunefi.com">Immunefi </a>is a DeFi bug bounty platform which has more success, but I'll cover this in a separate blog post.</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Gitcoin &amp; KERNEL Fellowship</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/gitcoin-and-kernel-fellowship/"/>
-        <id>https://blockchainsecurity.be/gitcoin-and-kernel-fellowship/</id>
-            <category term="Security"/>
-
-        <updated>2021-11-15T00:50:18+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/24/gitcoin-logo-small.png" alt="" />
-                    About Gitcoin We’re on a mission to build an internet that is&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/24/gitcoin-logo-small.png" alt="" />
-                <figure class="post__image post__image--wide" ><img loading="lazy" src="https://blockchainsecurity.be/media/posts/24/kernel-logo.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-xs.png 300w ,https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-sm.png 480w ,https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-md.png 768w ,https://blockchainsecurity.be/media/posts/24/responsive/kernel-logo-lg.png 1024w"  alt="" width="900" height="323">
-<figcaption ></figcaption>
-</figure>
-<div class="col-12 col-lg-6">
-<p class="mt-5 mb-3 msg msg--info"><strong>About Gitcoin<br><br></strong>We’re on a mission to build an internet that is open source, collaborative, and economically empowering.<br><br>We are creating community and infrastructure for Web 3 — a diverse range of tools, technologies, and networks that enable people to work for the open internet. <br><br>By funding projects, building community, and making learning resources accessible, we are teaming up to create the digital public infrastructure of tomorrow.</p>
-</div>
-<p>KERNEL is an 8-week, invite-only program for top tech talent looking to build relationships, products, and companies in blockchain and Web 3. It is foremost a community initiative, supported by <a href="https://gitcoin.co">Gitcoin</a>.</p>
-<p>One of the sub-tracks available is the <a href="https://www.notion.so/KERNEL-Security-Track-528c235fd378445786fc5082155c2f2f">security track</a>. Please note that they also have a <a href="https://kernel.community/en/learn">free learning</a> track 🌱 ❤️.</p>
-<p>You can apply for the next block of participants here: <a href="https://apply.kernel.community/">https://apply.kernel.community/</a> </p>
-<p><strong>Syllabus of the security track:</strong></p>
-<ul>
-<li>
-<p><strong>Week 1 — Web3 differences from traditional security (w/ Corey)</strong></p>
-<ul>
-<li>zero trust models everywhere</li>
-<li>data responsibility is on the end user</li>
-<li>“there is no castle”</li>
-<li>pyramid of pain</li>
-</ul>
-</li>
-<li>
-<p><strong>Week 2 — Automated Tooling (ToB / Dilligence)</strong></p>
-<ul>
-<li>what is automated tooling good for?</li>
-<li>invariant definition</li>
-<li>CI/CD</li>
-<li>Tooling available</li>
-</ul>
-</li>
-<li>
-<p><strong>Week 3 — Manual Review (ToB / Diligence)</strong></p>
-<ul>
-<li>why is manual review necessary when there is so much automated tooling available
-<ul>
-<li>architectural overview</li>
-<li>intent</li>
-<li>the human factor</li>
-</ul>
-</li>
-<li>risk assessment / threat modeling</li>
-</ul>
-</li>
-<li>
-<p><strong>Week 4 — Process Quality (Rex)</strong></p>
-<ul>
-<li>the development process</li>
-<li>preparing for an audit</li>
-<li>documentation</li>
-</ul>
-</li>
-<li>
-<p><strong>Week 5 — Org Security (Mehdi)</strong></p>
-<ul>
-<li>zero trust models</li>
-<li>oversight</li>
-<li>incident response
-<ul>
-<li>failure mode plans</li>
-</ul>
-</li>
-<li>red/blue teaming</li>
-<li>education</li>
-</ul>
-</li>
-<li>
-<p><strong>Week 6 — Monitoring / Alerting (OpenZeppelin)</strong></p>
-<ul>
-<li>CI/CD</li>
-<li>Asset monitoring
-<ul>
-<li>on-chain</li>
-<li>off-chain</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<hr>
-<ul>
-<li>ToB = <a href="https://www.trailofbits.com/">Trail of Bits</a></li>
-<li>Diligence = <a href="https://consensys.net/diligence/">ConsenSys Diligence</a></li>
-<li>Gitcoin is not the first organisation fostering growth in the crypto, but they are one of the most prolific in the area (or at least, it's a name I often see popping up, i.e. besides all the crypto venture capital companies 😏)</li>
 </ul>
             ]]>
         </content>
