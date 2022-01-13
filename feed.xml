@@ -166,6 +166,96 @@
         </content>
     </entry>
     <entry>
+        <title>Devansh Batham&#x27;s Genesis 0x00: A Series on Blockchain Security</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/"/>
+        <id>https://blockchainsecurity.be/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/</id>
+            <category term="Solidity"/>
+            <category term="Security"/>
+            <category term="Lists"/>
+            <category term="Ethereum"/>
+            <category term="DeFi"/>
+
+        <updated>2022-01-13T21:12:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/35/devansh-batham.jpg" alt="" />
+                    Here is another great blog series to get you help you on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/35/devansh-batham.jpg" alt="" />
+                <p>Here is another great blog series to get you help you on your journey down the blockchain security rabbit hole:</p>
+<p><a href="https://devansh.xyz/blockchain-security/2021/09/13/genesis.html"> Genesis 0x00: A Series on Blockchain Security</a> by <a href="https://devansh.xyz/">Devansh Batham</a>.</p>
+<p>I would do Devansh a disservice by not quoting his own summary, so here it goes:</p>
+<p class="msg msg--highlight "><strong>TLDR;<br></strong>Genesis is going to be a series of weekly articles on Blockchain Security, which will include interesting topics such as Blockchain basics, Blockchain Development, Ethereum 101, Building Dapps, Common vulnerabilities in smart contracts, Auditing Solidity source code, Static analysis of smart contracts, latest news and future state of DeFi.</p>
+<p>At the time of writing of this blog post he has published the first installments:</p>
+<ul>
+<li><a href="https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html">Genesis 0x01: Simplified Roadmap for Blockchain Security </a></li>
+<li><a href="https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html">Genesis 0x02: Basics of Blockchain </a></li>
+<li><a href="https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html">Genesis 0x03: Basics of Ethereum </a></li>
+<li><a href="https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html">Genesis 0x04: Learning Solidity in 30 Days </a></li>
+</ul>
+<hr>
+<h3>Thoughts </h3>
+<figure class="post__image">1) I am pretty in interested in trying the <strong>Learning Solidity in 30 Days</strong> challenge, since that is the part where I am struggling the most. Theory is all fine and dandy, but if you are not familiar withor fluent in Solidity, well then....<br><br><img loading="lazy"  src="https://blockchainsecurity.be/media/posts/35/bad-time-meme.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-xs.png 300w ,https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-sm.png 480w ,https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-md.png 768w ,https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-lg.png 1024w"  alt="" width="620" height="372"></figure><br><br></p>
+<p>2) His simplified roadmap (0x01) is extensive, but I reckon you need to already have a fairly good understanding of these concepts, to be able to put the pieces together. The biggest challenge is that, by just reading this stuff, you are not getting proficient or getting hands-on experience. I can personally attest to this. I finished the <a href="https://blockchainsecurity.be/secureum/">Secureum </a>bootcamp epoch 0 (i.e. read all the materials &amp; I participated in all the quizzes), but the learning curve was just too high. I need to back to basics and get my hands dirty in Solidity to make some <em>real </em>progress.</p>
+<p>This reminds me of advice formulated in <a href="https://cryptodevhub.io/wiki/blockchain-development-tutorial">CryptoDevHub</a>'s Getting Started wiki:</p>
+<p class="msg msg--highlight ">"It isn't super important what you're building as long as you focus your efforts on writing code, rather than consuming more blog posts and YouTube videos." </p>
+<p>So much this folks 👆. Do not make the same mistakes I made... 💯<br><br></p>
+<p>3) Speaking of "roadmaps"... I recently came across <a href="https://github.com/OffcierCia">Cia Officer</a>'s <strong>Defi Developer Roadmap</strong>:</p>
+<p><a href="https://github.com/OffcierCia/DeFi-Developer-Road-Map">https://github.com/OffcierCia/DeFi-Developer-Road-Map</a>. </p>
+<figure class="post__image" ><img loading="lazy" src="https://blockchainsecurity.be/media/posts/35/defi-developer-roadmap.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-xs.png 300w ,https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-sm.png 480w ,https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-md.png 768w ,https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-lg.png 1024w"  alt="" width="1240" height="1131">
+<figcaption >Beware: this screenshot shows only a subset of steps and topics that you need to cover..</figcaption>
+</figure>
+<p>This is another valuable, yet <em>massive </em>roadmap! I hope you are starting to see a pattern here with these roadmaps... <strong>In order to get up to speed in this ecosystem, one needs to study/process/master a rather large amount of (often technical) topics. So better start getting used to the fact, that it will <em>take time</em>🧘‍♀️😅.</strong><br><br><em>Note: I will most probably make a separate blog post about Cia Officer and his projects (besides this DeFi Developer Roadmap, he has other great research going on).</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>0xSleepy&#x27;s Hacking the Blockchain: An Ultimate Guide</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/"/>
+        <id>https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/</id>
+            <category term="Security"/>
+
+        <updated>2022-01-13T20:15:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/33/jpn-2.jpg" alt="" />
+                    0xSleepy published a Medium article on his journey in becoming a blockchain&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/33/jpn-2.jpg" alt="" />
+                <p><a href="https://0xsleepy.medium.com/">0xSleepy</a> published a Medium article on his journey in becoming a blockchain security researcher:</p>
+<p><a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b</a> </p>
+<p><strong>TLDR* on how to break into the blockchain security space; </strong></p>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=M576WGiDBdQ&amp;t=20781s">freeCodeCamp course (on Blockchain, Solidity &amp; smart contracts)</a></li>
+<li><a href="https://github.com/ethereumbook/ethereumbook">Chapters 1, 2, 3, 4, 5, 6, 13 and 14 in <em class="gx" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Mastering Ethereum</em></a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (Optional)</span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://cryptozombies.io/">CryptoZombies</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://www.youtube.com/watch?v=4Mm3BCyHtDY&amp;list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5">Hack Solidity</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Smart Contract Security Chapter in Mastering Ethereum (Optional)</span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://swcregistry.io/">SWC registry</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://secureum.substack.com/">Secureum bootcamp</a></span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">CTFs (<a class="em in" href="https://ethernaut.openzeppelin.com/" rel="noopener ugc nofollow" target="_blank">Ethernaut</a>/<a class="em in" href="https://capturetheether.com/" rel="noopener ugc nofollow" target="_blank">CaptureTheEther</a> -&gt; <a class="em in" href="https://www.damnvulnerabledefi.xyz/" rel="noopener ugc nofollow" target="_blank">Damn Vulnerable DeFi </a>-&gt; <a class="em in" href="https://github.com/paradigm-operations/paradigm-ctf-2021" rel="noopener ugc nofollow" target="_blank">Paradigm CTF</a>) </span></li>
+<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Real life experience/job (☞ ͡° ͜ʖ ͡°)☞</span></span></li>
+</ol>
+<p><em>(*) I slightly edited his summary: lay-out and links</em></p>
+<hr>
+<p>Illustration by <a href="https://www.yuumeiart.com/">https://www.yuumeiart.com/</a> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Token Economy</title>
         <author>
             <name>Anonymous</name>
@@ -240,47 +330,7 @@
         </content>
     </entry>
     <entry>
-        <title>Hacking the Blockchain: An Ultimate Guide</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/"/>
-        <id>https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/</id>
-            <category term="Security"/>
-
-        <updated>2022-01-03T21:50:14+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/33/jpn-2.jpg" alt="" />
-                    0xSleepy published a Medium article on his journey in becoming a blockchain&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/33/jpn-2.jpg" alt="" />
-                <p><a href="https://0xsleepy.medium.com/">0xSleepy</a> published a Medium article on his journey in becoming a blockchain security researcher:</p>
-<p><a href="https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b">https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b</a> </p>
-<p><strong>TLDR* on how to break into the blockchain security space; </strong></p>
-<ol>
-<li><a href="https://www.youtube.com/watch?v=M576WGiDBdQ&amp;t=20781s">freeCodeCamp course (on Blockchain, Solidity &amp; smart contracts)</a></li>
-<li><a href="https://github.com/ethereumbook/ethereumbook">Chapters 1, 2, 3, 4, 5, 6, 13 and 14 in <em class="gx" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Mastering Ethereum</em></a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"> (Optional)</span></li>
-<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://cryptozombies.io/">CryptoZombies</a></span></li>
-<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://www.youtube.com/watch?v=4Mm3BCyHtDY&amp;list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5">Hack Solidity</a></span></li>
-<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Smart Contract Security Chapter in Mastering Ethereum (Optional)</span></li>
-<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://swcregistry.io/">SWC registry</a></span></li>
-<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://secureum.substack.com/">Secureum bootcamp</a></span></li>
-<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">CTFs (<a class="em in" href="https://ethernaut.openzeppelin.com/" rel="noopener ugc nofollow" target="_blank">Ethernaut</a>/<a class="em in" href="https://capturetheether.com/" rel="noopener ugc nofollow" target="_blank">CaptureTheEther</a> -&gt; <a class="em in" href="https://www.damnvulnerabledefi.xyz/" rel="noopener ugc nofollow" target="_blank">Damn Vulnerable DeFi </a>-&gt; <a class="em in" href="https://github.com/paradigm-operations/paradigm-ctf-2021" rel="noopener ugc nofollow" target="_blank">Paradigm CTF</a>) </span></li>
-<li><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Real life experience/job (☞ ͡° ͜ʖ ͡°)☞</span></span></li>
-</ol>
-<p><em>(*) I slightly edited his summary: lay-out and links</em></p>
-<hr>
-<p>Illustration by <a href="https://www.yuumeiart.com/">https://www.yuumeiart.com/</a> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Awesome Solidity</title>
+        <title>Ben Kremer&#x27;s Awesome Solidity</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -290,7 +340,7 @@
             <category term="Security"/>
             <category term="Lists"/>
 
-        <updated>2022-01-02T13:08:27+01:00</updated>
+        <updated>2022-01-13T20:13:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/32/SolGray.png" alt="" />
@@ -445,7 +495,7 @@
         </content>
     </entry>
     <entry>
-        <title>A quick tour on Ethereum private key attacks</title>
+        <title>Pierre Antoine&#x27;s quick tour on Ethereum private key attacks</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -454,7 +504,7 @@
             <category term="Security"/>
             <category term="Ethereum"/>
 
-        <updated>2021-12-29T23:04:56+01:00</updated>
+        <updated>2022-01-13T20:13:45+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/30/ecdsa-priv-key.png" alt="" />
@@ -563,76 +613,6 @@
 <li><a href="https://polynya.medium.com/addressing-common-rollup-misconceptions-eba9d758707e">https://polynya.medium.com/addressing-common-rollup-misconceptions-eba9d758707e</a> </li>
 <li><a href="https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48">https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48</a> </li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Audit Firms: Or, The Seal of Approval</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/audit-firms/"/>
-        <id>https://blockchainsecurity.be/audit-firms/</id>
-            <category term="Security"/>
-            <category term="Lists"/>
-
-        <updated>2022-01-13T12:47:25+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/25/seal-of-approval.png" alt="" />
-                    Secureum Part 6 listed a non-exhaustive list of smart contract security audit&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/25/seal-of-approval.png" alt="" />
-                <p><a href="https://blockchainsecurity.be/secureum-part-6-audit-techniques-and-tools-101/" target="_blank" rel="noopener noreferrer">Secureum Part 6</a> listed a <em>non-exhaustive</em> list of <strong>smart contract security</strong> <strong>audit firms</strong>. I hadn't heard about all of them (it's impossible to cover them <em>all</em>, so 🤷‍♂️), but here it goes. Just so you know: most of these firms offer more than just audit services!</p>
-<p>I visited each website and tried to find out where these firms are located (I didn't invest much time, so no crazy OSINT searches to find out who is behind each company). Most of these <strong>operate globally</strong> I reckon, because why yes, remote work is <em>sweet </em>👏.</p>
-<ul>
-<li><a href="https://www.abdk.consulting/" rel="">ABDK</a> (unclear, founder is from Russian origin, but seems to have a European PhD)</li>
-<li><a href="https://arcadiamgroup.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Arcadia</a> (Dallas, USA)</li>
-<li><a href="https://www.cybersecurityintelligence.com/beosin-5834.html" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Beosin</a> (Chengdu, China)</li>
-<li><a href="https://www.blockchainconsilium.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Blockchain Consilium</a> (Toronto, Canada)</li>
-<li><a href="https://www.blocksecteam.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">BlockSec</a> (unclear, seems China)</li>
-<li><a href="https://certik.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">CertiK</a> (HQ in New York, USA)</li>
-<li><a href="https://chainsafe.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">ChainSafe</a> (Toronto, Canada)</li>
-<li><a href="https://chainsecurity.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">ChainSecurity</a> (Zurich, Switzerland)</li>
-<li><a href="https://chainsulting.de/smart-contract-audit/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Chainsulting</a> (Germany)</li>
-<li><a href="https://www.coinfabrik.com/services/smart-contract-audits/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">CoinFabrik</a> (Buenos Aires, Argentina)</li>
-<li><a href="https://consensys.net/diligence/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">ConsenSys Diligence</a> (HQ in New York, USA)</li>
-<li><a href="https://www.dedaub.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Dedaub</a> (unclear, USA or EU)</li>
-<li><a href="https://github.com/g0-group" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">G0</a> (unclear)</li>
-<li><a href="https://hacken.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Hacken</a> (Kyiv, Ukraine)</li>
-<li><a href="https://audit.haechi.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Haechi</a> (Seoul, South Korea)</li>
-<li><a href="https://halborn.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Halborn</a> (New York, USA)</li>
-<li><a href="https://hashex.org/smart_contracts_and_audit/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">HashEx</a> (St. Petersburg, Russia)</li>
-<li><a href="https://iosiro.com/services/smart-contract-auditing" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Iosiro</a> (South Africa)</li>
-<li><a href="https://leastauthority.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Least Authority</a> (Berlin, Germany)</li>
-<li><a href="https://mixbytes.io/audit" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">MixBytes</a> (Moscow, Russia)</li>
-<li><a href="https://www.nccgroup.com/us/our-services/cyber-security/specialist-practices/cryptography-services/blockchain-security/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">NCC</a> (worldwide)</li>
-<li><a href="https://www.nviso.eu/">NVISO</a> (Belgium, Germany)</li>
-<li><a href="https://audits.newalchemy.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">NewAlchemy</a> (Seattle, USA)</li>
-<li><a href="https://openzeppelin.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">OpenZeppelin</a> (worldwide)</li>
-<li><a href="https://peckshield.com/en" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">PeckShield</a> (worldwide, originally China)</li>
-<li><a href="https://pessimistic.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Pessimistic</a> (Tallinn, Estonia)</li>
-<li><a href="https://peppersec.com/smart-contract-audit.html" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">PepperSec</a> (Moscow, Russia)</li>
-<li><span style="text-decoration: line-through;">Pickle </span>(unclear, website is broken)</li>
-<li><a href="https://quantstamp.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Quantstamp</a> (San Francisco, USA)</li>
-<li><a href="https://audits.quillhash.com/smart-contract-audit" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">QuillHash</a> (India)</li>
-<li><a href="https://runtimeverification.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Runtime Verification</a> (Illinois, USA)</li>
-<li><a href="https://sigmaprime.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Sigma Prime</a> (Sydney, Australia)</li>
-<li><a href="https://www.slowmist.com/en/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">SlowMist</a> (China)</li>
-<li><a href="https://smartdec.net/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">SmartDec</a> (Moscow, Russia)</li>
-<li><a href="https://solidified.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Solidified</a> (Nevada, USA)</li>
-<li><a href="https://www.somish.com/blockchain/smart-contract-audit/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Somish</a> (New Delhi, India)</li>
-<li><a href="https://spearbit.com">Spearbit</a> (unclear, since it's a DAO)</li>
-<li><a href="https://www.trailofbits.com/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Trail of Bits</a> (New York, USA)</li>
-<li><a href="https://www.zokyo.io/" rel="" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Zokyo</a> (Kyiv, Ukraine)</li>
-</ul>
-<hr>
-<p>This posts reminds me: I recently attended OpenZeppelin's first community call where they updated users / developers / ... about upcoming changes: <a href="https://www.youtube.com/watch?v=ed96DWbfliQ">https://www.youtube.com/watch?v=ed96DWbfliQ</a> </p>
-<p>It was an interesting session to listen to! </p>
-<p> </p>
             ]]>
         </content>
     </entry>

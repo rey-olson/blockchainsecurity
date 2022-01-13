@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/a-quick-tour-on-ethereum-private-key-attacks/</loc>
-<lastmod>2021-12-29T23:04:56+01:00</lastmod>
+<lastmod>2022-01-13T20:13:45+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\30/ecdsa-priv-key.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -38,7 +38,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/awesome-solidity/</loc>
-<lastmod>2022-01-02T13:08:27+01:00</lastmod>
+<lastmod>2022-01-13T20:13:28+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\32/SolGray.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -46,7 +46,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/best-practices-for-smart-contract-development/</loc>
-<lastmod>2022-01-02T13:10:32+01:00</lastmod>
+<lastmod>2022-01-13T20:14:18+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\7/visual-auditor-screenshot.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -73,6 +73,22 @@
 </image:image>
 </url>
 <url>
+<loc>https://blockchainsecurity.be/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/</loc>
+<lastmod>2022-01-13T21:12:00+01:00</lastmod>
+<image:image>
+<image:loc>https://blockchainsecurity.be/media\posts\35/devansh-batham.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blockchainsecurity.be/media\posts\35/bad-time-meme.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blockchainsecurity.be/media\posts\35/defi-developer-roadmap.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blockchainsecurity.be/ethereum-evm-illustrated/</loc>
 <lastmod>2021-11-07T17:27:23+01:00</lastmod>
 <image:image>
@@ -86,7 +102,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/everyone-is-winging-it-all-the-time/</loc>
-<lastmod>2022-01-13T20:07:46+01:00</lastmod>
+<lastmod>2022-01-13T20:40:17+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\17/david-pupaza-heNwUmEtZzo-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -110,7 +126,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/hacking-the-blockchain-an-ultimate-guide-immunefi/</loc>
-<lastmod>2022-01-03T21:50:14+01:00</lastmod>
+<lastmod>2022-01-13T20:15:48+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\33/jpn-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -126,7 +142,7 @@
 </url>
 <url>
 <loc>https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/</loc>
-<lastmod>2022-01-02T13:06:38+01:00</lastmod>
+<lastmod>2022-01-13T20:14:51+01:00</lastmod>
 <image:image>
 <image:loc>https://blockchainsecurity.be/media\posts\8/danielle-macinnes-IuLgi9PWETU-unsplash.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
