@@ -93,7 +93,7 @@
 <li><a href="https://cryptodevhub.io/wiki/blockchain-development-tutorial">https://cryptodevhub.io/wiki/blockchain-development-tutorial</a> </li>
 <li>ETH.BUILD: <a href="https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi">https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi</a> </li>
 <li>The sorry state of DeFi security: <a href="https://youtu.be/6iJC-1meyYU">https://youtu.be/6iJC-1meyYU</a> </li>
-<li><a href="https://github.com/sherminvo/TokenEconomyBook">https://github.com/sherminvo/TokenEconomyBook</a> </li>
+<li><a href="https://github.com/sherminvo/TokenEconomyBook"><span style="text-decoration: line-through;">https://github.com/sherminvo/TokenEconomyBook</span></a> (✔️-&gt; <a href="https://blockchainsecurity.be/token-economy/">article</a>)</li>
 <li><a href="https://github.com/dethcrypto/ethereum-code-viewer">https://github.com/dethcrypto/ethereum-code-viewer</a></li>
 <li><a href="https://github.com/OffcierCia/DeFi-Developer-Road-Map">https://github.com/OffcierCia/DeFi-Developer-Road-Map</a> </li>
 </ul>
@@ -128,7 +128,7 @@
 <li><a href="https://secureum.substack.com/p/smart-contract-security-101-secureum">https://secureum.substack.com/p/smart-contract-security-101-secureum</a> </li>
 <li><a href="https://chain.link/bootcamp/bootcamp-2021-on-demand">https://chain.link/bootcamp/bootcamp-2021-on-demand</a>  (see chapter regarding smart contract security) </li>
 <li><span style="text-decoration: line-through;"><a href="https://secureum.substack.com/p/smart-contract-security-resources">https://secureum.substack.com/p/smart-contract-security-resources</a> </span>(✔️-&gt;<a href="https://blockchainsecurity.be/secureum/">article</a>)</li>
-<li><a href="https://github.com/securing/SCSVS">https://github.com/securing/SCSVS</a> </li>
+<li><span style="text-decoration: line-through;"><a href="https://github.com/securing/SCSVS">https://github.com/securing/SCSVS</a></span> (✔️-&gt; <a href="https://blockchainsecurity.be/smart-contract-security-verification-standard-version-2-scsvsv2/">article</a>)</li>
 <li><a href="https://github.com/SmartContractSecurity/SWC-registry">https://github.com/SmartContractSecurity/SWC-registry</a> </li>
 <li><span style="text-decoration: line-through;"><a href="https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum">https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum</a> </span> (✔️-&gt;<a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/">article</a>)</li>
 <li><a href="https://github.com/tintinweb/smart-contract-sanctuary">https://github.com/tintinweb/smart-contract-sanctuary</a> </li>
