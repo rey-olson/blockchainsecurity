@@ -595,7 +595,7 @@
         </content>
     </entry>
     <entry>
-        <title>Pierre Antoine&#x27;s quick tour on Ethereum private key attacks</title>
+        <title>Pierre Antoine on Ethereum private key attacks</title>
         <author>
             <name>Anonymous</name>
         </author>
@@ -604,7 +604,7 @@
             <category term="Security"/>
             <category term="Ethereum"/>
 
-        <updated>2022-01-13T20:13:45+01:00</updated>
+        <updated>2022-02-04T15:44:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/30/ecdsa-priv-key.png" alt="" />
