@@ -42,6 +42,24 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://blockchainsecurity.be/manifold-finances-defi-threat-matrix/",
+            "url": "https://blockchainsecurity.be/manifold-finances-defi-threat-matrix/",
+            "title": "Manifold Finance&#x27;s DeFi Threat Matrix",
+            "summary": "Manifold Finance has published a great resource called \"DeFi Threat Matrix\", inspired&hellip;",
+            "content_html": "<p><a href=\"https://manifoldfinance.com/\">Manifold Finance</a> has published a great resource called \"DeFi Threat Matrix\", inspired by the <a href=\"https://attack.mitre.org/\">MITRE ATT&amp;CK<sup>®</sup></a> framework:</p>\n<p><a href=\"https://github.com/manifoldfinance/defi-threat\">https://github.com/manifoldfinance/defi-threat</a> </p>\n<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://blockchainsecurity.be/media/posts/39/defi-threat-matrix-screenshot.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-xs.png 300w ,https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-sm.png 480w ,https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-md.png 768w ,https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-lg.png 1024w\"  alt=\"\" width=\"1260\" height=\"850\">\n<figcaption >Excerpt from the DeFi Threat Matrix</figcaption>\n</figure>\n<hr>\n<p>V3 of the DeFi Threat Matrix will be released during <a href=\"https://www.ethdenver.com/\">ETHDenver 2022</a> (February 11-20, 2022).</p>\n<p>Illustration by <a href=\"https://manifoldfinance.com/\">Manifold Finance</a>.</p>\n<p> </p>\n<p> </p>",
+            "image": "https://blockchainsecurity.be/media/posts/39/Manifold-finance-image.png",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "Lists",
+                   "DeFi"
+            ],
+            "date_published": "2022-02-09T22:49:42+01:00",
+            "date_modified": "2022-02-09T22:52:13+01:00"
+        },
+        {
             "id": "https://blockchainsecurity.be/patrick-mccorrys-cryptocurrency-class-2022/",
             "url": "https://blockchainsecurity.be/patrick-mccorrys-cryptocurrency-class-2022/",
             "title": "Patrick McCorry&#x27;s Cryptocurrency Class 2022",
@@ -160,23 +178,6 @@
             ],
             "date_published": "2022-01-02T12:06:43+01:00",
             "date_modified": "2022-01-02T12:20:46+01:00"
-        },
-        {
-            "id": "https://blockchainsecurity.be/a-quick-tour-on-ethereum-private-key-attacks/",
-            "url": "https://blockchainsecurity.be/a-quick-tour-on-ethereum-private-key-attacks/",
-            "title": "Pierre Antoine on Ethereum private key attacks",
-            "summary": "I notice it has been another month since my last blog post...",
-            "content_html": "<p class=\"msg msg--highlight \">I notice it has been another month since my last blog post... time really does fly! Here in Belgium, we are in yet another (semi, for now) lockdown. I am stuck at home with the kids and they need my full attention. It is physically, mentally, emotionally <em>pretty </em>draining to say the least. But hey you: I wish you happy Christmas holidays 🎄, and a fabulous 2022 🎆!</p>\n<h2>Background</h2>\n<p>When I started this blog I originally wanted to zoom in on the entire spectrum of possible attacks on blockchains and the corresponding defenses, because the blockchain sphere is just <strong>vast</strong>.</p>\n<p>Just like everywhere else, you need to sufficiently secure the whole eco-system, with all its (moving) parts. And this becomes quickly, quite complex.</p>\n<p>You not only need blockchain security (or backend security). Or frontend web security. Or application security in general. Or anti-malware software on endpoints for that matter. No, you need all of them, and much more. Security is the sum of all parts.</p>\n<h2>Zero risk or one hundred percent security is a myth</h2>\n<p>Think your money is perfectly safe in a DeFi smart contract? Because it already contains millions of dolllars/euros/ether worth of value? Consider, as an example, the (often anonymous) dev team behind the scenes. They often wield the keys to these contracts (i.e. the keys to the kingdom). If they make a mistake, then these contracts get drained and money is lost.</p>\n<p>It is a bit disheartening to see, but over the last year, the main culprit of many blockchain related hacks were not smart contract exploits, but plain old phishing attacks. The high-profile smart contract exploits have all but disappeared, but cyber criminals now seem to focus on low effort-high return types of attacks.</p>\n<h2>The article, at last</h2>\n<p>Anyway, here is a nice Medium piece that zooms in on (some) attack vectors with regards to <strong>public-private key cryptography</strong>.</p>\n<p>It is one of the areas of blockchain security that I do not worry too much about. I consider cryptography  a well-known and mature mathematics field, where there are enough smart people to keep us secure in the arms-race between attackers and defenders. Plus, cryptography is fundamental to the non-blockchain world as well, so that is an additional relief 😅.</p>\n<p>Here you go: <a href=\"https://medium.com/@pierreia/quick-tour-on-ethereum-private-keys-attacks-3082846b7632\">https://medium.com/@pierreia/quick-tour-on-ethereum-private-keys-attacks-3082846b7632</a> </p>",
-            "image": "https://blockchainsecurity.be/media/posts/30/ecdsa-priv-key.png",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "Ethereum"
-            ],
-            "date_published": "2021-12-28T18:54:21+01:00",
-            "date_modified": "2022-02-04T15:44:28+01:00"
         }
     ]
 }
