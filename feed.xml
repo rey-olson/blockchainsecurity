@@ -166,6 +166,51 @@
         </content>
     </entry>
     <entry>
+        <title>Newsletters Etcetera</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/newsletters-a-selection-of/"/>
+        <id>https://blockchainsecurity.be/newsletters-a-selection-of/</id>
+            <category term="Lists"/>
+
+        <updated>2022-02-20T21:07:17+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/27/toa-heftiba-WY_J0_9sVFg-unsplash.jpg" alt="" />
+                    I try not to go too overboard with subscribing to newsletters, since&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/27/toa-heftiba-WY_J0_9sVFg-unsplash.jpg" alt="" />
+                <p>I try not to go <em>too</em> overboard with subscribing to newsletters, since I only have so much "free time". I am already suffering from information overload 🤯 in <a href="https://en.wikipedia.org/wiki/Attention_economy">The Age of the Attention Economy</a>, so I try to rationalize my news intake 😉.</p>
+<h3>Newsletters</h3>
+<p><strong><a href="https://www.blockthreat.io/">Blockchain Threat Intelligence</a> <br></strong>Blockchain Threat Intelligence newsletter is a weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. The newsletter is written by <a href="https://medium.com/@iphelix" rel="">Peter Kacherginsky (iphelix)</a>.<br><br></p>
+<p><strong><a href="https://weekinethereum.substack.com/">Week in Ethereum News</a><br></strong>Everything, and more than you ever you wanted to know, about the Ethereum ecosystem.</p>
+<h3><strong>Other sources</strong></h3>
+<p>Other great sources for news are, of course, <strong>Discord</strong> and <strong>Crypto Twitter</strong>. Build your own curated lists and enjooooooooy!</p>
+<p>Here are a couple of Discord servers where I am lurking <em>(apparently permanent Discord Invite Links are a pain in the ass to generate, so I am not going to directly link to them)</em>: ETHSecurity Community, Secureum, SkidsDAO, Immunefi, Flashbots, solidity-dev, Go Ethereum, ...</p>
+<hr>
+<p>Extra interesting reading material, but not necessarily focused on blockchain <em>security:</em></p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">SOME PERSONAL NEWS:<br><br>The "Crypto Theses" has SHIPPED.<br><br>I spent the past month synthesizing everything that happened in crypto in 2021 + trends to watch in 2022.<br><br>165 pages. 121 topics. 22 NFTs.<br><br>Tell your friends! Happy Holidays!<a href="https://t.co/8mQF3AuXN6">https://t.co/8mQF3AuXN6</a></p>
+— Ryan Selkis 📖 🖊🔑 (@twobitidiot) <a href="https://twitter.com/twobitidiot/status/1466438779196039175?ref_src=twsrc%5Etfw">December 2, 2021</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">1/ After nearly a 2-year hiatus, I recently updated my Crypto Reading list.<a href="https://t.co/1akrjb6L1k">https://t.co/1akrjb6L1k</a></p>
+— Dan Romero (@dwr) <a href="https://twitter.com/dwr/status/1491573437059399684?ref_src=twsrc%5Etfw">February 10, 2022</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@heftiba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Toa Heftiba</a> on <a href="https://unsplash.com/s/photos/newspaper?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Manifold Finance&#x27;s DeFi Threat Matrix</title>
         <author>
             <name>Anonymous</name>
@@ -541,90 +586,6 @@
 </ul>
 <hr>
 <p>Awesome Solidity is dedicated to the (Creative Comments) <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Smart Contract Security Verification Standard (SCSVSv2)</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/smart-contract-security-verification-standard-version-2-scsvsv2/"/>
-        <id>https://blockchainsecurity.be/smart-contract-security-verification-standard-version-2-scsvsv2/</id>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2022-01-02T12:20:46+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/31/adomas-aleno-ySLeov8m_8-unsplash-2.jpg" alt="" />
-                    IntroductionDamian Rusinek @drdr_zz (damian.rusinek@securing.pl) and Paweł Kuryłowicz @wh01s7 (pawel.kurylowicz@securing.pl) released an updated&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/31/adomas-aleno-ySLeov8m_8-unsplash-2.jpg" alt="" />
-                <h3>Introduction</h3>
-<p>Damian Rusinek <a href="https://twitter.com/drdr_zz" rel="nofollow">@drdr_zz</a> (<a href="mailto:damian.rusinek@securing.pl">damian.rusinek@securing.pl</a>) and Paweł Kuryłowicz <a href="https://twitter.com/wh01s7" rel="nofollow">@wh01s7</a> (<a href="mailto:pawel.kurylowicz@securing.pl">pawel.kurylowicz@securing.pl</a>) released an updated version of their free Smart Contract Security Verification Standard: <a href="https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2">https://github.com/securing/SCSVS/tree/prerelease/SCSVSv2</a> .</p>
-<h3>What is a (security) verification standard?</h3>
-<p dir="auto">It is a checklist created to standardize the security of smart contracts for developers, architects, security reviewers and vendors.</p>
-<p dir="auto">The list helps to avoid the majority of known security problems and vulnerabilities by providing guidance at every stage of the development cycle of the smart contracts (from designing to implementation).</p>
-<p dir="auto"><strong>Objectives</strong></p>
-<ul dir="auto">
-<li>Help to develop high quality code of the smart contracts.</li>
-<li>Help to mitigate known vulnerabilities by design.</li>
-<li>Provide a checklist for security reviewers.</li>
-<li>Provide a clear and reliable assessment -Security Health Factor- of how secure smart contracts are in the relation to the percentage of SCSVS coverage.</li>
-</ul>
-<h3>What is new in version 2?</h3>
-<p dir="auto">Security, Composability and Transparency are fundamentals of the SCSVS. These values are achieved thanks to the engagement and cooperation of the #BlockSec community. The standard structure distinguishes 3 chapters, each operating in a slightly different area.</p>
-<ul>
-<li dir="auto"><strong>General</strong> - common and general security problems including, among others, design, upgrades, policies.</li>
-<li dir="auto"><strong>Components</strong> - contracts that make up the project, frequently used patterns with their typical security issues.</li>
-<li dir="auto"><strong>Integrations</strong> - components with which the project integrates, general recommendations and threats to frequently used smart contracts.</li>
-</ul>
-<h3 dir="auto">Table of contents</h3>
-<ul dir="auto">
-<li>G: General
-<ul dir="auto">
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x101-G1-Architecture-Design-Threat-Modeling.md">G1: Architecture, design and threat modeling</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x102-G2-Policies-procedures.md">G2: Policies and procedures</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x103-G3-Upgradeability.md">G3: Upgradeability</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x104-G4-Business-Logic.md">G4: Business logic</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x105-G5-Access-Control.md">G5: Access control</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x106-G6-Communications.md">G6: Communications</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x107-G7-Arithmetic.md">G7: Arithmetic</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x108-G8-Denial-of-Service.md">G8: Denial of service</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x109-G9-Blockchain-Data.md">G9: Blockchain data</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x110-G10-Gas.md">G10: Gas usage &amp; limitations</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x111-G11-Code-Clarity.md">G11: Code clarity</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x100-General/0x112-G12-Test-Coverage.md">G12: Test coverage</a></li>
-</ul>
-</li>
-<li>C: Components
-<ul dir="auto">
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x200-Components/0x201-C1-Token.md">C1: Token</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x200-Components/0x202-C2-Governance.md">C2: Governance</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x200-Components/0x203-C3-Oracle.md">C3: Oracle</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x200-Components/0x204-C4-Vault.md">C4: Vault</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x200-Components/0x205-C5-Liquidity-pool.md">C5: Liquidity pool</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x200-Components/0x206-C6-Bridge.md">C6: Bridge</a></li>
-</ul>
-</li>
-<li>I: Integrations
-<ul dir="auto">
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x300-Integrations/0x301-I1-Basic.md">I1: Basic</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x300-Integrations/0x302-I2-Token.md">I2: Token</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x300-Integrations/0x303-I3-Governance.md">I3: Governance</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x300-Integrations/0x304-I4-Oracle.md">I4: Oracle</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x300-Integrations/0x305-I5-Flash-loan-provider.md">I5: Flash loan provider</a></li>
-<li><a href="https://github.com/securing/SCSVS/blob/prerelease/SCSVSv2/2.0/0x300-Integrations/0x306-I6-Liquidity-pool.md">I6: Liquidity pool</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@aleno?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Adomas Aleno</a> on <a href="https://unsplash.com/collections/190728/study-?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-<p>SCSVSv2  is licenced under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons ShareAlike license</a>.</p>
             ]]>
         </content>
     </entry>
