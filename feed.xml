@@ -151,7 +151,7 @@
 <li><span style="text-decoration: line-through;"><a href="https://devansh.xyz/blockchain-security/2021/09/13/genesis.html">https://devansh.xyz/blockchain-security/2021/09/13/genesis.html</a></span> (✔️-&gt; <a href="https://blockchainsecurity.be/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/">article</a>)</li>
 <li><a href="https://www.ethsecurity.org/">https://www.ethsecurity.org/</a> + <a href="https://docs.google.com/document/d/1ATN1jKfG0gloxyEE8qyUMn4l5orkHp3QHK1-6C-rzyY/edit">https://docs.google.com/document/d/1ATN1jKfG0gloxyEE8qyUMn4l5orkHp3QHK1-6C-rzyY/edit</a> </li>
 <li><a href="https://github.com/Certora/Tutorials">https://github.com/Certora/Tutorials</a> + <a href="https://certora.atlassian.net/wiki/spaces/CPD/pages/2916673/Getting+started">https://certora.atlassian.net/wiki/spaces/CPD/pages/2916673/Getting+started</a> </li>
-<li><a href="https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction">https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction</a> </li>
+<li><a href="https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction"><span style="text-decoration: line-through;">https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction</span></a><span style="text-decoration: line-through;"> </span> (✔️-&gt; <a href="https://blockchainsecurity.be/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/">article</a>)</li>
 </ul>
 <p> </p>
 <div><strong>EVM </strong></div>
@@ -166,6 +166,40 @@
 <hr>
 <p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
 <p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Enterprise Ethereum Alliance&#x27;s Crosschain Security Guidelines (v1.0)</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/"/>
+        <id>https://blockchainsecurity.be/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/</id>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2022-02-26T22:19:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/40/mikhail-serdyukov-Bye0R34O070-unsplash.jpg" alt="" />
+                    holy fucking shit @wormholecrypto is not having a good time right now&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/40/mikhail-serdyukov-Bye0R34O070-unsplash.jpg" alt="" />
+                <blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">holy fucking shit <a href="https://twitter.com/wormholecrypto?ref_src=twsrc%5Etfw">@wormholecrypto</a> is not having a good time right now <a href="https://t.co/Q6tcqAngCL">pic.twitter.com/Q6tcqAngCL</a></p>
+— samczsun (@samczsun) <a href="https://twitter.com/samczsun/status/1488974372756987906?ref_src=twsrc%5Etfw">February 2, 2022</a></blockquote>
+<p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p> </p>
+<p>Another interesting piece (Thanks <a href="https://twitter.com/morphean_sec">Sleepy🌻</a> / <a href="https://discord.gg/tp9wFr7pTW">SkidsDAO</a>!) worth reading since it nicely sums up the (enormous?) challenges involved with crosschain security: </p>
+<p><a href="https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html">https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html</a> </p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@mserdyukov?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">mikhail serdyukov</a> on <a href="https://unsplash.com/s/photos/forest-fire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
@@ -509,87 +543,6 @@
 </ul>
 <hr>
 <p>(c) <a href="https://shermin.net/">Shermin Voshmgir</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ben Kremer&#x27;s Awesome Solidity</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/awesome-solidity/"/>
-        <id>https://blockchainsecurity.be/awesome-solidity/</id>
-            <category term="Solidity"/>
-            <category term="Security"/>
-            <category term="Lists"/>
-
-        <updated>2022-01-13T20:13:28+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/32/SolGray.png" alt="" />
-                    In honor of other guides with curated smart contract development/security resouces published&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/32/SolGray.png" alt="" />
-                <p>In honor of other guides with curated smart contract development/security resouces published by <a href="https://blockchainsecurity.be/best-practices-for-smart-contract-development/" target="_blank" rel="noopener noreferrer">Yos Riady</a> or <a href="https://blockchainsecurity.be/introduction-to-smart-contract-security-and-hacking-in-ethereum/" target="_blank" rel="noopener noreferrer">@tinchoabbate</a>, here is another great curation by <a href="https://github.com/bkrem">Ben Kremer</a>, developer at <a href="https://walletconnect.com/">WalletConnect</a>:</p>
-<p><a href="https://github.com/bkrem/awesome-solidity">https://github.com/bkrem/awesome-solidity</a> </p>
-<h3 dir="auto">Table of Contents</h3>
-<ul dir="auto">
-<li><a href="https://github.com/bkrem/awesome-solidity#resources">Resources</a>
-<ul dir="auto">
-<li><a href="https://github.com/bkrem/awesome-solidity#official">Official</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#tutorials">Tutorials</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#articles">Articles</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#security">Security</a>
-<ul dir="auto">
-<li><a href="https://github.com/bkrem/awesome-solidity#audits">Audits</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/bkrem/awesome-solidity#examples">Examples</a>
-<ul dir="auto">
-<li><a href="https://github.com/bkrem/awesome-solidity#educational">Educational</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#deployed-on-ethereum-mainnet">Deployed on Ethereum Mainnet</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/bkrem/awesome-solidity#templates">Templates</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#books">Books</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#practice">Practice</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#jobs">Jobs</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/bkrem/awesome-solidity#libraries">Libraries</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#tools">Tools</a>
-<ul dir="auto">
-<li><a href="https://github.com/bkrem/awesome-solidity#general">General</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#utility">Utility</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#audit">Audit</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#devops">DevOps</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/bkrem/awesome-solidity#languages">Languages</a>
-<ul dir="auto">
-<li><a href="https://github.com/bkrem/awesome-solidity#javascript">JavaScript</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#typescript">TypeScript</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#rust">Rust</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#ocaml">OCaml</a></li>
-</ul>
-</li>
-<li><a href="https://github.com/bkrem/awesome-solidity#editor-plugins">Editor Plugins</a>
-<ul dir="auto">
-<li><a href="https://github.com/bkrem/awesome-solidity#atom">Atom</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#eclipse">Eclipse</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#emacs">Emacs</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#intellij">IntelliJ</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#sublime">Sublime</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#vim">Vim</a></li>
-<li><a href="https://github.com/bkrem/awesome-solidity#visual-studio-code">Visual Studio Code</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Awesome Solidity is dedicated to the (Creative Comments) <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>. </p>
             ]]>
         </content>
     </entry>
