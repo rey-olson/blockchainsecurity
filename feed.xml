@@ -179,17 +179,18 @@
         <id>https://blockchainsecurity.be/smart-contracts-and-ransomware/</id>
             <category term="Security"/>
 
-        <updated>2022-03-26T00:51:00+01:00</updated>
+        <updated>2022-03-26T10:57:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/42/jan-antonin-kolar-Sc5HUu4XzTk-unsplash1.jpg" alt="" />
-                    I was reading Brian Kreb's series about the Conti Ransomware Group, an&hellip;
+                    Smart contracts featuring ransomwareI was reading Brian Kreb's series about the Conti&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blockchainsecurity.be/media/posts/42/jan-antonin-kolar-Sc5HUu4XzTk-unsplash1.jpg" alt="" />
-                <p>I was reading Brian Kreb's series about the <strong>Conti Ransomware Group</strong>, an infamous yet formidably effective ransomware actor:</p>
+                <h3>Smart contracts featuring ransomware</h3>
+<p>I was reading Brian Kreb's series about the <strong>Conti Ransomware Group</strong>, an infamous yet formidably effective ransomware actor:</p>
 <ul>
 <li><a href="https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-i-evasion/">Conti Ransomware Group Diaries, Part I: Evasion</a></li>
 <li><a href="https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-ii-the-office/">Conti Ransomware Group Diaries, Part II: The Office</a></li>
@@ -211,8 +212,11 @@
 <li>Crypto <strong>rugpulls</strong> seem astonishingly easy to pull off, no hacking required.</li>
 <li>...</li>
 </ul>
-<p>Anyway, I forgot why I even started to write this blog post in the first place, but I like articles like these because they are a welcome reminder to step back from the never-ending Crypto Bubble, where only the positives of cryptocurrency gets hyped.</p>
-<p>There is a darker side as well, and we shouldn't ignore it. Regulators aren't ignoring it, and I suppose three-letter agencies aren't either. Plus, the latter most probably are influential <a href="https://www.chainalysis.com/customers/">customers of Chainalysis</a>.😇</p>
+<p>Anyway, I forgot why I even started to write this blog post in the first place (it got late yesterday😅), but:</p>
+<ol>
+<li>I like articles like these because they are a welcome reminder to step back from the never-ending Crypto Bubble, where only the positives of cryptocurrency gets hyped. There is also a darker side that we shouldn't ignore. Regulators certainly aren't ignoring it, and I suppose three-letter agencies aren't either. Plus, the latter most probably are influential <a href="https://www.chainalysis.com/customers/" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">customers of Chainalysis</a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">.😇<br></span></li>
+<li>When thinking about blockchain security, the first concept that pops up in my mind is mainly securing smart contracts from harm, and not so much about the nefarious applications of blockchain technology itself. And that's what so fascinating about this space with all its security and risk implications: it's so vast and still so new, that we're currently only scratching the surface of what is possible. Both from an optimistic perspective, as well as from a pessimistic one. Can you imagine the potential of a scalable, fully privacy-preserving Ransomware-as-a-Service platform? Or a dark market? Or &lt;insert your utopian/dystopian future here&gt;?<br><br>On the other hand, where I remain skeptical, is the fact that it seems (for now) to be rather difficult to implement such complex concepts correctly AND that it's probably easier (incl. ROI wise) to just stick to traditional techniques for now. But then again: <em><a href="https://en.wikipedia.org/wiki/Murphy's_law">whatever can happen, will happen</a>. </em></li>
+</ol>
 <hr>
 <ul>
 <li>Oh dear, the <a href="https://www.connectedpapers.com/main/075e4102d6d28ba6ef214c4aee7db5558af2b9f9/Ransomware-as-a-Service-using-Smart-Contracts-and-IPFS/graph">'Connected Papers'</a> search functionality of arXiv is impressive, so much interesting reading material, so little time to read: <br><figure class="post__image post__image--center"><img loading="lazy"  src="https://blockchainsecurity.be/media/posts/42/connected-papers.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blockchainsecurity.be/media/posts/42/responsive/connected-papers-xs.png 300w ,https://blockchainsecurity.be/media/posts/42/responsive/connected-papers-sm.png 480w ,https://blockchainsecurity.be/media/posts/42/responsive/connected-papers-md.png 768w ,https://blockchainsecurity.be/media/posts/42/responsive/connected-papers-lg.png 1024w"  alt="" width="500" height="235"></figure></li>
