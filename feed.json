@@ -42,6 +42,25 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://blockchainsecurity.be/my-lightning-talk-secureum-trustx/",
+            "url": "https://blockchainsecurity.be/my-lightning-talk-secureum-trustx/",
+            "title": "My Lightning Talk @ Secureum TrustX",
+            "summary": "Thanks to the kind folks from Spearbit, I will give a short&hellip;",
+            "content_html": "<p>Thanks to the kind folks from <a href=\"https://spearbit.com/\">Spearbit</a>, I will give a short talk at <a href=\"https://blockchainsecurity.be/secureum-trustx-devconnect-amsterdam-22/\">Secureum TrustX</a> titled <strong>\"Security &amp; Risk: Lessons Learnt From TradFi\".</strong></p>\n<p>I will post the slides after the presentation 🙏</p>\n<hr>\n<p>Photo by <a href=\"https://unsplash.com/@convertkit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">ConvertKit</a> on <a href=\"https://unsplash.com/s/photos/presenter?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>\n<p><em>This talk will be livestreamed, so it will probably get me <a href=\"https://www.urbandictionary.com/define.php?term=doxxed\" rel=\"nofollow\">doxxed</a>. Meh, it is what it is.🤷‍♂️</em></p>",
+            "image": "https://blockchainsecurity.be/media/posts/43/convertkit-iUvLnysxOnQ-unsplash.jpg",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "Secureum",
+                   "Ethereum",
+                   "DeFi"
+            ],
+            "date_published": "2022-04-19T21:41:11+02:00",
+            "date_modified": "2022-04-19T21:47:20+02:00"
+        },
+        {
             "id": "https://blockchainsecurity.be/smart-contracts-and-ransomware/",
             "url": "https://blockchainsecurity.be/smart-contracts-and-ransomware/",
             "title": "Smart contracts ft. ransomware",
@@ -157,26 +176,6 @@
             ],
             "date_published": "2022-02-02T16:11:56+01:00",
             "date_modified": "2022-02-04T15:11:22+01:00"
-        },
-        {
-            "id": "https://blockchainsecurity.be/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/",
-            "url": "https://blockchainsecurity.be/devansh-bathams-genesis-0x00-a-series-on-blockchain-security/",
-            "title": "Devansh Batham&#x27;s Genesis 0x00: A Series on Blockchain Security",
-            "summary": "Here is another great blog series to get you help you on&hellip;",
-            "content_html": "<p>Here is another great blog series to get you help you on your journey down the blockchain security rabbit hole:</p>\n<p><a href=\"https://devansh.xyz/blockchain-security/2021/09/13/genesis.html\"> Genesis 0x00: A Series on Blockchain Security</a> by <a href=\"https://devansh.xyz/\">Devansh Batham</a>.</p>\n<p>I would do Devansh a disservice by not quoting his own summary, so here it goes:</p>\n<p class=\"msg msg--highlight \"><strong>TLDR;<br></strong>Genesis is going to be a series of weekly articles on Blockchain Security, which will include interesting topics such as Blockchain basics, Blockchain Development, Ethereum 101, Building Dapps, Common vulnerabilities in smart contracts, Auditing Solidity source code, Static analysis of smart contracts, latest news and future state of DeFi.</p>\n<p>At the time of writing of this blog post he has published the first installments:</p>\n<ul>\n<li><a href=\"https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html\">Genesis 0x01: Simplified Roadmap for Blockchain Security </a></li>\n<li><a href=\"https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html\">Genesis 0x02: Basics of Blockchain </a></li>\n<li><a href=\"https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html\">Genesis 0x03: Basics of Ethereum </a></li>\n<li><a href=\"https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html\">Genesis 0x04: Learning Solidity in 30 Days </a></li>\n</ul>\n<hr>\n<h3>Thoughts </h3>\n<figure class=\"post__image\">1) I am pretty in interested in trying the <strong>Learning Solidity in 30 Days</strong> challenge, since that is the part where I am struggling the most. Theory is all fine and dandy, but if you are not familiar withor fluent in Solidity, well then....<br><br><img loading=\"lazy\"  src=\"https://blockchainsecurity.be/media/posts/35/bad-time-meme.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-xs.png 300w ,https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-sm.png 480w ,https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-md.png 768w ,https://blockchainsecurity.be/media/posts/35/responsive/bad-time-meme-lg.png 1024w\"  alt=\"\" width=\"620\" height=\"372\"></figure><br><br></p>\n<p>2) His simplified roadmap (0x01) is extensive, but I reckon you need to already have a fairly good understanding of these concepts, to be able to put the pieces together. The biggest challenge is that, by just reading this stuff, you are not getting proficient or getting hands-on experience. I can personally attest to this. I finished the <a href=\"https://blockchainsecurity.be/secureum/\">Secureum </a>bootcamp epoch 0 (i.e. read all the materials &amp; I participated in all the quizzes), but the learning curve was just too high. I need to back to basics and get my hands dirty in Solidity to make some <em>real </em>progress.</p>\n<p>This reminds me of advice formulated in <a href=\"https://cryptodevhub.io/wiki/blockchain-development-tutorial\">CryptoDevHub</a>'s Getting Started wiki:</p>\n<p class=\"msg msg--highlight \">\"It isn't super important what you're building as long as you focus your efforts on writing code, rather than consuming more blog posts and YouTube videos.\" </p>\n<p>So much this folks 👆. Do not make the same mistakes I made... 💯<br><br></p>\n<p>3) Speaking of \"roadmaps\"... I recently came across <a href=\"https://github.com/OffcierCia\">Cia Officer</a>'s <strong>Defi Developer Roadmap</strong>:</p>\n<p><a href=\"https://github.com/OffcierCia/DeFi-Developer-Road-Map\">https://github.com/OffcierCia/DeFi-Developer-Road-Map</a>. </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://blockchainsecurity.be/media/posts/35/defi-developer-roadmap.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-xs.png 300w ,https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-sm.png 480w ,https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-md.png 768w ,https://blockchainsecurity.be/media/posts/35/responsive/defi-developer-roadmap-lg.png 1024w\"  alt=\"\" width=\"1240\" height=\"1131\">\n<figcaption >Beware: this screenshot shows only a subset of steps and topics that you need to cover..</figcaption>\n</figure>\n<p>This is another valuable, yet <em>massive </em>roadmap! I hope you are starting to see a pattern here with these roadmaps... <strong>In order to get up to speed in this ecosystem, one needs to study/process/master a rather large amount of (often technical) topics. So better start getting used to the fact, that it will <em>take time</em>🧘‍♀️😅.</strong><br><br><em>Note: I will most probably make a separate blog post about Cia Officer and his projects (besides this DeFi Developer Roadmap, he has other great research going on).</em></p>",
-            "image": "https://blockchainsecurity.be/media/posts/35/devansh-batham.jpg",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Solidity",
-                   "Security",
-                   "Lists",
-                   "Ethereum",
-                   "DeFi"
-            ],
-            "date_published": "2022-01-13T21:06:53+01:00",
-            "date_modified": "2022-01-13T21:12:00+01:00"
         }
     ]
 }
