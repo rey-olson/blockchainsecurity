@@ -171,6 +171,34 @@
         </content>
     </entry>
     <entry>
+        <title>The Anti-Ape on what&#x27;s wrong with bridges</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/the-anti-ape-on-whats-wrong-with-bridges/"/>
+        <id>https://blockchainsecurity.be/the-anti-ape-on-whats-wrong-with-bridges/</id>
+            <category term="Security"/>
+
+        <updated>2022-04-26T19:54:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/44/arny-mogensen-rRgO49i8w2s-unsplash.jpg" alt="" />
+                    The Anti-Ape posted a great article on today's challenges with cross-chain bridges.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/44/arny-mogensen-rRgO49i8w2s-unsplash.jpg" alt="" />
+                <p><a href="https://twitter.com/TheAntiApe">The Anti-Ape</a> posted a great article on today's challenges with <strong>cross-chain bridges.</strong></p>
+<p class="post-title short unpublished"><a href="What's wrong with bridges？ Perils, Present and Future of Cross-Chain Communication: the road after Layer Zero">What's wrong with bridges? Perils, Present and Future of Cross-Chain Communication: the road after Layer Zero</a></p>
+<p>It's a <em>very</em> enlightening read, to which I don't have anything remotely useful to add.🙃</p>
+<p>Go read and learn!</p>
+<hr>
+<p>Photo by <a href="https://unsplash.com/@arnykoor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Arny Mogensen</a> on <a href="https://unsplash.com/s/photos/dumpster-fire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>My Lightning Talk @ Secureum TrustX</title>
         <author>
             <name>Anonymous</name>
@@ -435,72 +463,6 @@
 <hr>
 <p><sup>(1) </sup>Infura provides the tools and infrastructure that allow developers to easily take their blockchain application from testing to scaled deployment - with simple, reliable access to Ethereum and IPFS.</p>
 <p>Cartoon by <a href="https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog">Peter Steiner</a>.</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Humble Book Bundle: Cybersecurity by Wiley</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/humble-book-bundle-cybersecurity-by-wiley/"/>
-        <id>https://blockchainsecurity.be/humble-book-bundle-cybersecurity-by-wiley/</id>
-            <category term="Security"/>
-
-        <updated>2022-02-04T15:11:22+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/37/alva-pratt-a5ToDH34m0I-unsplash.jpg" alt="" />
-                    I try not to stray too much from the main subject of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/37/alva-pratt-a5ToDH34m0I-unsplash.jpg" alt="" />
-                <p class="msg msg--highlight ">I try not to stray <em>too </em>much from the main subject of this blog, but then again blockchain security ís a broad field. It is always valuable to expand your horizon: cryptography, threat modeling, offensive security, ... You should try to at least grasp <em>the basics</em>. I leave it up to you to decide how deep you want to dive 🐋 😉.</p>
-<p>Another year, another <a href="https://www.humblebundle.com/books/cybersecurity-2022-wiley-books">Humble Book Bundle about cybersecurity</a>! This year's edition is offered by Wiley.</p>
-<p>I'm too lazy to describe it any better than they do on their website, so here it goes:</p>
-<p><span style="color: #7e8c8d;"><em><strong>"Master the art of digital defense</strong></em></span><br><span style="color: #7e8c8d;"><em>Learn to safeguard your systems and protect against online threats with our latest bundle from Wiley! Within the digital pages of these books, you’ll discover how to think the way hackers do and find tried-and-true techniques to put your cybersecurity measures to the test. Plus, your purchase helps support Electronic Frontier Foundation (EFF)!"</em></span></p>
-<p>At the time of writing the bundle already raised<i class="hb hb-heart"></i> <strong>€ 46,248.57</strong> for charity!</p>
-<p>The largest bundle contains <em>a whopping</em> 27 cybersecurity books. Honourable inclusions this year are:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://blockchainsecurity.be/media/posts/37/gallery/applied-cryptography-cover.jpg" data-size="318x423"><img loading="lazy" src="https://blockchainsecurity.be/media/posts/37/gallery/applied-cryptography-cover-thumbnail.jpg" alt="" width="318" height="423"></a></figure>
-<figure class="gallery__item"><a href="https://blockchainsecurity.be/media/posts/37/gallery/investigating-cryptocurrencies-cover.jpg" data-size="318x399"><img loading="lazy" src="https://blockchainsecurity.be/media/posts/37/gallery/investigating-cryptocurrencies-cover-thumbnail.jpg" alt="" width="318" height="399"></a></figure>
-<figure class="gallery__item"><a href="https://blockchainsecurity.be/media/posts/37/gallery/threat-modeling-cover.jpg" data-size="318x399"><img loading="lazy" src="https://blockchainsecurity.be/media/posts/37/gallery/threat-modeling-cover-thumbnail.jpg" alt="" width="318" height="399"></a></figure>
-<figure class="gallery__item"><a href="https://blockchainsecurity.be/media/posts/37/gallery/art-of-attack-cover.jpg" data-size="267x400"><img loading="lazy" src="https://blockchainsecurity.be/media/posts/37/gallery/art-of-attack-cover-thumbnail.jpg" alt="" width="267" height="400"></a></figure>
-<figure class="gallery__item"><a href="https://blockchainsecurity.be/media/posts/37/gallery/cryptography-engineering-cover.jpg" data-size="318x400"><img loading="lazy" src="https://blockchainsecurity.be/media/posts/37/gallery/cryptography-engineering-cover-thumbnail.jpg" alt="" width="318" height="400"></a></figure>
-<figure class="gallery__item"><a href="https://blockchainsecurity.be/media/posts/37/gallery/pratical-reverse-engineering-cover.jpg" data-size="318x399"><img loading="lazy" src="https://blockchainsecurity.be/media/posts/37/gallery/pratical-reverse-engineering-cover-thumbnail.jpg" alt="" width="318" height="399"></a></figure>
-</div></div>
-<p> </p>
-<hr>
-<p>It goes without saying that I am a a bit of a Humble Book Bundle fan ❤️. In the past years I've purchased the following bundles:</p>
-<ul>
-<li><a href="https://www.humblebundle.com/books/cybersecurity-packt-books" rel="nofollow">Cyber Security (2018)</a> by <a href="https://www.packtpub.com/security">Packt</a></li>
-<li><a href="https://www.humblebundle.com/books/hacking-no-starch-press-books" rel="nofollow">Hacking 2.0 (2019)</a> and <a href="https://www.humblebundle.com/books/learn-you-more-python-books">Python (2021)</a> by <a href="https://nostarch.com/">No Starch Press</a>. The latter included the following books:
-<ul>
-<li>
-<p class="page-header"><a href="https://nostarch.com/automatestuff2" rel="nofollow">Automate the Boring Stuff with Python, 2nd Edition</a></p>
-</li>
-<li><a href="https://nostarch.com/beyond-basic-stuff-python" rel="nofollow">Beyond the Basic Stuff with Python</a></li>
-<li><a href="https://nostarch.com/crackingcodes" rel="nofollow">Cracking Codes with Python</a></li>
-<li><a href="https://nostarch.com/doingmathwithpython" rel="nofollow">Doing Math with Python</a></li>
-<li><a href="https://nostarch.com/inventwithpython" rel="nofollow">Invent Your Own Computer Games with Python</a></li>
-<li><a href="https://nostarch.com/programwithminecraft" rel="nofollow">Learn to Program with Minecraft</a></li>
-<li><a href="https://nostarch.com/mathadventures" rel="nofollow">Math Adventures with Python</a></li>
-<li><a href="https://nostarch.com/missionpython" rel="nofollow">Mission Python</a></li>
-<li><a href="https://nostarch.com/NLPPython" rel="nofollow">Natural Language Processing with Python and spaCy</a></li>
-<li><a href="https://nostarch.com/pythoncrashcourse2e" rel="nofollow">Python Crash Course, 2nd Edition</a></li>
-<li><a href="https://nostarch.com/pythononeliners" rel="nofollow">Python One-Liners</a></li>
-<li><a href="https://nostarch.com/real-world-python" rel="nofollow">Real-World Python</a></li>
-<li><a href="https://nostarch.com/seriouspython" rel="nofollow">Serious Python</a></li>
-<li><a href="https://nostarch.com/teachkids" rel="nofollow">Teach Your Kids to Code</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@alvapratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alva Pratt</a> on <a href="https://unsplash.com/s/photos/reading-asia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-<p> </p>
 <p> </p>
             ]]>
         </content>
