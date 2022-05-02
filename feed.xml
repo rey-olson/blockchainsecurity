@@ -153,6 +153,7 @@
 <li><a href="https://www.ethsecurity.org/">https://www.ethsecurity.org/</a> + <a href="https://docs.google.com/document/d/1ATN1jKfG0gloxyEE8qyUMn4l5orkHp3QHK1-6C-rzyY/edit">https://docs.google.com/document/d/1ATN1jKfG0gloxyEE8qyUMn4l5orkHp3QHK1-6C-rzyY/edit</a> </li>
 <li><a href="https://github.com/Certora/Tutorials">https://github.com/Certora/Tutorials</a> + <a href="https://certora.atlassian.net/wiki/spaces/CPD/pages/2916673/Getting+started">https://certora.atlassian.net/wiki/spaces/CPD/pages/2916673/Getting+started</a> </li>
 <li><a href="https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction"><span style="text-decoration: line-through;">https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html#sec-introduction</span></a><span style="text-decoration: line-through;"> </span> (✔️-&gt; <a href="https://blockchainsecurity.be/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/">article</a>)</li>
+<li><a href="https://www.youtube.com/watch?v=pJKy5HWuFK8">DeFi MOOC Lecture 12 Premiere: Practical Smart Contract Security by samczsun</a></li>
 </ul>
 <p> </p>
 <div><strong>EVM </strong></div>
@@ -209,7 +210,7 @@
             <category term="Secureum"/>
             <category term="Ethereum"/>
 
-        <updated>2022-04-24T20:00:32+02:00</updated>
+        <updated>2022-04-26T21:25:26+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blockchainsecurity.be/media/posts/43/convertkit-iUvLnysxOnQ-unsplash.jpg" alt="" />
