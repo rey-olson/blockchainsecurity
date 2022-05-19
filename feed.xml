@@ -172,6 +172,40 @@
         </content>
     </entry>
     <entry>
+        <title> Nascent&#x27;s Simple Security Toolkit</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/nascents-simple-security-toolkit/"/>
+        <id>https://blockchainsecurity.be/nascents-simple-security-toolkit/</id>
+            <category term="Security"/>
+            <category term="Lists"/>
+
+        <updated>2022-05-19T14:27:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/45/nascentxyz-logo.svg" alt="" />
+                    The Nascent team shared their collection of practical security-focused guides and checklists&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/45/nascentxyz-logo.svg" alt="" />
+                <p>The <a href="https://nascent.xyz">Nascent </a>team shared their collection of practical security-focused guides and checklists for smart contract development:</p>
+<p><a href="https://github.com/nascentxyz/simple-security-toolkit">https://github.com/nascentxyz/simple-security-toolkit</a> </p>
+<p>It covers the following 4 areas:</p>
+<ol dir="auto">
+<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/development-process.md">Development Process</a></li>
+<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md">Audit Readiness Checklist</a></li>
+<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/pre-launch-security-checklist.md">Pre-Launch Security Checklist</a></li>
+<li><a href="https://github.com/nascentxyz/simple-security-toolkit/blob/main/incident-response-plan-template.md">Incident Response Plan Template</a></li>
+</ol>
+<hr>
+<p>Someone cross-posted this on the <a href="https://spearbit.com/">Spearbit </a>Discord, and to be honest, this is one of the most practical and hands-on list of resources I have come across.🔥</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>The Anti-Ape on what&#x27;s wrong with bridges</title>
         <author>
             <name>Anonymous</name>
@@ -431,39 +465,6 @@
 <p>V3 of the DeFi Threat Matrix will be released during <a href="https://www.ethdenver.com/">ETHDenver 2022</a> (February 11-20, 2022).</p>
 <p>Illustration by <a href="https://manifoldfinance.com/">Manifold Finance</a>.</p>
 <p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Patrick McCorry&#x27;s Cryptocurrency Class 2022</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/patrick-mccorrys-cryptocurrency-class-2022/"/>
-        <id>https://blockchainsecurity.be/patrick-mccorrys-cryptocurrency-class-2022/</id>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2022-02-04T15:07:51+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/38/STEINERinternetdogs.webp" alt="" />
-                    Patrick McCorry, from Infura1, is lecturing a cryptocurrency class. Start date is&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/38/STEINERinternetdogs.webp" alt="" />
-                <p>Patrick McCorry, from <a href="https://infura.io/">Infura</a><sup>1</sup>, is lecturing a cryptocurrency class. Start date is <strong>15th March 2022.</strong></p>
-<p><em>"All lecture and teaching material is developed by Patrick McCorry. All material is open-source and it is free to access, use modify or share.</em></p>
-<p><em>The field of cryptocurrency is trust engineering. It applies cryptography, distributed systems and mechanism design as the foundation for a global and self-sustaining peer-to-peer network.</em></p>
-<p><em>This course is taught in the style of an MSc module. We'll study how something like Bitcoin can work, the implications and beauty of self-enforcing smart contracts, and focus on bringing all students up to date with state-of-the-art research in this emerging area. There is a special focus for off-chain protocols. This includes the history of payment channels (the lightning network) and validating bridges (rollups)."</em></p>
-<p><strong>Announcement:</strong> <a href="https://mirror.xyz/0xaFaBa30769374EA0F971300dE79c62Bf94B464d5/oGqGP2NOK9g7QPl1sMKkzql_Fh0P6hKbpYLZ-EkQTXU">https://mirror.xyz/0xaFaBa30769374EA0F971300dE79c62Bf94B464d5/oGqGP2NOK9g7QPl1sMKkzql_Fh0P6hKbpYLZ-EkQTXU</a> </p>
-<p><strong>Details &amp; sign up:</strong> <a href="https://cryptocurrencyclass.github.io/">https://cryptocurrencyclass.github.io/</a> </p>
-<hr>
-<p><sup>(1) </sup>Infura provides the tools and infrastructure that allow developers to easily take their blockchain application from testing to scaled deployment - with simple, reliable access to Ethereum and IPFS.</p>
-<p>Cartoon by <a href="https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog">Peter Steiner</a>.</p>
 <p> </p>
             ]]>
         </content>
