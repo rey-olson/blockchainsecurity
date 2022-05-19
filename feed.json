@@ -42,12 +42,29 @@
             "date_modified": "3210-01-01T23:59:00+01:00"
         },
         {
+            "id": "https://blockchainsecurity.be/sannys-solana-security-resources/",
+            "url": "https://blockchainsecurity.be/sannys-solana-security-resources/",
+            "title": "Sanny&#x27;s Solana security resources",
+            "summary": "I can hardly keep up with all that is going on in&hellip;",
+            "content_html": "<p>I can hardly keep up with all that is going on in the Ethereum security space, let alone the Solana security space...</p>\n<p>Cross-posted from CryptoTwitter on the SkidsDAO Discord, here is another treasure trove of Solana security resources. 👇</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"en\">There are a ton of awesome Solana Security resources out there<br><br>From validating accounts to Anchor checks to post-mortems of major hacks<br><br>If you want to learn more about auditing smart contracts and exploits on <a href=\"https://twitter.com/solana?ref_src=twsrc%5Etfw\">@solana</a>, check out these resources below 👇🧵 <a href=\"https://t.co/KucjPimqXp\">pic.twitter.com/KucjPimqXp</a></p>\n— sanny 🌸 (@0xsanny) <a href=\"https://twitter.com/0xsanny/status/1508868586890223626?ref_src=twsrc%5Etfw\">March 29, 2022</a></blockquote>\n<p>\n<script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n</p>",
+            "image": "https://blockchainsecurity.be/media/posts/46/solanalogo2.png",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+                   "Security",
+                   "Lists"
+            ],
+            "date_published": "2022-05-19T14:38:24+02:00",
+            "date_modified": "2022-05-19T14:59:28+02:00"
+        },
+        {
             "id": "https://blockchainsecurity.be/nascents-simple-security-toolkit/",
             "url": "https://blockchainsecurity.be/nascents-simple-security-toolkit/",
             "title": " Nascent&#x27;s Simple Security Toolkit",
-            "summary": "The Nascent team shared their collection of practical security-focused guides and checklists&hellip;",
-            "content_html": "<p>The <a href=\"https://nascent.xyz\">Nascent </a>team shared their collection of practical security-focused guides and checklists for smart contract development:</p>\n<p><a href=\"https://github.com/nascentxyz/simple-security-toolkit\">https://github.com/nascentxyz/simple-security-toolkit</a> </p>\n<p>It covers the following 4 areas:</p>\n<ol dir=\"auto\">\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/development-process.md\">Development Process</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md\">Audit Readiness Checklist</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/pre-launch-security-checklist.md\">Pre-Launch Security Checklist</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/incident-response-plan-template.md\">Incident Response Plan Template</a></li>\n</ol>\n<hr>\n<p>Someone cross-posted this on the <a href=\"https://spearbit.com/\">Spearbit </a>Discord, and to be honest, this is one of the most practical and hands-on list of resources I have come across.🔥</p>",
-            "image": "https://blockchainsecurity.be/media/posts/45/nascentxyz-logo.svg",
+            "summary": "The Nascent🌱 team shared their collection of practical security-focused guides and checklists&hellip;",
+            "content_html": "<p>The <a href=\"https://nascent.xyz\">Nascent</a>🌱 team shared their collection of practical security-focused guides and checklists for smart contract development:</p>\n<p><a href=\"https://github.com/nascentxyz/simple-security-toolkit\">https://github.com/nascentxyz/simple-security-toolkit</a> </p>\n<p>It covers the following 4 areas:</p>\n<ol dir=\"auto\">\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/development-process.md\">Development Process</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md\">Audit Readiness Checklist</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/pre-launch-security-checklist.md\">Pre-Launch Security Checklist</a></li>\n<li><a href=\"https://github.com/nascentxyz/simple-security-toolkit/blob/main/incident-response-plan-template.md\">Incident Response Plan Template</a></li>\n</ol>\n<hr>\n<p>Someone cross-posted this on the <a href=\"https://spearbit.com/\">Spearbit </a>Discord, and to be honest, this is one of the most practical and hands-on list of resources I have come across.🔥</p>\n<p>Photo by <a href=\"https://unsplash.com/@maxsaeling?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Max Saeling</a> on <a href=\"https://unsplash.com/s/photos/seed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a>.</p>",
+            "image": "https://blockchainsecurity.be/media/posts/45/max-saeling-GFDNXpOsQjU-unsplash.jpg",
             "author": {
                 "name": "Anonymous"
             },
@@ -56,7 +73,7 @@
                    "Lists"
             ],
             "date_published": "2022-05-19T14:24:51+02:00",
-            "date_modified": "2022-05-19T14:27:51+02:00"
+            "date_modified": "2022-05-19T14:48:38+02:00"
         },
         {
             "id": "https://blockchainsecurity.be/the-anti-ape-on-whats-wrong-with-bridges/",
@@ -157,24 +174,6 @@
             ],
             "date_published": "2022-02-20T21:04:58+01:00",
             "date_modified": "2022-02-24T21:37:20+01:00"
-        },
-        {
-            "id": "https://blockchainsecurity.be/manifold-finances-defi-threat-matrix/",
-            "url": "https://blockchainsecurity.be/manifold-finances-defi-threat-matrix/",
-            "title": "Manifold Finance&#x27;s DeFi Threat Matrix",
-            "summary": "Manifold Finance has published a great resource called \"DeFi Threat Matrix\", inspired&hellip;",
-            "content_html": "<p><a href=\"https://manifoldfinance.com/\">Manifold Finance</a> has published a great resource called \"DeFi Threat Matrix\", inspired by the <a href=\"https://attack.mitre.org/\">MITRE ATT&amp;CK<sup>®</sup></a> framework:</p>\n<p><a href=\"https://github.com/manifoldfinance/defi-threat\">https://github.com/manifoldfinance/defi-threat</a> </p>\n<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://blockchainsecurity.be/media/posts/39/defi-threat-matrix-screenshot.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-xs.png 300w ,https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-sm.png 480w ,https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-md.png 768w ,https://blockchainsecurity.be/media/posts/39/responsive/defi-threat-matrix-screenshot-lg.png 1024w\"  alt=\"\" width=\"1260\" height=\"850\">\n<figcaption >Excerpt from the DeFi Threat Matrix</figcaption>\n</figure>\n<hr>\n<p>V3 of the DeFi Threat Matrix will be released during <a href=\"https://www.ethdenver.com/\">ETHDenver 2022</a> (February 11-20, 2022).</p>\n<p>Illustration by <a href=\"https://manifoldfinance.com/\">Manifold Finance</a>.</p>\n<p> </p>\n<p> </p>",
-            "image": "https://blockchainsecurity.be/media/posts/39/Manifold-finance-image.png",
-            "author": {
-                "name": "Anonymous"
-            },
-            "tags": [
-                   "Security",
-                   "Lists",
-                   "DeFi"
-            ],
-            "date_published": "2022-02-09T22:49:42+01:00",
-            "date_modified": "2022-02-09T22:52:13+01:00"
         }
     ]
 }
