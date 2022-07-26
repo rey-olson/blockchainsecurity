@@ -125,7 +125,7 @@
 <li><a href="https://cryptoconsortium.github.io/CCSS/">https://cryptoconsortium.github.io/CCSS/</a> </li>
 <li><a href="https://www.pentestpartners.com/security-blog/blockchain-implementation-security-a-hardening-how-to/">https://www.pentestpartners.com/security-blog/blockchain-implementation-security-a-hardening-how-to/</a> </li>
 <li><a href="https://matterlabs.notion.site/Best-Practices-69868a3105e04ba0b5e15e94ea27bfc6">https://matterlabs.notion.site/Best-Practices-69868a3105e04ba0b5e15e94ea27bfc6</a> </li>
-<li><a href="https://consensys.github.io/smart-contract-best-practices/">https://consensys.github.io/smart-contract-best-practices/</a> </li>
+<li><span style="text-decoration: line-through;"><a href="https://consensys.github.io/smart-contract-best-practices/">https://consensys.github.io/smart-contract-best-practices/</a></span> (✔️-&gt;<a href="https://blockchainsecurity.be/ethereum-smart-contract-security-best-practices-by-consensys-diligence/">article</a>)</li>
 <li><a href="https://github.com/fravoll/solidity-patterns">https://github.com/fravoll/solidity-patterns</a> </li>
 <li><a href="https://secureum.substack.com/p/smart-contract-security-101-secureum">https://secureum.substack.com/p/smart-contract-security-101-secureum</a> </li>
 <li><a href="https://chain.link/bootcamp/bootcamp-2021-on-demand">https://chain.link/bootcamp/bootcamp-2021-on-demand</a>  (see chapter regarding smart contract security) </li>
@@ -170,6 +170,41 @@
 <hr>
 <p class="msg msg--highlight ">'Everybody is winging it, all the time', I came across this saying a couple of years ago and it resonated with me. It still does, after all these years. A quick search brought me back to the <a href="https://news.ycombinator.com/item?id=18527694">Hacker News post</a> discussing the (seemingly original) Guardian article <a href="https://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it">"Everyone is totally just winging it, all the time"</a>.</p>
 <p>Photo by <a href="https://unsplash.com/@dav420?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Pupaza</a> on <a href="https://unsplash.com/s/photos/fail?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ethereum Smart Contract Security Best Practices by ConsenSys Diligence</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://blockchainsecurity.be/ethereum-smart-contract-security-best-practices-by-consensys-diligence/"/>
+        <id>https://blockchainsecurity.be/ethereum-smart-contract-security-best-practices-by-consensys-diligence/</id>
+            <category term="Solidity"/>
+            <category term="Security"/>
+            <category term="Ethereum"/>
+
+        <updated>2022-07-26T16:56:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blockchainsecurity.be/media/posts/48/consensys-diligence.png" alt="" />
+                    Never dismiss something published by ConsenSys Diligence, so here you go: Other&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blockchainsecurity.be/media/posts/48/consensys-diligence.png" alt="" />
+                <p>Never dismiss something published by <a href="https://consensys.net/diligence/">ConsenSys Diligence</a>, so here you go:</p>
+<h2><a href="https://consensys.github.io/smart-contract-best-practices/">Ethereum Smart Contract Security Best Practices</a></h2>
+<ul>
+<li><a href="https://consensys.github.io/smart-contract-best-practices/general-philosophy/">General Philosophy</a> describes the smart contract security mindset</li>
+<li><a href="https://consensys.github.io/smart-contract-best-practices/development-recommendations/">Development Recommendations</a> contains examples of good code patterns</li>
+<li><a href="https://consensys.github.io/smart-contract-best-practices/attacks/">Known Attacks</a> describes the different classes of vulnerabilities to avoid</li>
+<li><a href="https://consensys.github.io/smart-contract-best-practices/security-tools/">Security Tools</a> lists tools for improving code quality, and detecting vulnerabilities</li>
+<li><a href="https://consensys.github.io/smart-contract-best-practices/bug-bounty-programs/">Bug Bounties</a> List of bug bounties in the ecosystem.</li>
+</ul>
+<hr>
+<p>Other practical best practices from SkidsDAO wrt GitHub Actions &amp; DevSecOps can be found here: <a href="https://github.com/SkidsDAO/security-policies">https://github.com/SkidsDAO/security-policies</a> 💪</p>
             ]]>
         </content>
     </entry>
@@ -424,40 +459,6 @@
 <p> </p>
 </div>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Enterprise Ethereum Alliance&#x27;s Crosschain Security Guidelines (v1.0)</title>
-        <author>
-            <name>Anonymous</name>
-        </author>
-        <link href="https://blockchainsecurity.be/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/"/>
-        <id>https://blockchainsecurity.be/enterprise-ethereum-alliances-crosschain-security-guidelines-v10/</id>
-            <category term="Security"/>
-            <category term="Ethereum"/>
-
-        <updated>2022-02-26T22:19:52+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blockchainsecurity.be/media/posts/40/mikhail-serdyukov-Bye0R34O070-unsplash.jpg" alt="" />
-                    holy fucking shit @wormholecrypto is not having a good time right now&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://blockchainsecurity.be/media/posts/40/mikhail-serdyukov-Bye0R34O070-unsplash.jpg" alt="" />
-                <blockquote class="twitter-tweet">
-<p dir="ltr" lang="en">holy fucking shit <a href="https://twitter.com/wormholecrypto?ref_src=twsrc%5Etfw">@wormholecrypto</a> is not having a good time right now <a href="https://t.co/Q6tcqAngCL">pic.twitter.com/Q6tcqAngCL</a></p>
-— samczsun (@samczsun) <a href="https://twitter.com/samczsun/status/1488974372756987906?ref_src=twsrc%5Etfw">February 2, 2022</a></blockquote>
-<p>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-<p> </p>
-<p>Another interesting piece (Thanks <a href="https://twitter.com/morphean_sec">Sleepy🌻</a> / <a href="https://discord.gg/tp9wFr7pTW">SkidsDAO</a>!) worth reading since it nicely sums up the (enormous?) challenges involved with crosschain security: </p>
-<p><a href="https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html">https://entethalliance.github.io/crosschain-interoperability/crosschainsecurityguidelines.html</a> </p>
-<hr>
-<p>Photo by <a href="https://unsplash.com/@mserdyukov?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">mikhail serdyukov</a> on <a href="https://unsplash.com/s/photos/forest-fire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
             ]]>
         </content>
     </entry>
